@@ -1,0 +1,48 @@
+safe:        false
+auto:        true
+server:      false
+server_port: 4000
+baseurl:    http://thepublicoffice.se
+# baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/thepublicoffice/_site
+# url: http://dilettant.github.com/thepublicoffice
+
+future:      true
+lsi:         false
+pygments:    false
+markdown:    maruku
+permalink:   date
+
+gravasize: 142
+
+om_projektet:
+  - team
+  - filosofi:
+    - kooperation
+    - allmanning
+    - mangfald
+    - open_source
+  - delmoment:
+    - delmoment I
+    - delmoment II
+
+koncept:
+  - sammanfattning
+  - utgangspunkter_och_perspektiv:
+    - forandringar_på_arbetsmarknaden
+    - offentliga_motesplatser_och_ratten_till_arbete
+    - betydelsen_av_offentliga_motesplatser_i_lokal_utveckling
+  - visionen_om_allmanna_kontor:
+    - allmanna_kontoret_i_praktiken
+    - brukargrupper
+    - agarformer_och_riktlinjer
+    - finansieringsformer
+    - utformning_och_innehall
+  - forslag_pa_verksamhetsformer:
+    - etablering_av_ny_verksamhet
+    - anvandning_av_tillfalligt_oanvanda_lokaler
+    - utokat_uppdrag_for_existerande_institutioner
+  - allmanna_kontor_som_politisk_fraga:
+    - arbetsmarknad
+    - kultur
+    - naringsliv
+    - utbildning
