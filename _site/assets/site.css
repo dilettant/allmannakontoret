@@ -371,7 +371,7 @@ html, body{
 header, nav, article, footer, address, section {
  display: block;
 }
-header,article,h2{
+header,article,section > h2{
   box-shadow: 0px 2px 3px rgba(0,0,0,0.39);
 }
 
@@ -451,23 +451,23 @@ nav li.contact.active a{
   color: #c20233;
 }
 
-.about h2{
+.about section > h2{
     background: #FFC600 url(img/star.png) no-repeat 25px center;
 }
 
-.index h2{
+.index section > h2{
     background: #0085bc url(img/star.png) no-repeat 25px center;
 }
 
-.concept h2{
+.concept section > h2{
   background: #00a068 url(img/star.png) no-repeat 25px center;
 }
 
-.contact h2{
+.contact section > h2{
   background: #c20233 url(img/star.png) no-repeat 25px center;
 }
 
-h2 {
+section > h2 {
  font-size: 36px;
   text-transform: uppercase;
   margin: 0;
