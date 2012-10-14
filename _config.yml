@@ -2,8 +2,8 @@ safe:        false
 auto:        true
 server:      false
 server_port: 4000
-baseurl:    http://allmannakontoret.se
-# baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/thepublicoffice/_site
+# baseurl:    http://allmannakontoret.se
+baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/allmannakontoret/_site
 # url: http://dilettant.github.com/thepublicoffice
 
 future:      true

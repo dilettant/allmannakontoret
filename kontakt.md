@@ -1,4 +1,8 @@
----layout: globaltitle: kontaktcategory: kontakt---
+---
+layout: global
+title: kontakt
+category: kontakt
+---
 
 Telefon +46 (0) 702 97 79 70
 Em-post dilettant@riseup.net
