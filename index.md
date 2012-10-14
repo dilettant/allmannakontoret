@@ -1,4 +1,8 @@
----layout: globaltitle: hemcategory: concept---
+---
+layout: global
+title: Allmänna kontoret
+category: index
+---
 
 ## Allmänna kontoret är en vision om öppna och kostnadsfria arbets- och mötesplatser
 
