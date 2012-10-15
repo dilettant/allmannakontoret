@@ -637,10 +637,11 @@ html, body{
   padding: 0;
 }
 
-header, nav, article, footer, address, section {
+.content > header, nav, article, footer, address, section {
  display: block;
 }
-header,article,section > h2{
+
+.content > header, article{
   box-shadow: 0px 2px 3px rgba(0,0,0,0.39);
 }
 
@@ -698,50 +699,73 @@ nav li a {
 
 nav li.about a:active, 
 nav li.about a:hover,
-nav li.about.active a{
+nav li.about.active a,
+
+nav li.om_projektet a:active, 
+nav li.om_projektet a:hover,
+nav li.om_projektett.active a{
   color: #fbc300;
 }
 
 nav li.home a:active, 
 nav li.home a:hover,
-nav li.home.active a{
+nav li.home.active a,
+
+nav li.hem a:active, 
+nav li.hem a:hover,
+nav li.hem.active a{
   color: #0085bc;
 }
 
 nav li.concept a:active, 
 nav li.concept a:hover,
-nav li.concept.active a{
+nav li.concept.active a,
+
+nav li.koncept a:active, 
+nav li.koncept a:hover,
+nav li.koncept.active a{
   color: #00a068;
 }
 
 nav li.contact a:active, 
 nav li.contact a:hover,
-nav li.contact.active a{
+nav li.contact.active a,
+
+nav li.kontakt a:active, 
+nav li.kontakt a:hover,
+nav li.kontakt.active a{
   color: #c20233;
 }
 
-.about section > h2{
+.about article > header > h1.entry-title,
+.om_projektet article > header > h1.entry-title{
     background: #FFC600 url(img/star.png) no-repeat 25px center;
 }
 
-.index section > h2{
+.index article > header >  h1.entry-title{
     background: #0085bc url(img/star.png) no-repeat 25px center;
 }
 
-.concept section > h2{
+.concept article > header >  h1.entry-title,
+.koncept article > header >  h1.entry-title{
   background: #00a068 url(img/star.png) no-repeat 25px center;
 }
 
-.contact section > h2{
+.contact article > header >  h1.entry-title,
+.kontakt article > header >  h1.entry-title{
   background: #c20233 url(img/star.png) no-repeat 25px center;
 }
 
-section > h2 {
+header > h1.entry-title {
  font-size: 36px;
   text-transform: uppercase;
-  margin: 0;
+  margin: 0 0 70px;
   padding: 27px 20px 20px 70px;
   color: white;
+}
+
+h2.entry-section {
+  display: none;
 }
 
 aside ul.primary{
@@ -782,12 +806,29 @@ aside ul li,
 aside ul li a{
     color: #424242;
 }
+
 article{
   background-color: white;
-  padding: 100px 65px 65px;
-  margin-bottom: 30px;
-  min-height: 500px;
 }
+
+.entry-summary,
+.hentry-content{
+  padding: 0 65px 65px;
+}
+
+.entry-summary {
+  padding-top: 80px;
+  padding-bottom: 30px;
+  margin: 0;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+
+.hentry-content{
+  min-height: 500px;
+  margin-bottom: 30px;
+}
+
 article p{
   font-size: 20px;
   line-height: 26px;
