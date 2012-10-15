@@ -9,7 +9,7 @@ Telefon +46 (0) 702 97 79 70
 E-post dilettant@riseup.net  
 
 Prenumerera på Dilettants nyhetsbrev (link)  
-Follow us on Twitter (link)  
+Följ oss Twitter (link)  
 Använd #thepublicoffice på Twitter  
 
 Postadress:  
