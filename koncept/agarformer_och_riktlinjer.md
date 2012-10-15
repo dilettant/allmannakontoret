@@ -1,6 +1,7 @@
 ---
 layout: global
 title: ägarformer och riktlinjer
+ref: agarformer_och_riktlinjer
 parent: visionen_om_allmanna_kontor
 category: koncept
 ---

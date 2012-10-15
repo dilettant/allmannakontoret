@@ -1,6 +1,7 @@
 ---
 layout: global
 title: allmänna kontoret i praktiken
+ref: allmanna_kontoret_i_praktiken
 parent: visionen_om_allmanna_kontor
 category: koncept
 ---
