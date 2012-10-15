@@ -14,7 +14,7 @@ category: om_projektet
       {% else %} width="{{site.gravasize}}" src="{{site.baseurl}}/assets/img/{{item.picture}}"
       {% endif %}
       alt="{{item.name}}">
-      <p class="grid_9 omega">{{item.content}}</p>
+      <div class="grid_9 omega"><p>{{item.content}}</p></div>
     </li>
   {% endfor %}
 </ul>
