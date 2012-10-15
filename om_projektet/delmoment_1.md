@@ -10,5 +10,5 @@ Allmänna kontoret, delmoment 1, initierades och drevs av Anders Jacobson och Jo
 
 Projekttid: 1 november – 1 juni 2012
 
-Genomfört med stöd av Kulturbryggan
+Genomfört med stöd av
 ![Kulturbryggan](/assets/img/kb.png)
