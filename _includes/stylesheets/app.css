@@ -825,14 +825,26 @@ article{
   margin-bottom: 30px;
 }
 
-.hentry-content ul{
+.hentry-content ul.team{
   margin: 0;
   list-style-type: none;
   padding: 0;
 }
 
-.hentry-content  h3{
-  
+.hentry-content ul.team li{
+  border-bottom: 1px dashed #d5d5d5;
+  padding-bottom: 20px;
+}
+
+.hentry-content h3,
+.hentry-content h4{
+  margin: 0 0 10px;
+}
+
+.hentry-content h4{
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 700;
 }
 
 article .description p{
