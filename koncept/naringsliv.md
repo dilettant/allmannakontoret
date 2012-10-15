@@ -2,7 +2,7 @@
 layout: global
 title: näringsliv
 ref: naringsliv
-parent: allmanna_kontor_som_politisk_fraga
+parent: allmanna_kontoret_som_politisk_fraga
 category: koncept
 ---
 
