@@ -14,4 +14,4 @@ Allmänna kontoret, delmoment II, drivs av Dilettant AB i samarbete med Arkitekt
 
 Projektets andra delmoment utgör en del av EU-projektet [Special Issue](http://specialissue.eu), med partners i Frankrike, Serbien, Spanien och Turkiet. Projektet fokuserar på offentlighet och diskursiva praktiker inom konstsektorn, och koordineras av Les Laboratoires d'Aubervillier, Paris.
 
-![samarbete](/assets/logos.png)
+![samarbete](/assets/img/logos.png)
