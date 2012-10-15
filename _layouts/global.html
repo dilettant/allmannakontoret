@@ -2,7 +2,9 @@
 layout: default
 ---
 <article class="entry-content">
-<h2 id="top" class="entry-title">{{page.category}}</h2>
-<h3 class="entry-summary">{{page.title | capitalize}}</h3>
+<header>
+  <h2 id="top" class="entry-title">{{page.category}}</h2>
+  <h3 class="entry-summary">{{page.title | capitalize}}</h3>
+</header>
 {{ content }}
 </article>
