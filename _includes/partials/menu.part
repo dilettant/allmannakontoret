@@ -2,5 +2,6 @@
 
 {% for cat in site.menu_main %}
       {% if cat == 'hem' %}{% assign item = 'index' %}{% else %}{% assign item = cat%}{% endif %}
-      <li{% if page.ref == item} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{item}}.html">{% if site[item] %}{{site[item]}}{% else %}{{item}}{% endif %}</a></li>
+      {% capture text %}{% if site[item] %}{{site[item]}}{% else %}{{item}}{% endif %}{% endcapture %}
+      <li{% if page.ref == item} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{item}}.html">{{text | capitalize}}</a></li>
 {% endfor %}
