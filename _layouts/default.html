@@ -5,7 +5,8 @@
   <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,700' rel='stylesheet' type='text/css'>
   <!-- <link rel="stylesheet" href="{{site.baseurl}}/assets/site.css"> -->
   <!-- <link rel="stylesheet" href="http://thepublicoffice.se/assets/site.css"> -->
-  <title>{{site.title}} • {{page.category | capitalize}} • {{page.title | capitalize}}</title>
+  {% capture title %}{% if site[page.category] %}{{site[page.category]}}{% else %}{{page.category | reaplce:'_',' '}}{% endif %}{% endcapture %}
+  <title>{{site.title}} • {{title | capitalize}} • {{page.title | capitalize}}</title>
   <script>
     document.createElement("article"); 
     document.createElement("footer"); 
