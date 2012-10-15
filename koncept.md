@@ -2,6 +2,7 @@
 layout: global
 title: koncept
 category: koncept
+main: true
 ---
 
 På denna del av hemsidan utvecklar vi kontinuerligt Allmänna kontoret som koncept. Materialet bygger på den rapport som genererats av projektets första delmoment (publicerad 1 juni 2012).

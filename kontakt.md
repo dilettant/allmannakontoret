@@ -2,6 +2,7 @@
 layout: global
 title: kontakt
 category: kontakt
+main: true
 ---
 
 Telefon +46 (0) 702 97 79 70
