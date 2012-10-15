@@ -707,13 +707,9 @@ nav li.om_projektett.active a{
   color: #fbc300;
 }
 
-nav li.home a:active, 
-nav li.home a:hover,
-nav li.home.active a,
-
-nav li.hem a:active, 
-nav li.hem a:hover,
-nav li.hem.active a{
+nav li.index a:active, 
+nav li.index a:hover,
+nav li.index.active a{
   color: #0085bc;
 }
 
@@ -817,7 +813,7 @@ article{
 }
 
 .entry-summary {
-  padding-top: 80px;
+  padding-top: 0;
   padding-bottom: 30px;
   margin: 0;
   font-size: 24px;
@@ -827,6 +823,16 @@ article{
 .hentry-content{
   min-height: 500px;
   margin-bottom: 30px;
+}
+
+.hentry-content ul{
+  margin: 0;
+  list-style-type: none;
+  padding: 0;
+}
+
+.hentry-content  h3{
+  
 }
 
 article p{
