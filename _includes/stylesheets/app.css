@@ -24,7 +24,7 @@ display: none;
 }
 
 h1.logo_sv{
-    background: url(img/logo_sv.png) no-repeat 38px center;
+    background: url(img/logo_sv.png) no-repeat 43px center;
 }
 
 h1.logo_en{
@@ -214,7 +214,7 @@ article{
 
 .entry-summary,
 .hentry-content{
-  padding: 0 65px 65px;
+  padding: 0 65px 55px 55px;
 }
 
 .entry-summary {
@@ -223,6 +223,7 @@ article{
   margin: 0;
   font-size: 24px;
   text-transform: uppercase;
+  color: #c20233;
 }
 
 .hentry-content{
@@ -286,6 +287,25 @@ article p a:active{
   font: italic 700 14px 'Lora';
   color: #00a068;
   text-decoration: underline;
+}
+
+article blockquote,
+article blockquote p{
+  margin: 0 0 20px;
+  font: italic 400 18px/24px 'Lora';
+  padding: 5px;
+  color: #797979;
+  letter-spacing: 1px;
+}
+
+.hentry-content ul{
+  padding: 0;
+}
+
+.hentry-content ul li{
+  margin-bottom: 10px;
+  font-size: 20px;
+  line-height: 25px;
 }
 
 footer {
