@@ -1,7 +1,7 @@
 ---
 layout: global
 title: utbildning
-red: utbildning
+ref: utbildning
 parent: allmanna_kontoret_som_politisk_fraga
 category: koncept
 ---
