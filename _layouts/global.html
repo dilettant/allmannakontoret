@@ -8,8 +8,13 @@ layout: default
     <h1 id="top" class="entry-title">{{title}}</h2>
     {% unless page.main%}
     <div class="entry-summary">
+      {% if subtitle %}
       <h2>{{subtitle | capitalize}}</h2>
       <h3>{{page.title | capitalize}}</h3>
+      {% else %}
+      <h2>{{page.title | capitalize}}</h2>
+      {% endif %}
+
     </div>
     {% endunless %}
   </header>
