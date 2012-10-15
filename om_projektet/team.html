@@ -6,16 +6,15 @@ category: om_projektet
 
 <ul>
   {% for item in site.categories.team reversed %}
-    <li>
-      <h3>{{item.name}}</h3>
-      <h4>{{item.role}}</h4>
-      {% if item.gravatar %}
-        <img src="{{item.gravatar}}?s={{site.gravasize}}" alt="{{item.name}}">
-      {% else %}
-        <img width="{{site.gravasize}}" src="{{site.baseurl}}/assets/img/{{item.picture}}" alt="{{item.name}}">
+    <li class="grid_7">
+      <h3 class="grid_7">{{item.name}}</h3>
+      <h4 class="grid_7">{{item.role}}</h4>
+      <img class="grid_2 alpha" 
+      {% if item.gravatar %} src="{{item.gravatar}}?s={{site.gravasize}}"
+      {% else %} width="{{site.gravasize}}" src="{{site.baseurl}}/assets/img/{{item.picture}}"
       {% endif %}
-
-      <p class="grid_4">{{item.content}}</p>
+      alt="{{item.name}}">
+      <p class="grid_5 omega">{{item.content}}</p>
     </li>
   {% endfor %}
 </ul>
