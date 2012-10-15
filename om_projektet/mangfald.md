@@ -1,6 +1,7 @@
 ---
 layout: global
 title: mångfald
+ref: mangfald
 parent: filosofi
 category: om_projektet
 ---

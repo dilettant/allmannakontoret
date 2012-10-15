@@ -1,6 +1,7 @@
 ---
 layout: global
 title: arbetsmarknad
+ref: arbetsmarknad
 parent: allmanna_kontor_som_politisk_fraga
 category: koncept
 ---

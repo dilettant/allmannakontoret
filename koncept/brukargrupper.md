@@ -1,6 +1,7 @@
 ---
 layout: global
 title: brukargrupper
+title: brukargrupper
 parent: visionen_om_allmanna_kontor
 category: koncept
 ---

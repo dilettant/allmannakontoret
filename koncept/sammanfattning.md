@@ -1,6 +1,7 @@
 ---
 layout: global
 title: sammanfattning
+ref: sammanfattning
 category: koncept
 ---
 

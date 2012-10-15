@@ -1,6 +1,7 @@
 ---
 layout: global
 title: delmoment
+ref: delmoment
 category: om_projektet
 ---
 

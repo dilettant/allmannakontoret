@@ -1,6 +1,7 @@
 ---
 layout: global
 title: filosofi
+ref: filosofi
 category: om_projektet
 ---
 

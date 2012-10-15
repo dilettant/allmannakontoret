@@ -1,6 +1,7 @@
 ---
 layout: global
 title: allmänning
+ref: allmanning
 parent: filosofi
 category: om_projektet
 ---

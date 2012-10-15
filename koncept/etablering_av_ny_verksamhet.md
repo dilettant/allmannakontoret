@@ -1,6 +1,7 @@
 ---
 layout: global
 title: etablering av ny verksamhet 
+ref: etablering_av_ny_verksamhet 
 parent: forslag_pa_verksamhetsformer
 category: koncept
 ---

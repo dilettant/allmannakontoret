@@ -1,6 +1,7 @@
 ---
 layout: global
 title: kooperation
+ref: kooperation
 parent: filosofi
 category: om_projektet
 ---

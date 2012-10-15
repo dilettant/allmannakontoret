@@ -1,6 +1,7 @@
 ---
 layout: global
 title: betydelsen av offentliga mötesplatser i lokal utveckling
+ref: betydelsen_av_offentliga_motesplatser_i_lokal_utveckling
 parent: utgangspunkter_och_perspektiv
 category: koncept
 ---

@@ -1,6 +1,7 @@
 ---
 layout: global
 title: förändringar på arbetsmarknaden
+ref: forandringar_pa_arbetsmarknaden
 parent: utgangspunkter_och_perspektiv
 category: koncept
 ---

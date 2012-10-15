@@ -1,6 +1,7 @@
 ---
 layout: global
 title: finansieringsformer
+ref: finansieringsformer
 parent: visionen_om_allmanna_kontor
 category: koncept
 ---

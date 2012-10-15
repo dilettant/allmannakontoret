@@ -1,6 +1,7 @@
 ---
 layout: global
 title: open source
+ref: open_source
 parent: filosofi
 category: om_projektet
 ---

@@ -1,6 +1,7 @@
 ---
 layout: global
 title: användning av tillfälligt oanvända lokaler
+ref: anvandning_av_tillfalligt_oanvanda_lokaler
 parent: forslag_pa_verksamhetsformer
 category: koncept
 ---

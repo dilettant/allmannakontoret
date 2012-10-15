@@ -1,6 +1,7 @@
 ---
 layout: global
 title: utformning och innehåll
+ref: utformning_och_innehall
 parent: visionen_om_allmanna_kontor
 category: koncept
 ---

@@ -1,6 +1,7 @@
 ---
 layout: global
 title: offentliga mötesplatser och rätten till arbete
+ref: offentliga_motesplatser_och_ratten_till_arbete
 parent: utgangspunkter_och_perspektiv
 category: koncept
 ---
