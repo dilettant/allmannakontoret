@@ -34,6 +34,22 @@ h1.logo {
  background-color: #B9B9B3;
 }
 
+#postit {
+  background: url(img/banner.png) no-repeat left top;
+  width: 380px;
+  height: 210px;
+  font-size: 0;
+  position: relative;
+  top: 90px;
+  left: 300px;
+  padding-right: 80px;
+  margin-left: 0;
+  padding-left: 0;
+  text-align: center;
+  z-index: 1000;
+  text-indent: -9999px;
+}
+
 nav ul{
   font-weight: 700;
   list-style-type: none;
