@@ -41,14 +41,14 @@ h1.logo {
   height: 210px;
   font-size: 0;
   position: relative;
-  left: 338px;
+  left: 288px;
   padding-right: 80px;
   margin-left: 0;
   padding-left: 0;
   text-align: center;
   z-index: 1000;
   text-indent: -9999px;
-  top: 106px;
+  top: 46px;
 }
 
 nav ul{
