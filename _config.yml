@@ -31,7 +31,7 @@ menu_om_projektet:
   - team
   - filosofi:
     - kooperation
-    - allmanning
+    - offentlighet
     - mangfald
     - open_source
   - delmoment:
@@ -68,7 +68,7 @@ menu_koncept:
 
 index: Hem
 om_projektet : Om projektet
-allmanning : Allmänning
+offentlighet : Offentlighet
 mangfald : Mångfald
 delmoment_I : Delmoment 1
 delmoment_II : Delmoment 2
