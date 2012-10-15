@@ -10,7 +10,7 @@ I det samtida välfärdssamhället tillhandahålls eller subventioneras offentli
   
 De offentliga platserna har potential att genom sin tillgänglighet skapa miljöer där många olika typer av människor känner sig välkomna. Idén om allmänna kontor föreslår att de möjligheter som tillhandahålls medborgarna genom skolor, bibliotek, kulturhus, allemansrätten osv. även bör omfatta de rumsliga och fysiska aspekterna av människors arbetsliv, givet den utveckling på arbetsmarknader och i arbetssätt som beskrivs ovan. I denna situation blir det relevant att applicera formuleringar om lika rätt till arbete och rättvisa arbetsvillkor:
 
-> *"Rätten till arbete innebär inte en ovillkorlig rätt till ett arbete, utan en skyldighet för staterna att vidta åtgärder som syftar till att avskaffa arbetslösheten. Alla människor har också rätt till gynnsamma och rättvisa arbetsvillkor, bland annat en ersättning som är skälig och tillräcklig för att ge familjen en godtagbar tillvaro, samt lika lön för lika arbete. Dessutom ska alla ha trygga och sunda arbetsförhållanden."* (2)
+> "Rätten till arbete innebär inte en ovillkorlig rätt till ett arbete, utan en skyldighet för staterna att vidta åtgärder som syftar till att avskaffa arbetslösheten. Alla människor har också rätt till gynnsamma och rättvisa arbetsvillkor, bland annat en ersättning som är skälig och tillräcklig för att ge familjen en godtagbar tillvaro, samt lika lön för lika arbete. Dessutom ska alla ha trygga och sunda arbetsförhållanden." (2)
 
 ------------
 (2) Se Rätten till arbete (www). Hämtad från regeringens webbplats om mänskliga rättigheter, http://www.manskligarattigheter.gov.se. Publicerat 17 april 2012. Hämtat 1 juni 2012.
