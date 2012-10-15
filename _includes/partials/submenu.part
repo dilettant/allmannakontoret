@@ -1,4 +1,3 @@
-{{page.url}}
 <nav>
   <ul class="primary">
     {% assign current = page.category%}
