@@ -183,6 +183,7 @@ article{
 .entry-summary,
 .hentry-content{
   padding: 0 65px 65px;
+  border-bottom-width: 1px;
 }
 
 .entry-summary {
@@ -212,12 +213,13 @@ article{
 
 .hentry-content h3,
 .hentry-content h4{
-  margin: 0 0 10px;
+  margin: 0 0 5px;
 }
 
 .hentry-content h4{
   color: #797979;
   font: italic 700 14px 'Lora';
+  margin-bottom: 20px;
 }
 
 article .description p{
