@@ -233,6 +233,10 @@ article{
   margin-bottom: 20px;
 }
 
+.hentry-content ul.team li:last-child{
+  border-bottom-style: hidden;
+}
+
 .hentry-content h3,
 .hentry-content h4{
   margin: 0 0 5px;
