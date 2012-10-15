@@ -621,6 +621,7 @@ body {
 }
 
 
+
 html{
   -webkit-text-stroke: 0.15px;
   background: url(img/grid.png) repeat;
@@ -643,8 +644,16 @@ html, body{
 display: none;  
 }
 
+h1.logo_sv{
+    background: url(img/logo_sv.png) no-repeat 38px center;
+}
+
+h1.logo_en{
+    background: url(img/logo_en.png) no-repeat 38px center;
+}
+
+
 h1.logo {
-  background: url(img/logo.png) no-repeat 38px center;
   text-indent: -9999px;
   width: 212px;
   height: 164px;
@@ -653,6 +662,22 @@ h1.logo {
 
 .content > header,footer {
  background-color: #B9B9B3;
+}
+
+#postit {
+  background: url(img/banner.png) no-repeat left top;
+  width: 380px;
+  height: 210px;
+  font-size: 0;
+  position: relative;
+  left: 288px;
+  padding-right: 80px;
+  margin-left: 0;
+  padding-left: 0;
+  text-align: center;
+  z-index: 1000;
+  text-indent: -9999px;
+  top: 46px;
 }
 
 nav ul{
@@ -687,16 +712,14 @@ nav li a {
   text-decoration:none; 
 }
 
-nav li.about a:active, 
-nav li.about a:hover,
-nav li.about.active a,
-
-nav li.om_projektet a:active, 
-nav li.om_projektet a:hover,
-nav li.om_projektett.active a{
+li.about a:active, 
+li.about a:hover,
+li.about.active a,
+li.om_projektet a:active, 
+li.om_projektet a:hover,
+li.om_projektet.active a{
   color: #fbc300;
 }
-
 nav li.index a:active, 
 nav li.index a:hover,
 nav li.index.active a{
@@ -706,7 +729,6 @@ nav li.index.active a{
 nav li.concept a:active, 
 nav li.concept a:hover,
 nav li.concept.active a,
-
 nav li.koncept a:active, 
 nav li.koncept a:hover,
 nav li.koncept.active a{
@@ -782,13 +804,24 @@ aside ul.secondary li{
   border-bottom-color: #a9a9a9;
 }
 
-aside ul.primary li.active a,
-aside ul.secondary li.active a{
+.om_projektet aside ul li.active a,
+.about aside ul li.active a{
+  color: #FFC600;
+}
+
+.concept aside ul li.active a,
+.koncept aside ul li.active a{
   color: #00a068;
+}
+
+.kontakt aside ul li.active a,
+.contact aside ul li.active a{
+  color: #c20233;
 }
 
 aside ul.secondary li a{
   color: #666;
+  text-transform: capitalize;
 }
 
 aside ul li,
@@ -830,6 +863,10 @@ article{
   margin-bottom: 20px;
 }
 
+.hentry-content ul.team li:last-child{
+  border-bottom-style: hidden;
+}
+
 .hentry-content h3,
 .hentry-content h4{
   margin: 0 0 5px;
@@ -857,6 +894,21 @@ article p{
   line-height: 26px;
   margin-top: 0;
 }
+
+article p a:link,
+article p a:visited{
+  font: italic 700 14px 'Lora';
+  color: #00a068;
+  text-decoration: none;
+}
+
+article p a:hover,
+article p a:active{
+  font: italic 700 14px 'Lora';
+  color: #00a068;
+  text-decoration: underline;
+}
+
 footer {
  text-align:center;
   padding: 20px;

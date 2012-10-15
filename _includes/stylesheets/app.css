@@ -23,8 +23,16 @@ html, body{
 display: none;  
 }
 
+h1.logo_sv{
+    background: url(img/logo_sv.png) no-repeat 38px center;
+}
+
+h1.logo_en{
+    background: url(img/logo_en.png) no-repeat 38px center;
+}
+
+
 h1.logo {
-  background: url(img/logo.png) no-repeat 38px center;
   text-indent: -9999px;
   width: 212px;
   height: 164px;

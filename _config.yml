@@ -11,6 +11,7 @@ server:      false
 title: Allmänna kontoret
 baseurl:    http://allmannakontoret.se
 # baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/allmannakontoret/_site
+lang: sv
 gravasize: 142
 
 # MENUS
@@ -34,7 +35,7 @@ menu_om_projektet:
     - mangfald
     - open_source
   - delmoment:
-    - delmoment_I
+    - delmoment_2
     - delmoment_II
 
 # CONCEPT
@@ -69,8 +70,8 @@ index: Hem
 om_projektet : Om projektet
 allmanning : Allmänning
 mangfald : Mångfald
-delmoment_I : Delmoment I
-delmoment_II : Delmoment II
+delmoment_I : Delmoment 2
+delmoment_II : Delmoment 2
 sammanfattning : Sammanfattning
 utgangspunkter_och_perspektiv : Utgångspunkter och perspektiv
 forandringar_pa_arbetsmarknaden : Förändringar på arbetsmarknaden
