@@ -12,7 +12,7 @@ Detta innebär att förslaget, för att nå ett brett genomslag, förutsätter e
 	
 Rimligtvis bör det huvudsakliga ekonomiska ansvaret ligga på kommunerna, med stöd från statlig politisk nivå. Det är även möjligt att tänka sig att projektet initieras från statlig nivå, i formen av en utredning eller ett myndighetsuppdrag om samverkan mellan berörda myndigheter.
 
-* Frågan om konkurrens med befintliga företag och aktörer*  
+*Frågan om konkurrens med befintliga företag och aktörer*  
 Idén om allmänna kontor har mött frågor och synpunkter gällande konkurrensproblematik. Kritiken ligger då i att allmänna kontor skulle göra det svårt för existerande aktörer som hyr ut arbetslokaler.
 	
 Slutsatsen i denna rapport, avseende frågan om eventuell snedvridning av konkurrens, är att alla typer av offentliga investeringar påverkar och interagerar med olika marknader. I slutändan handlar det om politiska beslut gällande vilken infrastruktur samhället ska erbjuda samtliga medborgare.
