@@ -6,7 +6,12 @@
   <!-- <link rel="stylesheet" href="{{site.baseurl}}/assets/site.css"> -->
   <!-- <link rel="stylesheet" href="http://thepublicoffice.se/assets/site.css"> -->
   {% capture title %}{% if site[page.category] %}{{site[page.category]}}{% else %}{{page.category | reaplce:'_',' '}}{% endif %}{% endcapture %}
+  {% capture subtitle %}{% if site[page.parent] %}{{site[page.parent]}}{% else %}{{page.parent | replace:'_', ''}}{% endif %}{% endcapture %}
+  {% if page.parent %}
+  <title>{{site.title}} • {{title | capitalize}} • {{subtitle | capitalize}} • {{page.title | capitalize}}</title>
+  {% else %}
   <title>{{site.title}} • {{title | capitalize}} • {{page.title | capitalize}}</title>
+  {% endif %}
   <script>
     document.createElement("article"); 
     document.createElement("footer"); 
