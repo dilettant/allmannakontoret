@@ -1,5 +1,6 @@
 
 
+
 html{
   -webkit-text-stroke: 0.15px;
   background: url(img/grid.png) repeat;
@@ -82,16 +83,14 @@ nav li a {
   text-decoration:none; 
 }
 
-nav li.about a:active, 
-nav li.about a:hover,
-nav li.about.active a,
-
-nav li.om_projektet a:active, 
-nav li.om_projektet a:hover,
-nav li.om_projektett.active a{
+li.about a:active, 
+li.about a:hover,
+li.about.active a,
+li.om_projektet a:active, 
+li.om_projektet a:hover,
+li.om_projektet.active a{
   color: #fbc300;
 }
-
 nav li.index a:active, 
 nav li.index a:hover,
 nav li.index.active a{
@@ -101,7 +100,6 @@ nav li.index.active a{
 nav li.concept a:active, 
 nav li.concept a:hover,
 nav li.concept.active a,
-
 nav li.koncept a:active, 
 nav li.koncept a:hover,
 nav li.koncept.active a{
