@@ -12,7 +12,8 @@
 
         {% if len %}
 
-          <li{% if page.ref == item} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{% if site[item] %}{{site[item]}}{% else %}{{item}}{% endif %}</a></li>
+          {% capture text %}{% if site[item] %}{{site[item]}}{% else %}{{item}}{% endif %}{% endcapture %}
+          <li{% if page.ref == item} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{{text | capitalize}}</a></li>
 
           {% assign nsec = sections | size %}
           
@@ -24,14 +25,16 @@
             {% for i in nsec %}
           
               {% assign item = sections[forloop.index0]] %}
-              <li{% if page.ref == item | replace:'_',' ' %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{% if site[item] %}{{site[item]}}{% else %}{{item}}{% endif %}</a></li>
+              {% capture text %}{% if site[item] %}{{site[item]}}{% else %}{{item}}{% endif %}{% endcapture %}
+              <li{% if page.ref == item | replace:'_',' ' %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{{text | capitalize}}</a></li>
           
             {% endfor %}
             </ul>
           {% endif %}
         {% else %}
           {% assign item = cat%}
-          <li{% if page.ref == item | replace:'_',' '} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{% if site[item] %}{{site[item]}}{% else %}{{item}}{% endif %}</a></li>
+          {% capture text %}{% if site[item] %}{{site[item]}}{% else %}{{item}}{% endif %}{% endcapture %}
+          <li{% if page.ref == item | replace:'_',' '} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{{text | capitalize}}</a></li>
         {% endif %}
 
       {% endfor %}
