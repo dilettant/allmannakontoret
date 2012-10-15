@@ -264,6 +264,21 @@ article p{
   line-height: 26px;
   margin-top: 0;
 }
+
+article p a:link,
+article p a:visited{
+  font: italic 700 14px 'Lora';
+  color: #00a068;
+  text-decoration: none;
+}
+
+article p a:hover,
+article p a:active{
+  font: italic 700 14px 'Lora';
+  color: #00a068;
+  text-decoration: underline;
+}
+
 footer {
  text-align:center;
   padding: 20px;
