@@ -177,9 +177,19 @@ aside ul.secondary li{
   border-bottom-color: #a9a9a9;
 }
 
-aside ul.primary li.active a,
-aside ul.secondary li.active a{
+.om_projektet aside ul li.active a,
+.about aside ul li.active a{
+  color: #FFC600;
+}
+
+.concept aside ul li.active a,
+.koncept aside ul li.active a{
   color: #00a068;
+}
+
+.kontakt aside ul li.active a,
+.contact aside ul li.active a{
+  color: #c20233;
 }
 
 aside ul.secondary li a{
