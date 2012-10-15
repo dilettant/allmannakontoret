@@ -11,7 +11,6 @@
         {% assign len = item.size %}
 
         {% if len %}
-
           {% capture text %}{% if site[item] %}{{site[item]}}{% else %}{{item | replace:'_',' '}}{% endif %}{% endcapture %}
           <li{% if page.ref == item} %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{{text | capitalize}}</a></li>
 
