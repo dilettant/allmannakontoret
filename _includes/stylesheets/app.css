@@ -276,14 +276,18 @@ article p{
 }
 
 article p a:link,
-article p a:visited{
+article p a:visited,
+footer p a:link,
+footer p a:visited{
   font: italic 700 14px 'Lora';
   color: #00a068;
   text-decoration: none;
 }
 
 article p a:hover,
-article p a:active{
+article p a:active,
+footer p a:hover,
+footer p a:active{
   font: italic 700 14px 'Lora';
   color: #00a068;
   text-decoration: underline;
