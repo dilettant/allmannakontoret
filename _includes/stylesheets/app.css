@@ -41,7 +41,6 @@ h1.logo {
   height: 210px;
   font-size: 0;
   position: relative;
-  top: 90px;
   left: 300px;
   padding-right: 80px;
   margin-left: 0;
@@ -49,6 +48,7 @@ h1.logo {
   text-align: center;
   z-index: 1000;
   text-indent: -9999px;
+  top: 70px;
 }
 
 nav ul{
