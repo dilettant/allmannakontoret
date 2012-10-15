@@ -8,7 +8,7 @@ category: koncept
 
 Arbetsmarknaderna förändras, och det går i dag att se en tydlig utveckling mot en växande andel frilansare, korttidsanställda och ensamföretagare. Människor och företag är i dag långt mer geografiskt mobila än tidigare, och med nya kommunikationsteknologier kan arbete numera ske i princip när som helst och var som helst.
 	
-Som en följd av detta arbetar fler och fler hemifrån, på kaféer, bibliotek osv. Denna "arbetsplatslöshet" betyder att många i dag saknar tillgång till den gemenskap, stabilitet och kompetensutveckling som det kan innebära att ha en arbetsplats.1 Denna situation kräver nya typer av analyser och politiska insatser.
+Som en följd av detta arbetar fler och fler hemifrån, på kaféer, bibliotek osv. Denna "arbetsplatslöshet" betyder att många i dag saknar tillgång till den gemenskap, stabilitet och kompetensutveckling som det kan innebära att ha en arbetsplats.(1) Denna situation kräver nya typer av analyser och politiska insatser.
 	
 Den fasta anställningen är i många branscher ett minne blott, och det finns stora skillnader i trygghet och förmåner mellan den som är anställd och den som driver eget. Företagare och entreprenörer är omhuldade i den politiska diskussionen, men det görs få substantiella insatser för att förbättra den prekära situation som det innebär att "göra det själv".
 	
