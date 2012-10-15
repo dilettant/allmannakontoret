@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="hentry">
   <header>
-    <h1 id="top" class="entry-title">{{page.category}}</h2>
+    <h1 id="top" class="entry-title">{% if site[page.category] %}{{site[page.category]}}{% else %}{{page.category}}{% endif %}</h2>
     <h2 class="entry-summary">{{page.title | capitalize}}</h3>
   </header>
   <div class="hentry-content">{{ content }}</div>
