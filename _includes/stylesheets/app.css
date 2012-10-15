@@ -43,19 +43,16 @@ h1.logo {
  background-color: #B9B9B3;
 }
 
-#postit {
+#postit img{
   width: 380px;
   height: 230px;
-  font-size: 0;
   position: relative;
   left: 288px;
-  padding-right: 80px;
-  margin-left: 0;
-  padding-left: 0;
-  text-align: center;
-  z-index: 1000;
-  text-indent: -9999px;
   top: 46px;
+}
+
+#postit img a{
+  text-decoration: none;
 }
 
 nav ul{
