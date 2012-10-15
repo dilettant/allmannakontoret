@@ -3,8 +3,9 @@
 <head>
   <meta charset=utf-8>
   <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,700' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="http://thepublicoffice.se/assets/site.css">
-  <title>The public office</title>
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/site.css">
+  <!-- <link rel="stylesheet" href="http://thepublicoffice.se/assets/site.css"> -->
+  <title>{{site.title}}</title>
   <script>
     document.createElement("article"); 
     document.createElement("footer"); 
@@ -14,25 +15,22 @@
   </script>
 </head>
 <body>
-  <div class="container_12 {{page.category}}">
-    <div class="grid_12">
+  <div class="container_24 {{page.category}}">
+    <div class="grid_24">
 
-      <h1 class="grid_3 alpha">The public office</h1>
-      <header class="grid_9 omega">
+      <h1 class="grid_7 alpha">{{site.title}}</h1>
+      <header class="grid_17 omega">
           <nav>
-              <ul class="grid_3 alpha">
-                  <li class="{% assign item = 'index'%}home{% if page.category == item %} active{% endif %}"><a href="{{site.baseurl}}/{{item}}.html">Hem</a></li>
-                  <li class="{% assign item = 'om_projektet'%}about{% if page.category == item %} active{% endif %}"><a href="{{site.baseurl}}/{{item}}.html">Om projektet</a></li>
-                  <li class="{% assign item = 'koncept'%}concept{% if page.category == item %} active{% endif %}"><a href="{{site.baseurl}}/{{item}}.html">Koncept</a></li>
-                  <li class="{% assign item = 'kontakt'%}contact{% if page.category == item %} active{% endif %}"><a href="{{site.baseurl}}/{{item}}.html">Kontakt</a></li>
+              <ul class="grid_6 alpha">
+                {% include partials/menu.part %}
               </ul>
           </nav>
       </header>
       <br class="clear"/>
-      <aside class="grid_3 alpha">
+      <aside class="grid_7 alpha">
         {% include partials/submenu.part %}
       </aside>
-      <section class="grid_9 omega ">
+      <section class="grid_17 omega hentry">
         {{content}}  
       </section>
     </div>

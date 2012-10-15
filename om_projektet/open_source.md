@@ -1,5 +1,9 @@
----layout: globaltitle: open source
-parent: filosoficategory: om projektet---
+---
+layout: global
+title: open source
+parent: filosofi
+category: om_projektet
+---
 
 Allmänna kontoret är ett Open Source-initiativ. Detta innebär att alla idéer, metoder och material som produceras eller sammanställs under projektet, är tillgängligt för alla att använda – eftersom vi tror att delad kunskap kan främja samverkan och breda förändringsprocesser.
 

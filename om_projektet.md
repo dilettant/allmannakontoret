@@ -1,7 +1,7 @@
 ---
 layout: global
 title: om projektet
-category: om projektet
+category: om_projektet
 ---
 
 Allmänna kontoret är ett långsiktigt utvecklingsprojekt initierat av Dilettant AB. Projektet syftar till att artikulera en idé om öppna och kostnadsfria arbets- och mötesplatser, där medborgare ges möjlighet att bedriva arbete och fortbildning. Fundamentet i idén om allmänna kontor handlar om att skapa kostnadsfria och demokratiskt tillgängliga strukturer för arbete, där människors tid och kompetenser kan delas och berika varandra.

@@ -1,4 +1,8 @@
----layout: globaltitle: delmomentcategory: om projektet---
+---
+layout: global
+title: delmoment
+category: om_projektet
+---
 
 Idén om Allmänna kontor har utvecklats i olika former och artikuleringar sedan 2006. Under 2011 formulerades och lanserades konceptet i form av ett långsiktigt utvecklingsprojekt.
 

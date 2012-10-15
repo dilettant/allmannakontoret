@@ -1,4 +1,8 @@
----layout: globaltitle: sammanfattningcategory: koncept---
+---
+layout: global
+title: sammanfattning
+category: koncept
+---
 
 Visionen om allmänna kontor innebär öppna och kostnadsfria arbets- och mötesplatser där medborgare ges möjlighet att bedriva arbete och fortbildning. Fundamentet i idén handlar om att skapa kostnadsfria och demokratiskt tillgängliga strukturer för arbete, där människors tid och kompetenser kan delas och berika varandra.  
 

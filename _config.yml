@@ -1,20 +1,32 @@
+# DEFAULTS
+# ========
+
 safe:        false
 auto:        true
 server:      false
-server_port: 4000
+
+# SITE VARS
+# =========
+
+title: Allmänna kontoret
 # baseurl:    http://allmannakontoret.se
 baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/allmannakontoret/_site
-# url: http://dilettant.github.com/thepublicoffice
-
-future:      true
-lsi:         false
-pygments:    false
-markdown:    maruku
-permalink:   date
-
 gravasize: 142
 
-om_projektet:
+# MENUS
+# =====
+
+# MAIN
+# -----
+menu_main:
+  - hem
+  - om_projektet
+  - koncept
+  - kontakt
+
+# ABOUT
+# -----
+menu_om_projektet:
   - team
   - filosofi:
     - kooperation
@@ -25,7 +37,9 @@ om_projektet:
     - delmoment_I
     - delmoment_II
 
-koncept:
+# CONCEPT
+# ------
+menu_koncept:
   - sammanfattning
   - utgangspunkter_och_perspektiv:
     - forandringar_pa_arbetsmarknaden
@@ -46,3 +60,33 @@ koncept:
     - kultur
     - naringsliv
     - utbildning
+
+
+# DICTIONARY
+# ==========
+
+index: hem
+om_projektet : om projektet
+allmanning : allmänning
+mangfald : mångfald
+delmoment_I : delmoment I
+delmoment_II : delmoment II
+sammanfattning : sammanfattning
+utgangspunkter_och_perspektiv : utgångspunkter och perspektiv
+forandringar_pa_arbetsmarknaden : förändringar på arbetsmarknaden
+offentliga_motesplatser_och_ratten_till_arbete : offentliga mötesplatser och rätten till arbete
+betydelsen_av_offentliga_motesplatser_i_lokal_utveckling : betydelsen av offentliga mötesplatser i lokal utveckling
+visionen_om_allmanna_kontor : visionen om allmänna kontor
+allmanna_kontoret_i_praktiken : allmänna kontoret i praktiken
+brukargrupper : brukargrupper
+agarformer_och_riktlinjer : ägarformer och riktlinjer
+utformning_och_innehall : utformning och innehåll
+forslag_pa_verksamhetsformer : förslag på verksamhetsformer
+etablering_av_ny_verksamhet : etablering av ny verksamhet
+anvandning_av_tillfalligt_oanvanda_lokaler : användning av tillfälligt oanvända lokaler
+utokat_uppdrag_for_existerande_institutioner : utökat uppdrag for existerande institutioner
+allmanna_kontor_som_politisk_fraga : allmänna kontor som politisk fråga
+arbetsmarknad : arbetsmarknad
+naringsliv : näringsliv
+utbildning : utbildning
+om_projektet: om projektet

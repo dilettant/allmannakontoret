@@ -1,5 +1,9 @@
----layout: globaltitle: delmoment II
-parent: delmomentcategory: om projektet---
+---
+layout: global
+title: delmoment II
+parent: delmoment
+category: om_projektet
+---
 
 Den andra och nuvarande fasen syftar till att öppna upp processen och att praktiskt testa konceptet Allmänna kontoret. Den 30 oktober - 30 november 2012 kommer ett tillfälligt Allmänt kontor att vara öppet på Arkitekturmuseet i Stockholm. De som kommer för att använda kontoret är välkomna att arbeta självständigt eller i grupp, studera, organisera föreläsningar, samtal, utbyta idéer, knyta kontakter osv.
 

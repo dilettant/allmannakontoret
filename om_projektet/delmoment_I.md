@@ -1,5 +1,9 @@
----layout: globaltitle: delmoment I
-parent: delmomentcategory: om projektet---
+---
+layout: global
+title: delmoment I
+parent: delmoment
+category: om_projektet
+---
 
 Allmänna kontoret, delmoment I, initierades och drevs av Anders Jacobson och Johan Thelander, Dilettant AB. Möten hölls med ett antal aktörer inom kulturpolitik, offentlig förvaltning, stadsutveckling och arkitektur. Diskussioner fördes även i öppna sammanhang sås workshops och festivaler med konstnärer, entreprenörer, teoretiker och studenter. Den projektrapport som producerades under projektets första delmoment ligger till grund för det vidare arbetet med att utveckla konceptet.
 
