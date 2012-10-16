@@ -12,3 +12,4 @@ Nya tider har förändrat förutsättningarna för det vi uppfattar som gemensam
 
 
 Med Karin Bradley (Urbana och regionala studier/Institutionen för Samhällsplanering och miljö, KTH), Monica Fundin Pourshahidi (Arkitekturmuseet). Hör även Dilettant berätta mer om projektet Allmänna kontoret. Välkommen på samtal och mingel!
+
