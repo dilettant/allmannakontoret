@@ -6,7 +6,7 @@ parent: visionen_om_allmanna_kontor
 category: koncept
 ---
 
-Ett allmänt kontor är en öppen och kostnadsfri arbets- och mötesplats där medborgare ges möjlighet att bedriva arbete och fortbildning.
+Ett allmänt kontor är en öppen och kostnadsfri arbets- och mötesplats där allmänheten ges möjlighet att bedriva arbete och fortbildning.
   
 De allmänna kontorens fundament utgörs av en plats med fri tillgång till arbetsplats samt internetuppkoppling, el och tillgång till basal kontorsutrustning. Ett antal avskilda mötesrum och lånedatorer kan bokas kostnadsfritt. Brukaren kan använda det allmänna kontoret för regelbundet eller tillfälligt arbete.
   
