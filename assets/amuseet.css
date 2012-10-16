@@ -163,12 +163,13 @@ hgroup.event h3{
 }
 
 hgroup.event h4{
-  font-style: italic;
-  font-size: 18px;
+  font-size: 16px;
+   font-style: italic;
+  font-family: 'Lora';
   font-weight: 700;
   color: #ababa6;
   padding: 0;
-  margin: 10px 0;
+  margin: 0 0 20px;
 }
 
 hgroup.event h3,
