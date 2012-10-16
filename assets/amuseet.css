@@ -1,5 +1,5 @@
 html{
-  background-image: url(/img/grid.png);
+  background-image: url(/assets/img/grid.png);
 }
 
 body{
@@ -81,7 +81,7 @@ hgroup.dates p {
 }
 
 h1.logo a{
-  background: url(/img/logo_sv.png) no-repeat;
+  background: url(/assets/img/logo_sv.png) no-repeat;
   height: 235px;
   width: 308px;
   display:block;
@@ -132,7 +132,7 @@ aside ul li a:active{
 }
 
 hgroup.event {
-  background: #fff url(/img/frame.png) no-repeat;
+  background: #fff url(/assets/img/frame.png) no-repeat;
   padding: 30px 30px 70px;
   width: 470px;
   height: 390px;
@@ -198,7 +198,7 @@ article h2 {
   border-bottom-style: solid;
   padding-bottom: 20px;
   padding-left: 50px;
-  background: url(/img/x.png) no-repeat 0 38px;
+  background: url(/assets/img/x.png) no-repeat 0 38px;
   padding-top: 40px;
   margin-top: 10px;
   margin-bottom: 30px;
