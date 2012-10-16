@@ -15,4 +15,4 @@ Rimligtvis bör det huvudsakliga ekonomiska ansvaret ligga på kommunerna, med s
 *Frågan om konkurrens med befintliga företag och aktörer*  
 Idén om allmänna kontor har mött frågor och synpunkter gällande konkurrensproblematik. Kritiken ligger då i att allmänna kontor skulle göra det svårt för existerande aktörer som hyr ut arbetslokaler.
 	
-Slutsatsen i denna rapport, avseende frågan om eventuell snedvridning av konkurrens, är att alla typer av offentliga investeringar påverkar och interagerar med olika marknader. I slutändan handlar det om politiska beslut gällande vilken infrastruktur samhället ska erbjuda samtliga medborgare.
+Slutsatsen i denna rapport, avseende frågan om eventuell snedvridning av konkurrens, är att alla typer av offentliga investeringar påverkar och interagerar med olika marknader. I slutändan handlar det om politiska beslut gällande vilken infrastruktur samhället ska tillgängliggöra för alla.
