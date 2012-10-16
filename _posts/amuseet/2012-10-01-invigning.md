@@ -6,7 +6,8 @@ headline: "30 oktober 18.00"
 ref: invigning
 ---
 
-#### Nya gemenskaper – vad betyder det allmänna idag? 
+#### Nya gemenskaper – vad betyder det allmänna idag?
+
 Nya tider har förändrat förutsättningarna för det vi uppfattar som gemensamt. Hur har synen på, och bruket av, gemensamma miljöer förändrats de senaste årtiondena? Vilken funktion skulle allmänna kontor kunna fylla?           
 
 
