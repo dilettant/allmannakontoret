@@ -1,3 +1,5 @@
+/* @override http://allmannakontoret.se/assets/amuseet.css */
+
 html{
   background-image: url(/assets/img/grid.png);
 }
@@ -202,6 +204,13 @@ article h2 {
   padding-top: 40px;
   margin-top: 10px;
   margin-bottom: 30px;
+}
+
+article h3 {
+  color: #ababa6;
+  font: italic 700 17px 'Lora';
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 footer{
