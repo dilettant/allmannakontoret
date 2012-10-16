@@ -5,4 +5,4 @@ title: Välkommen
 ref: valkommen
 ---
 
-Välkommen till öppningskvällen for Allmänna kontoret! Program: Mini-föreläsning om Nya Allmänningar av Karin Bradley (Division of Urban and Regional Studies/Department of Urban Planning and Environment, KTH), kontextualisering av Allmänna kontoret-projektet i relation till hållbar lokal utveckling, av Monica Fundin Pourshahidi (Arkitekturmuseet). Hör även Dilettant presentera projektet och projektrummet. Mingel, snacks and alkoholfria drinkar – varmt välkommen till Arkitekturmuseet!
+Arbetar eller studerar du i hemmet, på caféer eller bibliotek? Längtar du efter en arbetsplats och gemenskap med andra? En kostnadsfri och öppen plats för att utbyta idéer, ha möten och stötta varandra i arbetet? Välkommen att ta med ditt arbete till Allmänna kontoret på Arkitekturmuseet i Stockholm.
