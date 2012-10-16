@@ -137,10 +137,11 @@ hgroup.event {
   background: #fff url(/assets/img/frame.png) no-repeat;
   padding: 30px 30px 70px;
   width: 470px;
-  height: 390px;
+  height: 320px;
   margin-left: 40px;
   text-align: center;
   margin-top: 40px;
+  font-size: 18px;
 }
 
 hgroup.event h2{
@@ -153,6 +154,15 @@ hgroup.event h3{
   font-style: italic;
   font-size: 18px;
   font-weight: 700;
+}
+
+hgroup.event h4{
+  font-style: italic;
+  font-size: 18px;
+  font-weight: 700;
+  color: #ababa6;
+  padding: 0;
+  margin: 10px 0;
 }
 
 hgroup.event h3,
