@@ -4,7 +4,6 @@ category: invigning
 title: Invigning
 headline: "30 Oktober 18.00-20.00"
 ref: invigning
-published: false
 ---
 
 #### Nya gemenskaper – vad betyder det allmänna idag? 
