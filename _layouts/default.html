@@ -14,12 +14,19 @@
   {% else %}
   <title>{{site.title}} • {{title | capitalize}} • {{page.title | capitalize}}</title>
   {% endif %}
+
+  <script type="text/javascript" src="{{site.baseurl}}/assets/scripts/jquery-1.8.2.min.js"></script>
+  <script type="text/javascript" src="{{site.baseurl}}/assets/scripts/jquery.smooth-scroll.js"></script>
   <script>
-    document.createElement("article"); 
-    document.createElement("footer"); 
-    document.createElement("header"); 
-    document.createElement("hgroup"); 
-    document.createElement("nav"); 
+  document.createElement("article");
+  document.createElement("footer");
+  document.createElement("header");
+  document.createElement("hgroup");
+  document.createElement("nav");
+
+  $(document).ready(function() {
+    $('aside nav ul li a').smoothScroll();
+  });
   </script>
 </head>
 <body>
