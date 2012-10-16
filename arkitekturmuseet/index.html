@@ -32,7 +32,7 @@ layout: amuseet
     <section>
       {% for mus in site.categories.amuseet reversed %}
         <article>
-          <h2 id="{{post.ref}}">{{mus.title}}</h2>
+          <h2 id="{{mus.ref}}">{{mus.title}}</h2>
           {{ mus.content }}
         </article>
       {% endfor %}
