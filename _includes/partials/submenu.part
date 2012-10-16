@@ -25,7 +25,7 @@
           
               {% assign item = sections[forloop.index0]] %}
               {% capture text %}{% if site[item] %}{{site[item]}}{% else %}{{item | replace:'_',' '}}{% endif %}{% endcapture %}
-              <li{% if page.ref == item %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{{text}}</a></li>
+              <li{% if page.ref == item %} class="active"{% endif %}><a href="{{site.baseurl}}/{{current}}/{{item}}.html#top">{{text | capitalize}}</a></li>
           
             {% endfor %}
             </ul>
