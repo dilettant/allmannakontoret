@@ -183,7 +183,7 @@ article p a:visited
 }
 
 hgroup.event p{
-  margin: 0;
+  margin: 0 0 10px;
   line-height: 22px;
 }
 
