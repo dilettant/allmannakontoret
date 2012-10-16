@@ -11,6 +11,8 @@ server:      false
 title: Allmänna kontoret
 amuseettitle: Allmänna kontoret på Arkitekturmuseet
 baseurl:    http://allmannakontoret.se
+assetsurl:    http://allmannakontoret.se
+bannername: Arkitekturmuseet
 # baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/allmannakontoret/_site
 lang: sv
 gravasize: 142
