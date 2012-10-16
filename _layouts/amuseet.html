@@ -18,7 +18,13 @@ document.createElement("hgroup");
 document.createElement("nav");
 
 $(document).ready(function() {
-  $('ul.link li a').smoothScroll();
+  var $links = $('ul.link li a');
+  $links.smoothScroll();
+
+  $links.click(function(){
+    $links.removeClass('active');
+    $('this').addClass('active');
+  });
 });
 
 </script>
