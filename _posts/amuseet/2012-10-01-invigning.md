@@ -6,8 +6,7 @@ headline: "30 Oktober 18.00-20.00"
 ref: invigning
 ---
 
-Välkommen till öppningskvällen for Allmänna kontoret!
+#### Nya gemenskaper – vad betyder det allmänna idag? 
+Nya tider har förändrat förutsättningarna för det vi uppfattar som gemensamt. Hur har synen på, och bruket av, gemensamma miljöer förändrats de senaste årtiondena? Vilken funktion skulle allmänna kontor kunna fylla? 
 
-####Program
-
-Mini-föreläsning om Nya Allmänningar av Karin Bradley (Division of Urban and Regional Studies/Department of Urban Planning and Environment, KTH), kontextualisering av Allmänna kontoret-projektet i relation till hållbar lokal utveckling, av Monica Fundin Pourshahidi (Arkitekturmuseet). Hör även Dilettant presentera projektet och projektrummet. Mingel, snacks and alkoholfria drinkar – varmt välkommen till Arkitekturmuseet!
+Med Karin Bradley (Urbana och regionala studier/Institutionen för Samhällsplanering och miljö, KTH), Monica Fundin Pourshahidi (Arkitekturmuseet). Hör även Dilettant berättar mer om projektet Allmänna kontoret. Välkommen på samtal och mingel!
