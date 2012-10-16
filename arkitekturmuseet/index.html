@@ -8,11 +8,11 @@ date: "30 okt - 30 nov, 2012"
   <h1 class="logo"><a title="Allmänna kontorets huvudsida" href="{{site.baseurl}}">{{site.amuseettitle}}</a></h1>
   <nav>
       <ul class="link">
-        <li><a class="active" href="#hem">Hem</a>
         <li><a href="{{site.baseurl}}">Allmänna kontorets huvudsida</a>
           {% for mus in site.categories.amuseet reversed %}
           <li><a href="#{{mus.ref}}">{{mus.title}}</a>
           {% endfor %}
+        <li><a class="active" href="#hem">Hem</a>
       </ul>
   </nav>
 </aside>
