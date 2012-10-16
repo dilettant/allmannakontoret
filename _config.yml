@@ -9,6 +9,7 @@ server:      false
 # =========
 
 title: Allmänna kontoret
+amuseettitle: Allmänna kontoret på Arkitekturmuseet
 baseurl:    http://allmannakontoret.se
 # baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/allmannakontoret/_site
 lang: sv
