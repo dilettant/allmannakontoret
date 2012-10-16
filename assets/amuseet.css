@@ -50,6 +50,7 @@ header h3
 header h2.title {
   color: #0073af;
   text-transform: uppercase;
+  padding-top: 30px;
 }
 
 header h3{
