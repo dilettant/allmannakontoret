@@ -5,7 +5,7 @@ ref: sammanfattning
 category: koncept
 ---
 
-Visionen om allmänna kontor innebär öppna och kostnadsfria arbets- och mötesplatser där medborgare ges möjlighet att bedriva arbete och fortbildning. Fundamentet i idén handlar om att skapa kostnadsfria och demokratiskt tillgängliga strukturer för arbete, där människors tid och kompetenser kan delas och berika varandra.  
+Visionen om allmänna kontor innebär öppna och kostnadsfria arbets- och mötesplatser där allmänheten ges möjlighet att bedriva arbete och fortbildning. Fundamentet i idén handlar om att skapa kostnadsfria och demokratiskt tillgängliga strukturer för arbete, där människors tid och kompetenser kan delas och berika varandra.  
 
 Allmänna kontoret utgör ett infrastrukturellt förslag och en politisk vision som syftar till att möta upp nya behov på de arbetsmarknader som präglas av en växande andel frilans- och hemarbete, samt en ökad mobilitet och flexibilitet i arbetslivet. Allmänna kontoret är ett förslag som syftar till att åstadkomma en större trygghet, stabilitet och produktiv utveckling i relation till dessa behov.   
 
