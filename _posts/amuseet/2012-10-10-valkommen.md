@@ -1,5 +1,4 @@
 ---
-layout: amuseet_item
 category: amuseet
 
 title: Välkommen
