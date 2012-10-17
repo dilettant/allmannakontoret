@@ -53,6 +53,28 @@ header h2.title {
   padding-top: 30px;
 }
 
+div.lang {
+  float: right;
+  padding: 10px;
+  background-color: #fff;
+}
+
+div.lang,
+div.lang a{
+  color: #2ba167;
+}
+
+div.lang a:link,
+div.lang a:visited{
+  text-decoration: none;
+}
+
+div.lang a:hover,
+div.lang a:active,
+div.lang a.active{
+  text-decoration: underline;
+}
+
 header h3{
   margin-top: 0;
   color: #ABABA6;
