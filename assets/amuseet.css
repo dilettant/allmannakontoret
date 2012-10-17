@@ -83,12 +83,19 @@ hgroup.dates p {
   margin: 0 20px 30px 0;
 }
 
-h1.logo a{
-  background: url(/assets/img/am_logo_sv.png) no-repeat;
+h1.logo{
   height: 235px;
   width: 308px;
   display:block;
   text-indent: -999px;
+}
+
+h1.logo.en a{
+  background: url(/assets/img/am_logo_en.png) no-repeat;
+}
+
+h1.logo.sv a{
+  background: url(/assets/img/am_logo_sv.png) no-repeat;
 }
 
 aside.menu{
