@@ -54,7 +54,9 @@ div.lang a:visited{
 }
 
 div.lang a:hover,
-div.lang a:active{
+div.lang a:active,
+div.lang a.acrtive
+{
   text-decoration: underline;
 }
 
