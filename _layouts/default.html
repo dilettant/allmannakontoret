@@ -6,8 +6,8 @@
   <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,700' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Lora:700,400italic,700italic' rel='stylesheet' type='text/css'>
   
-  <link rel="stylesheet" href="{{site.assetsurl}}/assets/html5shiv.js">
-  <link rel="stylesheet" href="{{site.assetsurl}}/assets/site.css">
+  <script href="{{site.assetsurl}}/assets/html5shiv.js">
+  <link rel="stylesheet" href="{{site.assetsurl}}/assets/site.css"></script>
   {% capture title %}{% if site[page.category] %}{{site[page.category]}}{% else %}{{page.category | reaplce:'_',' '}}{% endif %}{% endcapture %}
   {% capture subtitle %}{% if site[page.parent] %}{{site[page.parent]}}{% else %}{{page.parent | replace:'_', ''}}{% endif %}{% endcapture %}
   {% if page.parent %}
@@ -15,13 +15,6 @@
   {% else %}
   <title>{{site.title}} • {{title | capitalize}} • {{page.title | capitalize}}</title>
   {% endif %}
-  <script>
-    document.createElement("article"); 
-    document.createElement("footer"); 
-    document.createElement("header"); 
-    document.createElement("hgroup"); 
-    document.createElement("nav"); 
-  </script>
 </head>
 <body>
   <div class="container_24 {{page.category}}">
