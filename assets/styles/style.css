@@ -155,16 +155,15 @@ section.twitter h2{
 }
 
 section.twitter p{
-	margin: 10px 0 0;
+	margin: 18px 0 0;
 	padding: 0;
 	width: 360px;
 	float: right;
 	font-size: 14px;
 }
 
-a.rrt-hashtag{
-  color: #029d68;
-  font-size: 16px; 
+section.twitter a{
+	font-size: 12px;
 }
 
 aside{
