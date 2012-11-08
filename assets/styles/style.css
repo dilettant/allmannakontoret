@@ -276,6 +276,10 @@ section.main article{
   width: 460px;
 }
 
+section.main article h3{
+	margin-left: 10px;
+}
+
 footer{
   font-size: 12px;
   float: left;
