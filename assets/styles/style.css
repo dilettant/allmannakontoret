@@ -102,6 +102,7 @@ ul.tools{
 ul.tools.edit-read {
   float: left;
 	margin-left: 10px;
+	margin-bottom: 20px;
 }
 
 ul.tools li{
@@ -286,7 +287,7 @@ section.main article{
 
 section.main article h3{
 	margin-left: 10px;
-	margin-top: 20px;
+	margin-top: 10px;
 	margin-bottom: 10px;
 }
 
