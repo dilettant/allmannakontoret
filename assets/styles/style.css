@@ -67,10 +67,18 @@ header.head h1{
 header.head h2,
 section.main h2{
 	color: #999;
-  margin-top: 0;
 	float: left;
 	font: italic 700 24px 'Lora';
 	clear: left;
+	margin: 0;
+}
+
+header.head h3{
+	color: #999;
+	float: left;
+	font: italic 700 18px 'Lora';
+	clear: left;
+	margin: 0 0 20px;
 }
 
 h3{
@@ -110,12 +118,12 @@ ul.tools li:last-child{
 }
 
 section.twitter{
-  clear: none;
-  float: left;
+	float: left;
   width: 460px;
   margin-bottom: 60px;
   font-size: 18px;
   letter-spacing: 0;
+	clear: both;
 }
 
 section.twitter .bg{
