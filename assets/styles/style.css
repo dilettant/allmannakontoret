@@ -3,6 +3,7 @@
 /* @override 
 	file:///Users/vectorsize/Dropbox/Public/poma20/_site/assets/styles/style.css
 	https://dl.dropbox.com/u/606131/poma20/_site/assets/styles/style.css
+	http://allmannakontoret.se/assets/styles/style.css
 */
 
 /* BLOCKS */
@@ -65,12 +66,11 @@ header.head h1{
 
 header.head h2,
 section.main h2{
-  font-size: 24px;
-  font-style: italic;
-  font-family: 'Lora';
-  font-weight: 700;
-  color: #999;
+	color: #999;
   margin-top: 0;
+	float: left;
+	font: italic 700 24px 'Lora';
+	clear: left;
 }
 
 h3{
@@ -120,52 +120,37 @@ section.twitter{
 section.twitter .bg{
   background-color: #fffeff;
   float: left;
-  padding: 15px;
+  padding: 10px;
   border: 1px dashed #1a85ba;
   height: 80px;
   width: 430px;
 }
 
-section.twitter h1{
-  background: url({{site.assetsurl}}/assets/img/twitty.png) no-repeat 90px;
-  font-size: 18px;
-  padding-left: 170px;
-  padding-top: 10px;
-  padding-bottom: 12px;
-  color: #02a16b;
-  text-transform: uppercase;
-  margin: 0;
+section.twitter h1 a{
+	text-indent: -9999px;
+	background: url({{site.assetsurl}}/assets/img/twitty.png) no-repeat scroll 14px 0;
+	height: 35px;
+	float: left;
+	width: 49px;
+	clear: none;
+	margin-top: 10px;
 }
 
 section.twitter h2{
-  width: 140px;
-  font: italic 700 18px 'Lora';
-  color: #999;
-  float: left;
-  margin-right: 30px;
+	color: #999;
+	text-align: right;
+	font-size: 14px;
+	width: 45px;
+	float: left;
+	margin-bottom: 0;
 }
 
 section.twitter p{
-  float: left;
-  width: 460px;
-}
-
-section.twitter .rrt-content{
-  padding-left: 65px;
-  background: url({{site.assetsurl}}/assets/img/twitty.png) no-repeat scroll 14px 0;
-  height: 78px;
-  float: left;
-  padding-top: 2px;
-}
-
-section.twitter .rrt-meta a.rrt-date
-{
-  color: #999;
-  text-align: right;
-  font-size: 14px;
-  width: 40px;
-  float: left;
-  margin-top: -40px;
+	margin: 0;
+	padding: 0;
+	width: 360px;
+	float: right;
+	font-size: 14px;
 }
 
 a.rrt-hashtag{
@@ -427,7 +412,7 @@ footer h1 a:active
 footer h1 a:hover,
 footer h1 a:visited
 {
-  background: url({{site.assetsurl}}/assets/img/tools.png) no-repeat -105px -63px;
+  background: url({{site.assetsurl}}/assets//img/tools.png) no-repeat -105px -63px;
 }
 
 footer section.first p.first{
