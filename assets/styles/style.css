@@ -101,7 +101,7 @@ ul.tools{
 
 ul.tools.edit-read {
   float: left;
-	margin-left: 10px;
+	margin-left: 2px;
 	margin-bottom: 20px;
 }
 
@@ -277,7 +277,7 @@ p
   width: 460px;
   float: left;
   margin-bottom: 10px;
-	margin-left: 10px;
+	margin-left: 0;
 	margin-top: 10px;
 }
 
@@ -286,7 +286,7 @@ section.main article{
 }
 
 section.main article h3{
-	margin-left: 10px;
+	margin-left: 0;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
