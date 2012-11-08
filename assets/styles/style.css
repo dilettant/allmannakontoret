@@ -51,7 +51,7 @@ ul li{
 
 header.head{
 	padding-left: 330px;
-  background: url(http://allmannakontoret.se/assets/img/am_logo_en.png) no-repeat 0 0;
+  background: url({{site.assetsurl}}/assets/img/am_logo_en.png) no-repeat 0 0;
   float: left;
   margin-top: 50px;
 }
@@ -152,7 +152,7 @@ section.twitter p{
 
 section.twitter .rrt-content{
   padding-left: 65px;
-  background: url(../img/twitty.png) no-repeat scroll 14px 0;
+  background: url({{site.assetsurl}}/assets/img/twitty.png) no-repeat scroll 14px 0;
   height: 78px;
   float: left;
   padding-top: 2px;
@@ -249,20 +249,20 @@ section.main h2{
 
 .edit a:link,
 .edit a:visited {
-  background: url(../img/tools.png) no-repeat 0 3px;
+  background: url({{site.assetsurl}}/assets/img/tools.png) no-repeat 0 3px;
 }
 
 .edit a:hover,
 .edit a:active {
-  background: url(../img/tools.png) no-repeat 0 -23px;}
+  background: url({{site.assetsurl}}/assets/img/tools.png) no-repeat 0 -23px;}
 
 .read a:link,
 .read a:visited{
-    background: url(../img/tools.png) no-repeat -38px -23px;
+    background: url({{site.assetsurl}}/assets/img/tools.png) no-repeat -38px -23px;
 }
 .read a:hover,
 .read a:active {
-    background: url(../img/tools.png) no-repeat -38px 3px;
+    background: url({{site.assetsurl}}/assets/img/tools.png) no-repeat -38px 3px;
 }
 
 section.main h4{
@@ -349,7 +349,7 @@ footer section.second h1
 
 footer section.second li a,
 footer section.third li a{
-  background: url(../img/tools.png) no-repeat;
+  background: url({{site.assetsurl}}/assets/img/tools.png) no-repeat;
   padding-left: 46px;
   height: 30px;
   display: block;
@@ -421,13 +421,13 @@ footer h1 a{
 footer h1 a:link,
 footer h1 a:active
 {
-  background: url(../img/tools.png) no-repeat 0 -63px;
+  background: url({{site.assetsurl}}/assets/img/tools.png) no-repeat 0 -63px;
 }
 
 footer h1 a:hover,
 footer h1 a:visited
 {
-  background: url(../img/tools.png) no-repeat -105px -63px;
+  background: url({{site.assetsurl}}/assets/img/tools.png) no-repeat -105px -63px;
 }
 
 footer section.first p.first{
