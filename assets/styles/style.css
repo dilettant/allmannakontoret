@@ -61,14 +61,14 @@ header.head h1{
   font-size: 48px;
   color: #C10032;
   width: 460px;
-  margin: 0 0 10px;
+  margin: 0;
 }
 
 header.head h2,
 section.main h2{
 	color: #999;
 	float: left;
-	font: italic 700 24px 'Lora';
+	font: italic 700 22px 'Lora';
 	clear: left;
 	margin: 0;
 }
