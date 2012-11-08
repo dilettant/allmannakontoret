@@ -93,6 +93,7 @@ ul.tools{
 
 ul.tools.edit-read {
   float: left;
+	margin-left: 10px;
 }
 
 ul.tools li{
