@@ -15,7 +15,7 @@ html{
 header, nav, article, footer, address, section {
   display: block;
   float:left;
-  width: 620px;
+  width: 470px;
   clear:both;
 }
 body{
