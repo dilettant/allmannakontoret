@@ -189,7 +189,7 @@ aside nav li:last-child{
 }
 aside nav li a:link,
 aside nav li a:visited{
-  font:  700 20px 'Josefin Slab', serif;
+  font: 700 18px 'Josefin Slab', serif;
   color: #999;
 }
 
