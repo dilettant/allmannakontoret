@@ -1,10 +1,23 @@
-<footer class="centered">
-  <section class="address">
-    <h3>Dilettant AB</h3>
-    <p class="centered">Box 20148 • SE-104 60 Stockholm • Sweden</p>
-  </section>
-  <section class="contact">
-    <p class="centered"><a href="mailto:email@dilettant@riseup.net">dilettant@riseup.net</a></p>
-    <p class="centered">+4670-297 79 70</p>
-  </section>    
-</footer>
+<footer>
+      <section class="first">
+        <h1><a href="http://dilettant.se">Dilettant</a></h1>
+          {% for f in site.categories.footer reversed %}
+            {{f.content | handleize}}
+          {% endfor %}
+        </section>
+        <section class="separator"></section>
+        <section class="second">
+          <h1>Support</h1>
+          <ul>
+            <li><a class="github" href="{{site.githubrepourl}}">Github</a></li>
+            <li><a class="flattr" href="{{site.flattrurl}}">Flattr</a></li>
+          </ul>
+        </section>
+        <section class="third">
+          <h1>Connect</h1>
+          <ul>
+            <li><a class="twitter" href="https://twitter.com/_dilettant">Twitter</a></li>
+            <li><a class="facebook" href="https://www.facebook.com/pages/Dilettant/348667654399">Facebook</a></li>
+          </ul>
+        </section>
+      </footer>
