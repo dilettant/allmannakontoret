@@ -413,10 +413,6 @@ footer section.third{
   margin-left: 0;
 }
 
-footer section.first p.first{
-  width: 240px;
-}
-
 footer h1 a{
   text-indent: -9999px;
   display: block;
@@ -439,6 +435,7 @@ footer h1 a:visited
 }
 
 footer section.first p:first-child{
+	width: 240px;
   margin-left: 10px;
   margin-top: 10px;
 }
