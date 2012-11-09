@@ -52,7 +52,11 @@
       <section class="first">
         <h1><a href="http://dilettant.se">Dilettant</a></h1>
           {% for f in site.categories.footer reversed %}
+          {%if page.isHome == null%}
+            <p>{{f.content}}</p>
+          {% else %}
             {{f.content}}
+          {% endif %}
           {% endfor %}
         </section>
         <section class="separator"></section>
