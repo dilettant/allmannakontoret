@@ -103,7 +103,9 @@ ul.tools.edit-read {
   float: left;
 	margin-left: 3px;
 	margin-bottom: 20px;
-	clear: left;
+	clear: both;
+	width: 460px;
+	display: block;
 }
 
 ul.tools li{
@@ -217,6 +219,7 @@ section.main h1{
   margin-bottom: 0;
 	float: left;
 	clear: both;
+	width: 460px;
 }
 
 article header {
@@ -224,6 +227,8 @@ article header {
   margin: 0;
   height: 40px;
   width: 460px;
+	float: left;
+	clear: both;
 }
 
 section.main h1,
