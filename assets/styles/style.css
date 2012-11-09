@@ -50,9 +50,17 @@ ul li{
   padding: 0;
 }
 
+header.head.en{
+  background: url({{site.assetsurl}}/assets/img/am_logo_en.png) no-repeat 0 0;
+}
+
+header.head.sv{
+  background: url({{site.assetsurl}}/assets/img/am_logo_sv.png) no-repeat 0 0;
+}
+
+
 header.head{
 	padding-left: 330px;
-  background: url({{site.assetsurl}}/assets/img/am_logo_en.png) no-repeat 0 0;
   float: left;
   margin-top: 50px;
 }
