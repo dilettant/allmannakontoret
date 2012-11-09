@@ -2,7 +2,7 @@
 layout: article
 category: amuseet
 
-title: Samarbetspartners och finansiärer
+title: Samarbetspartners & finansiärer
 ref: samarbetspartners_o_finansiarer
 filedate: 2012-10-14-
 permalink: /arkitekturmuseet/samarbetspartners_o_finansiarer.html
