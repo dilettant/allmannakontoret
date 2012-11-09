@@ -4,7 +4,7 @@ category: amuseet
 
 ishome: true
 title: Välkommen
-ref: valkommen
+ref: index
 filedate: ''
 repo: ''
 permalink: index.html
