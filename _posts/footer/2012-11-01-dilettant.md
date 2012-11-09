@@ -3,4 +3,4 @@ category: footer
 layout: article
 ---
 
-This is a [Dilettant](http://dilettant.se) initiative. We develop research projects addressing organizational, cooperative and political strategies aimed at a broad social context.
+Projektet är ett initiativ av [Dilettant](http://dilettant.se). Vi utvecklar researchprojekt som adresserar organisatoriska, kooperativa och politiska strategier riktade till en bred social kontext.
