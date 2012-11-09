@@ -47,6 +47,7 @@ function readability() {
 
             $('.content').html(linkify(text));
             $('.date').html(tweetDate);
+            $('.twitter h1 a').attr({'href':url});
           }
         });
         
