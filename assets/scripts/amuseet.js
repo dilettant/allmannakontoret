@@ -39,9 +39,9 @@ function readability() {
             var date = new Date(dateString);
             var text = lastTweet['text'];
             var url = 'https://twitter.com/' + user + '/status/' + lastTweet['id_str'];
-            var hour = date.getDate();
+            var hour = date.getHours();
             var minutes = date.getMinutes();
-            var day = date.getDay();
+            var day = date.getDate();
             var month = date.getMonth();
             var tweetDate =  hour + ':' + minutes + '<br>' + day + ' ' + months[month];
 
