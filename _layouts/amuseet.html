@@ -1,33 +1,76 @@
 <!DOCTYPE HTML>
-<html lang="{{site.lang}}">
+<html lang="en">
 <head>
   <meta charset=utf-8>
-  <link rel="icon" href="{{site.baseurl}}/assets/img/favicon.ico" type="image/x-icon">
   <title>{{site.amuseettitle}}</title>
-  <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,700' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Lora:700,400italic,700italic' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{site.baseurl}}/assets/amuseet.css">
-
-  <script type="text/javascript" src="{{site.baseurl}}/assets/scripts/jquery-1.8.2.min.js"></script>
-  <script type="text/javascript" src="{{site.baseurl}}/assets/scripts/jquery.smooth-scroll.js"></script>
-<script>
-document.createElement("article");
-document.createElement("footer");
-document.createElement("header");
-document.createElement("hgroup");
-document.createElement("nav");
-
-$(document).ready(function() {
-  var $links = $('ul.link li a');
-  $links.smoothScroll();
-
-  $links.click(function(){
-    $links.removeClass('active');
-    $(this).addClass('active');
-  });
-});
-
-</script>
+  <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:400,700" rel="stylesheet" type="text/css">  
+  <link href="http://fonts.googleapis.com/css?family=Lora:700,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="{{site.assetsurl}}/assets/styles/style.css" media="screen" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+  <script type="text/javascript" src="{{site.assetsurl}}/assets/scripts/jquery.relatedtweets-1.0.js"></script>
+  <script type="text/javascript" src="{{site.assetsurl}}/assets/scripts/html5shiv.js"></script>
+  <script type="text/javascript" src="{{site.assetsurl}}/assets/scripts/amuseet.js"></script>
 </head>
-<body id="hem"><div id="container"><div class="lang"><a class="active" href="http://allmannakontoret.se/arkitekturmuseet">Svenska</a> | <a href="http://thepublicoffice.se/museumofarchitecture">Engelska</a><div>{{content}}</div></body>
+<body>
+  <div class="container">
+      <ul class="tools lang">
+        <li><a href="http://allmannakontoret.se/arkitekturmuseet">Swedish</a></li>
+        <li><a class="active" href="http://thepublicoffice.se/museumofarchitecture">English</a></li>
+      </ul>
+    <header class="head">
+      <h1>{{site.title}}</h1>
+      <h2>{{site.subtitle}}</h2>
+      <h3>{{site.times}}</h3>
+      
+      <section class="twitter" id="heading">
+        <div class="bg">
+          <h1><a href="http://dilettant.se">Dilettant</a></h1>
+          <p class="content"></p>
+          <h2 class="date"></h2>
+        </div>
+      </section>
+
+    </header>
+    <aside>
+      <nav>
+        <ul>
+            <li>
+              <a {% if page.ishome %}class="active"{% endif %} href="{{site.baseurl}}/{{site.bannername}}/#heading">Welcome</a>
+            </li>
+          {% for p in site.categories.amuseet reversed %}
+            <li>
+              <a {% if p.permalink == page.url %}class="active"{% endif %} href="{{ p.permalink }}#heading">{{ p.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </aside>
+    <section class="main">
+      {{content}}
+    </section>
+    <footer>
+      <section class="first">
+        <h1><a href="http://dilettant.se">Dilettant</a></h1>
+          {% for p in site.categories.footer reversed %}
+            {{p.content}}
+          {% endfor %}
+        </section>
+        <section class="separator"></section>
+        <section class="second">
+          <h1>Support</h1>
+          <ul>
+            <li><a class="github" href="{{site.githubrepourl}}">Github</a></li>
+            <li><a class="flattr" href="{{site.flattrurl}}">Flattr</a></li>
+          </ul>
+        </section>
+        <section class="third">
+          <h1>Connect</h1>
+          <ul>
+            <li><a class="twitter" href="https://twitter.com/_dilettant">Twitter</a></li>
+            <li><a class="facebook" href="https://www.facebook.com/pages/Dilettant/348667654399">Facebook</a></li>
+          </ul>
+        </section>
+      </footer>
+  </div>
+</body>
 </html>

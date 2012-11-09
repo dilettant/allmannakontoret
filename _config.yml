@@ -9,12 +9,20 @@ server:      false
 # =========
 
 title: Allmänna kontoret
+subtitle: "På Arkitekturmuseet<br>30 okt - 30 nov, 2012"
+times: "10h to 18h"
 amuseettitle: Allmänna kontoret på Arkitekturmuseet
 baseurl:    http://allmannakontoret.se
 assetsurl:    http://allmannakontoret.se
 bannername: Arkitekturmuseet
 amusseet-site: Allmänna kontorets huvudsida
-# baseurl:    file:///Users/vectorsize/Dropbox/www/dilettant/allmannakontoret/_site
+
+
+prose: "http://prose.io/#dilettant/allmannakontoret/edit/gh-pages"
+repo : "_posts/amuseet/"
+githubrepourl: "https://github.com/dilettant/allmannakontoret" 
+flattrurl: "https://flattr.com/thing/945925/Allmnna-kontoret"
+
 lang: sv
 gravasize: 142
 
