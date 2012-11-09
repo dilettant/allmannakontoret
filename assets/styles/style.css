@@ -434,13 +434,13 @@ footer h1 a:visited
   background: url({{site.assetsurl}}/assets//img/tools.png) no-repeat -105px -63px;
 }
 
-footer section.first p:first-child{
+footer section.first p:nth-of-type(1){
 	width: 240px;
   margin-left: 10px;
   margin-top: 10px;
 }
 
-footer section.first p:last-child{
+footer section.first p:nth-of-type(2){
   clear: left;
   margin-top: 10px;
   width: 300px;
