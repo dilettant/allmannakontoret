@@ -103,6 +103,7 @@ ul.tools.edit-read {
   float: left;
 	margin-left: 3px;
 	margin-bottom: 20px;
+	clear: left;
 }
 
 ul.tools li{
