@@ -214,6 +214,8 @@ section.main h1{
   font-size: 36px;
   color: #1a85ba;
   margin-bottom: 0;
+	float: left;
+	clear: both;
 }
 
 article header {
