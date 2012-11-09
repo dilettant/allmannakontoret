@@ -225,8 +225,7 @@ section.main h1{
 article header {
   padding: 0;
   margin: 0;
-  height: 40px;
-  width: 460px;
+	width: 460px;
 	float: left;
 	clear: both;
 }
