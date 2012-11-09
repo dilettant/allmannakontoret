@@ -14,7 +14,7 @@ times: "10h to 18h"
 amuseettitle: Allmänna kontoret på Arkitekturmuseet
 baseurl:    http://allmannakontoret.se
 assetsurl:    http://allmannakontoret.se
-bannername: Arkitekturmuseet
+bannername: arkitekturmuseet
 amusseet-site: Allmänna kontorets huvudsida
 
 
@@ -78,6 +78,7 @@ menu_koncept:
 # DICTIONARY
 # ==========
 
+welcome: Välkommen
 index: Hem
 om_projektet : Om projektet
 offentlighet : Offentlighet
