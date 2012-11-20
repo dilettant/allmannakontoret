@@ -43,7 +43,7 @@ menu_om_projektet:
   - team
   - filosofi:
     - kooperation
-    - offentlighet
+    - allmanning
     - mangfald
     - open_source
   - delmoment:
@@ -83,7 +83,7 @@ support: Stöd oss
 connect: Följ oss
 index: Hem
 om_projektet : Om projektet
-offentlighet : Offentlighet
+allmanning : Allmänning
 mangfald : Mångfald
 delmoment_I : Delmoment 1
 delmoment_II : Delmoment 2
