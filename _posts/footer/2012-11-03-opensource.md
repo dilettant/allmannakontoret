@@ -2,4 +2,4 @@
 categories: [footermain]
 ---
 
-We believe that shared knowledge can enhance people powered change and collaborative processes.
+Vi tror att delad kunskap kan främja samverkan och breda förändringsprocesser.
