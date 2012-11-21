@@ -51,7 +51,7 @@ ul.tools li:last-child{
 h1.logo a{
   text-indent: -99999px;
   display: block;
-  background: url({{site.assetsurl}}/img/logo_{{site.lang}}.png) no-repeat -6px 0;
+  background: url({{site.assetsurl}}/assets/img/logo_{{site.lang}}.png) no-repeat -6px 0;
   height: 230px;
   width: 300px;
   margin-top: 25px;
@@ -61,7 +61,7 @@ h1.logo a{
    ------ */
 .postit{
   text-align: center;
-  background: url({{site.assetsurl}}/img/postit.png) no-repeat -1px -5px;
+  background: url({{site.assetsurl}}/assets/img/postit.png) no-repeat -1px -5px;
   height: 285px;
   margin: 0;
   width: 287px;
@@ -341,10 +341,10 @@ nav.submenu > ul > li > ul {
 	padding-bottom: 10px;
 }
 .index .nomenu{
-	background: url({{site.assetsurl}}/img/index.png) no-repeat 0 60px;
+	background: url({{site.assetsurl}}/assets/img/index.png) no-repeat 0 60px;
 }
 .contact .nomenu{
-	background: url({{site.assetsurl}}/img/contact.png) no-repeat 0 60px;
+	background: url({{site.assetsurl}}/assets/img/contact.png) no-repeat 0 60px;
 }
 .content article{
 	float: left;
