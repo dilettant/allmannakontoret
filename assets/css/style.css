@@ -46,15 +46,21 @@ ul.tools li:last-child{
 .tools.lang a.active{
 	text-decoration: underline;
 }
+
 /* LOGO
    ---- */
 h1.logo a{
   text-indent: -99999px;
   display: block;
-  background: url({{site.assetsurl}}/assets/img/logo_{{site.lang}}.png) no-repeat -6px 0;
   height: 230px;
   width: 300px;
   margin-top: 25px;
+}
+h1.logo.sv a{
+  background: url({{site.assetsurl}}/assets/img/logo_sv.png) no-repeat -6px 0;
+}
+h1.logo.en a{
+  background: url({{site.assetsurl}}/assets/img/logo_en.png) no-repeat -6px 0;
 }
 
 /* POSTIT
