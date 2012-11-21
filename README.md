@@ -2,4 +2,4 @@ Allmänna kontoret är ett långsiktigt utvecklingsprojekt initierat av Dilettan
 
 Vi använder GitHub som plattform för projektets hemsida och till viss del för vår interna kommunikation. Genom att öppna ett konto på GitHub kan du enkelt redigera och föreslå ändringar av allt webbaserat textmaterial.
 
-[Läs mer om projektet på vår hemsida](http://allmannakontoret.se).
+[Läs mer om projektet här](http://allmannakontoret.se).
