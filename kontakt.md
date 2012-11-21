@@ -1,12 +1,15 @@
 ---
 layout: global
-title: kontakt
-category: kontakt
+noMenu: true
 main: true
+title: kontakt
+ref: kontakt
+category: kontakt
+pics: [contact1.png, contact2.png]
 ---
 
-Telefon +46 (0) 702 97 79 70  
-E-post <dilettant@riseup.net>  
+Telefon&#58; +46 (0) 702 97 79 70  
+E-post&#58; <dilettant@riseup.net>  
 
 Postadress:  
 Dilettant AB  

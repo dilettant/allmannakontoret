@@ -1,11 +1,13 @@
 ---
 layout: global
-title: Allmänna kontoret
-category: index
+ishome: true
+noMenu: true
 main: true
+intro: "Allmänna kontoret är en vision om öppna och kostnadsfria arbets-och mötesplatser"
+ref: index
+category: index
+pics: [index1.png, index2.png, index3.png]
 ---
-
-## Allmänna kontoret är en vision om öppna och kostnadsfria arbets- och mötesplatser
 
 Allmänna kontoret är ett långsiktigt utvecklingsprojekt som syftar till att artikulera en idé om öppna och kostnadsfria arbets- och mötesplatser, där allmänheten ges möjlighet att bedriva arbete och fortbildning. Under flera delmoment avser vi utforska konceptets möjligheter och potentiella funktioner på en allt mer rörlig arbetsmarknad, samt inom stadsplanering och lokal utveckling, näringslivsutveckling och integration.
 

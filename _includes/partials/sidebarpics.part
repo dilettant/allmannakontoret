@@ -1,0 +1,5 @@
+<ul class="sidebarpics grid_3 alpha">
+  {% for img in page.pics %}
+      <li><img src="{{site.assetsurl}}/assets/img/{{ img }}"/></li>
+  {% endfor %}
+</ul>

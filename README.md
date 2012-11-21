@@ -1,9 +1,5 @@
-# Allmänna kontoret
+# The Public Office
 
-Allmänna kontoret är ett långsiktigt utvecklingsprojekt initierat av Dilettant AB. Projektet syftar till att artikulera en idé om öppna och kostnadsfria arbets- och mötesplatser, där allmänheten ges möjlighet att bedriva arbete och fortbildning. 
+The Public Office" is a long-term development project that seeks to articulate an idea of open and rent-free work and meeting places. During several project stages, we will explore the concept's possibilities and potential functions in an increasingly mobile labor market, as well as in urban planning and local community development, business development and integration.  
 
-Vi använder GitHub som plattform för projektets hemsida och till viss del för vår interna kommunikation. Genom att öppna ett konto på GitHub kan du enkelt redigera och föreslå ändringar av allt webbaserat textmaterial.
-
-[Läs mer om projektet på vår hemsida](http://allmannakontoret.se).
-
-For English, [please visit our English repository](https://github.com/dilettant/thepublicoffice#the-public-office).
+For a complete information please [visit the website](http://thepublicoffice.se)

@@ -2,20 +2,22 @@
 layout: global
 title: team
 ref: team
+main: true
+edit: false
 category: om_projektet
 ---
 
 <ul class="team">
   {% for item in site.categories.team reversed %}
-    <li class="grid_13">
-      <h3 class="grid_13">{{item.name}}</h3>
-      <h4 class="grid_13">{{item.role}}</h4>
-      <img class="grid_3 alpha" 
+    <li class="person">
+      <img class="grid_1 alpha"
       {% if item.gravatar %} src="{{item.gravatar}}?s={{site.gravasize}}"
       {% else %} width="{{site.gravasize}}" src="{{site.baseurl}}/assets/img/{{item.picture}}"
       {% endif %}
       alt="{{item.name}}">
-      <div class="description grid_9 omega"><p>{{item.content}}</p></div>
+      <h3 class="grid_4 name">{{item.name}}</h3>
+      <h4 class="grid_4 role">{{item.role}}</h4>
+      <div class="description"><p>{{item.content}}</p></div>
     </li>
   {% endfor %}
 </ul>
