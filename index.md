@@ -3,6 +3,7 @@ layout: global
 ishome: true
 noMenu: true
 main: true
+title: Allmänna kontoret
 intro: "Allmänna kontoret är en vision om öppna och kostnadsfria arbets-och mötesplatser"
 ref: index
 category: index
