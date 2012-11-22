@@ -26,7 +26,7 @@ bannername: arkitekturmuseet
 prose: "http://prose.io/#dilettant/allmannakontoret/edit/gh-pages"
 mainrepo : "_posts"
 repo : "_posts/amuseet/"
-githubrepourl: "https://github.com/dilettant/allmannakontoret" 
+githubrepourl: "https://github.com/dilettant/allmannakontoret#allmänna-kontoret" 
 flattrurl: "https://flattr.com/thing/945925/allmannakontoret"
 
 lang: sv
