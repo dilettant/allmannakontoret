@@ -59,7 +59,8 @@ $(document).ready(function(){
 
   // cookies and newsletter
   function getCookieVal(cookies, name) {
-    var matchme = name + "=",
+    var cookies = document.cookie.replace('; ', ';').split(";"),
+        matchme = name + "=",
         value = '',
         len = cookies.length,
         i;
@@ -70,11 +71,6 @@ $(document).ready(function(){
       }
     };
   }
-  var cookies = document.cookie.replace('; ', ';').split(";"),
-      thepublicoffice = '',
-      thepublicofficeEmail = '';
-
-  console.log('getCookieVal(thepublicoffice)', getCookieVal(cookies, 'thepublicoffice'));
   // for (i = 0; i < len; i++) {
   //   var matchme = "thepublicoffice=";
   //   if (cookies[i].indexOf(matchme) >= 0) {
@@ -82,6 +78,6 @@ $(document).ready(function(){
   //   }
   //   thepublicofficeEmail = cookies[i].substr(0,cookies[i].indexOf("thepublicoffice-email="));
   // };
-  console.log('thepublicoffice', thepublicoffice);
-  console.log('thepublicofficeEmail', thepublicofficeEmail);
+  console.log('thepublicoffice', getCookieVal(cookies, 'thepublicoffice'));
+  console.log('thepublicofficeEmail', getCookieVal(cookies, 'thepublicoffice'));
 });
