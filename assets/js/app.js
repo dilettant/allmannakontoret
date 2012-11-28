@@ -58,18 +58,29 @@ $(document).ready(function(){
   };
 
   // cookies and newsletter
+  function getCookieVal(cookies, name) {
+    var matchme = name + "=",
+        value = '';
+
+    if (cookies[i].indexOf(matchme) >= 0) {
+      value = cookies[i].replace(matchme, '');
+    }
+    return value;
+  }
   var cookies = document.cookie.replace('; ', ';').split(";"),
       len = cookies.length,
       thepublicoffice = '',
       thepublicofficeEmail = '',
       i;
-  for (i = 0; i < len; i++) {
-    var matchme = "thepublicoffice=";
-    if (cookies[i].indexOf(matchme) >= 0) {
-      thepublicoffice = cookies[i].replace(matchme, '');
-    }
-    thepublicofficeEmail = cookies[i].substr(0,cookies[i].indexOf("thepublicoffice-email="));
-  };
+
+  console.log('getCookieVal(thepublicoffice)', getCookieVal('thepublicoffice'));
+  // for (i = 0; i < len; i++) {
+  //   var matchme = "thepublicoffice=";
+  //   if (cookies[i].indexOf(matchme) >= 0) {
+  //     thepublicoffice = cookies[i].replace(matchme, '');
+  //   }
+  //   thepublicofficeEmail = cookies[i].substr(0,cookies[i].indexOf("thepublicoffice-email="));
+  // };
   console.log('thepublicoffice', thepublicoffice);
   console.log('thepublicofficeEmail', thepublicofficeEmail);
 });
