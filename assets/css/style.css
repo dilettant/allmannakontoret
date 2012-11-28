@@ -17,6 +17,7 @@ body{
   -webkit-font-smoothing: subpixel-antialiased;
   background-image: url({{site.assetsurl}}/assets/img/grid.png);
 }
+textarea, input { outline: none; }
 a{
   outline: 0;
 }
