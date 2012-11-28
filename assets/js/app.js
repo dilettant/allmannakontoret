@@ -57,6 +57,6 @@ $(document).ready(function(){
     return false;
   };
 
-  console.log('document.cookie', document.cookie.replace('; ').split(";"));
+  console.log('document.cookie', document.cookie.replace('; ', ';').split(";"));
 
 });
