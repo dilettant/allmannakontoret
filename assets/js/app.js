@@ -58,7 +58,7 @@ $(document).ready(function(){
   };
 
   // cookies and newsletter
-  function getCookieVal(cookies, name) {
+  function getCookieVal(name) {
     var cookies = document.cookie.replace('; ', ';').split(";"),
         matchme = name + "=",
         value = '',
@@ -78,6 +78,6 @@ $(document).ready(function(){
   //   }
   //   thepublicofficeEmail = cookies[i].substr(0,cookies[i].indexOf("thepublicoffice-email="));
   // };
-  console.log('thepublicoffice', getCookieVal(cookies, 'thepublicoffice'));
-  console.log('thepublicofficeEmail', getCookieVal(cookies, 'thepublicoffice'));
+  console.log('thepublicoffice', getCookieVal('thepublicoffice'));
+  console.log('thepublicofficeEmail', getCookieVal('thepublicoffice'));
 });
