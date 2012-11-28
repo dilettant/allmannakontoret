@@ -4,7 +4,8 @@
 	http://thepublicoffice.se//assets/css/style.css
 	http://thepublicoffice.se/assets/css/style.css
 	file:///Users/vectorsize/Dropbox/www/dilettant/nualmannakontoret/_site//assets/css/style.css
-	file:///Users/vectorsize/Dropbox/www/dilettant/nualmannakontoret/_site/assets/css/style.css */
+	file:///Users/vectorsize/Dropbox/www/dilettant/nualmannakontoret/_site/assets/css/style.css
+	http://allmannakontoret.se/assets/css/style.css */
 
 /* GLOBAL
    ------ */
@@ -424,10 +425,11 @@ nav.submenu > ul > li > ul {
 	 margin-bottom: 110px;
  }
  footer section h1{
-    font: italic 700 16px 'Lora';
+   font: italic 700 16px 'Lora';
    color: #a9a9a9;
  }
  footer section.third h1,
+ footer section.fourth h1,
  footer section.second h1
  {
    margin-bottom: 30px;
@@ -533,4 +535,15 @@ nav.submenu > ul > li > ul {
  	margin: 70px 0 0;
  	float:left
  }
- .email{display:none} /* for the newsletter subscription */
+ footer .email{display:none} /* for the newsletter subscription */
+ footer form input{
+ 	border: 1px solid #d5d5d5;
+    font: italic 700 15px 'Lora';
+ }
+ footer form input.submit{
+   padding: 5px;
+   color: #fff;
+} 
+ footer form input.lbqod{
+   padding: 5px 0 5px 5px;
+ }
