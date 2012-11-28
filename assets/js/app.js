@@ -73,7 +73,7 @@ $(document).ready(function(){
       }
     };
   }
-  if (getCookieVal('thepublicoffice').length > 0 && getCookieVal('thepublicoffice-email').length > 0){
+  if (getCookieVal('thepublicoffice') && getCookieVal('thepublicoffice').length > 0 && getCookieVal('thepublicoffice-email') && getCookieVal('thepublicoffice-email').length > 0){
     $subs.hide();
     $unsubs.show();
   } else {
