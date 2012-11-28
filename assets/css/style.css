@@ -557,3 +557,6 @@ input:-ms-input-placeholder {
    padding: 5px 0 5px 5px;
    color: #adadad;
 }
+footer .newsletter{
+	display: none;
+}
