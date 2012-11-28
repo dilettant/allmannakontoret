@@ -56,5 +56,7 @@ $(document).ready(function(){
     readability();
     return false;
   };
+  
+  console.log('document.cookie', document.cookie.split(";"));
 
 });
