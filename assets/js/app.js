@@ -64,8 +64,8 @@ $(document).ready(function(){
       thepublicofficeEmail,
       i;
   for (i = 0; i < len; i++) {
-    thepublicoffice = ARRcookies[i].substr(0,cookies.indexOf("thepublicoffice="));
-    thepublicofficeEmail = ARRcookies[i].substr(0,cookies.indexOf("thepublicoffice-email="));
+    thepublicoffice = cookies[i].substr(0,cookies[i].indexOf("thepublicoffice="));
+    thepublicofficeEmail = cookies[i].substr(0,cookies[i].indexOf("thepublicoffice-email="));
   };
   console.log('thepublicoffice', thepublicoffice);
   console.log('thepublicofficeEmail', thepublicofficeEmail);
