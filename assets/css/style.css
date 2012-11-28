@@ -536,6 +536,9 @@ nav.submenu > ul > li > ul {
  	float:left
  }
  footer .email{display:none} /* for the newsletter subscription */
+ footer section.fourth p{
+ 	margin-bottom: 20px;
+ }
  footer form input{
  	border: 1px solid #d5d5d5;
     font: italic 700 15px 'Lora';
