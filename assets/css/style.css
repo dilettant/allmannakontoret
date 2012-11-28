@@ -538,7 +538,7 @@ nav.submenu > ul > li > ul {
  }
  footer .email{display:none} /* for the newsletter subscription */
  footer section.fourth p{
- 	margin-bottom: 20px;
+ 	margin-bottom: 1em;
  }
  footer form input{
  	border: 1px solid #d5d5d5;
