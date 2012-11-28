@@ -547,7 +547,12 @@ nav.submenu > ul > li > ul {
    padding: 5px;
    color: #fff;
 } 
+input::-webkit-input-placeholder,
+input:-moz-placeholder,
+input:-ms-input-placeholder {
+   color: #d5d5d5;
+}
  footer form input.lbqod{
    padding: 5px 0 5px 5px;
-   color: #d5d5d5;
+   color: #c0c0c0;
 }
