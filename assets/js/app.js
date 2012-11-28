@@ -60,20 +60,14 @@ $(document).ready(function(){
   // cookies and newsletter
   var cookies = document.cookie.replace('; ', ';').split(";"),
       len = cookies.length,
-      thepublicoffice,
-      thepublicofficeEmail,
+      thepublicoffice = '',
+      thepublicofficeEmail = '',
       i;
   for (i = 0; i < len; i++) {
-    // console.log('cookies[i]', cookies[i]);
-    // console.log('indexOf', cookies[i].indexOf("thepublicoffice="));
     var matchme = "thepublicoffice=";
-    var matched = cookies[i].indexOf(matchme);
-    console.log('matchme', matchme);
-    console.log('matched', matched);
-    console.log('matched + matchme.length', matched + matchme.length);
-    console.log('matched + matchme.length', matched + matchme.length);
-    console.log('-20,2', cookies[i].substr(matched));
-    thepublicoffice = cookies[i].substr(matched, matched + matchme.length);
+    if (cookies[i].indexOf(matchme) > 0) {
+      thepublicoffice = cookies[i].replace(matchme, '');
+    }
     thepublicofficeEmail = cookies[i].substr(0,cookies[i].indexOf("thepublicoffice-email="));
   };
   console.log('thepublicoffice', thepublicoffice);
