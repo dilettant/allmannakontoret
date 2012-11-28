@@ -57,6 +57,16 @@ $(document).ready(function(){
     return false;
   };
 
-  console.log('document.cookie', document.cookie.replace('; ', ';').split(";"));
-
+  // cookies and newsletter
+  var cookies = document.cookie.replace('; ', ';').split(";"),
+      len = cookies.length,
+      thepublicoffice,
+      thepublicofficeEmail,
+      i;
+  for (i = 0; i < len; i++) {
+    thepublicoffice = ARRcookies[i].substr(0,cookies.indexOf("thepublicoffice="));
+    thepublicofficeEmail = ARRcookies[i].substr(0,cookies.indexOf("thepublicoffice-email="));
+  };
+  console.log('thepublicoffice', thepublicoffice);
+  console.log('thepublicofficeEmail', thepublicofficeEmail);
 });
