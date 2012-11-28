@@ -69,7 +69,7 @@ $(document).ready(function(){
 
     for (i = 0; i < len; i++) {
       if (cookies[i].indexOf(matchme) >= 0) {
-        return cookies[i].replace(matchme, '');
+        return cookies[i].replace(matchme, '').replace('%40', '@');
       }
     };
   }
