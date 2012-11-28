@@ -533,3 +533,4 @@ nav.submenu > ul > li > ul {
  	margin: 70px 0 0;
  	float:left
  }
+ .email{display:none} /* for the newsletter subscription */
