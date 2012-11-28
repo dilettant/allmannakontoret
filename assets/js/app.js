@@ -60,20 +60,21 @@ $(document).ready(function(){
   // cookies and newsletter
   function getCookieVal(cookies, name) {
     var matchme = name + "=",
-        value = '';
+        value = '',
+        len = cookies.length;
 
-    if (cookies[i].indexOf(matchme) >= 0) {
-      value = cookies[i].replace(matchme, '');
-    }
-    return value;
+    for (i = 0; i < len; i++) {
+      if (cookies[i].indexOf(matchme) >= 0) {
+        return = cookies[i].replace(matchme, '');
+      }
+    };
   }
   var cookies = document.cookie.replace('; ', ';').split(";"),
-      len = cookies.length,
       thepublicoffice = '',
       thepublicofficeEmail = '',
       i;
 
-  console.log('getCookieVal(thepublicoffice)', getCookieVal('thepublicoffice'));
+  console.log('getCookieVal(thepublicoffice)', getCookieVal(cookies, 'thepublicoffice'));
   // for (i = 0; i < len; i++) {
   //   var matchme = "thepublicoffice=";
   //   if (cookies[i].indexOf(matchme) >= 0) {
