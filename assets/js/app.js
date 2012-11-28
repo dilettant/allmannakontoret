@@ -58,6 +58,8 @@ $(document).ready(function(){
   };
 
   // cookies and newsletter
+  var $subs = $('#subs'), $unsubs = $('#unsubs');
+  $unsubs.hide();
   function getCookieVal(name) {
     var cookies = document.cookie.replace('; ', ';').split(";"),
         matchme = name + "=",
@@ -72,8 +74,10 @@ $(document).ready(function(){
     };
   }
   if (getCookieVal('thepublicoffice').length > 0 && getCookieVal('thepublicoffice-email').length > 0){
-    console.log('wearein');
+    $subs.hide();
+    $unsubs.show();
   } else {
-    console.log('weareout');
+    $unsubs.hide();
+    $subs.show();
   }
 });
