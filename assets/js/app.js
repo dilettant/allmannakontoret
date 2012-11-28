@@ -68,10 +68,12 @@ $(document).ready(function(){
     // console.log('indexOf', cookies[i].indexOf("thepublicoffice="));
     var matchme = "thepublicoffice=";
     var matched = cookies[i].indexOf(matchme);
-    thepublicoffice = cookies[i].substr(matched, matchme.length);
+    console.log('matchme', matchme);
+    console.log('matched', matched);
+
+    thepublicoffice = cookies[i].substr(matched, matched + matchme.length);
     thepublicofficeEmail = cookies[i].substr(0,cookies[i].indexOf("thepublicoffice-email="));
   };
-
   console.log('thepublicoffice', thepublicoffice);
   console.log('thepublicofficeEmail', thepublicofficeEmail);
 });
