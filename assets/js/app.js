@@ -70,7 +70,8 @@ $(document).ready(function(){
     var matched = cookies[i].indexOf(matchme);
     console.log('matchme', matchme);
     console.log('matched', matched);
-
+    console.log('matched + matchme.length', matched + matchme.length);
+    
     thepublicoffice = cookies[i].substr(matched, matched + matchme.length);
     thepublicofficeEmail = cookies[i].substr(0,cookies[i].indexOf("thepublicoffice-email="));
   };
