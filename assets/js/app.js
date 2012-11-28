@@ -71,13 +71,9 @@ $(document).ready(function(){
       }
     };
   }
-  // for (i = 0; i < len; i++) {
-  //   var matchme = "thepublicoffice=";
-  //   if (cookies[i].indexOf(matchme) >= 0) {
-  //     thepublicoffice = cookies[i].replace(matchme, '');
-  //   }
-  //   thepublicofficeEmail = cookies[i].substr(0,cookies[i].indexOf("thepublicoffice-email="));
-  // };
-  console.log('thepublicoffice', getCookieVal('thepublicoffice'));
-  console.log('thepublicofficeEmail', getCookieVal('thepublicoffice-email'));
+  if (getCookieVal('thepublicoffice').length > 0 && getCookieVal('thepublicoffice-email').length > 0){
+    console.log('wearein');
+  } else {
+    console.log('weareout');
+  }
 });
