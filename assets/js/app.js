@@ -67,7 +67,7 @@ $(document).ready(function(){
     // console.log('cookies[i]', cookies[i]);
     // console.log('indexOf', cookies[i].indexOf("thepublicoffice="));
     var matchme = "thepublicoffice=";
-    thepublicoffice = cookies[i].substr(cookies[i].indexOf(matchme), matchme.length);
+    thepublicoffice = cookies[i].substr(cookies[i].indexOf(matchme), cookies[i].indexOf(matchme) + (matchme.length -1 ));
     thepublicofficeEmail = cookies[i].substr(0,cookies[i].indexOf("thepublicoffice-email="));
   };
   console.log('thepublicoffice', thepublicoffice);
