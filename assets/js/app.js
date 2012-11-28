@@ -61,18 +61,18 @@ $(document).ready(function(){
   function getCookieVal(cookies, name) {
     var matchme = name + "=",
         value = '',
-        len = cookies.length;
+        len = cookies.length,
+        i;
 
     for (i = 0; i < len; i++) {
       if (cookies[i].indexOf(matchme) >= 0) {
-        return = cookies[i].replace(matchme, '');
+        return cookies[i].replace(matchme, '');
       }
     };
   }
   var cookies = document.cookie.replace('; ', ';').split(";"),
       thepublicoffice = '',
-      thepublicofficeEmail = '',
-      i;
+      thepublicofficeEmail = '';
 
   console.log('getCookieVal(thepublicoffice)', getCookieVal(cookies, 'thepublicoffice'));
   // for (i = 0; i < len; i++) {
