@@ -71,6 +71,7 @@ $(document).ready(function(){
     thepublicoffice = cookies[i].substr(matched, matchme.length);
     thepublicofficeEmail = cookies[i].substr(0,cookies[i].indexOf("thepublicoffice-email="));
   };
+
   console.log('thepublicoffice', thepublicoffice);
   console.log('thepublicofficeEmail', thepublicofficeEmail);
 });
