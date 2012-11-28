@@ -541,7 +541,7 @@ nav.submenu > ul > li > ul {
  }
  footer form input{
  	border: 1px solid #d5d5d5;
-    font: italic 700 15px 'Lora';
+    font: italic 700 12px 'Lora';
  }
  footer form input.submit{
    padding: 5px;
