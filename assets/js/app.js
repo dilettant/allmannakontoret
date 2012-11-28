@@ -65,6 +65,7 @@ $(document).ready(function(){
       i;
   for (i = 0; i < len; i++) {
     console.log('cookies[i]', cookies[i]);
+    console.log('indexOf', cookies[i].indexOf("thepublicoffice="));
     thepublicoffice = cookies[i].substr(0,cookies[i].indexOf("thepublicoffice="));
     thepublicofficeEmail = cookies[i].substr(0,cookies[i].indexOf("thepublicoffice-email="));
   };
