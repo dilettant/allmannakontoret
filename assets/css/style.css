@@ -70,6 +70,7 @@ h1.logo.en a{
    ------ */
 .postit{
   text-align: center;
+  display: none;
   background: url({{site.assetsurl}}/assets/img/postit.png) no-repeat -1px -5px;
   height: 285px;
   margin: 0;
