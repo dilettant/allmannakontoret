@@ -1,11 +1,12 @@
 ---
 ---
 /* @override 
-	http://thepublicoffice.se//assets/css/style.css
-	http://thepublicoffice.se/assets/css/style.css
-	file:///Users/vectorsize/Dropbox/www/dilettant/nualmannakontoret/_site//assets/css/style.css
-	file:///Users/vectorsize/Dropbox/www/dilettant/nualmannakontoret/_site/assets/css/style.css
-	http://allmannakontoret.se/assets/css/style.css */
+  http://thepublicoffice.se//assets/css/style.css
+  http://thepublicoffice.se/assets/css/style.css
+  file:///Users/vectorsize/Dropbox/www/dilettant/nualmannakontoret/_site//assets/css/style.css
+  file:///Users/vectorsize/Dropbox/www/dilettant/nualmannakontoret/_site/assets/css/style.css
+  http://allmannakontoret.se/assets/css/style.css
+  https://dl.dropbox.com/u/606131/style.css */
 
 /* GLOBAL
    ------ */
@@ -46,7 +47,7 @@ ul.tools li:last-child{
   border-left-style: none;
 }
 .tools.lang a.active{
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 /* LOGO
@@ -80,6 +81,7 @@ h1.logo.en a{
 .postit section{
   padding: 25px;
   width: 250px;
+  display: none;
 }
 .postit h1{
   color: #c10032;
@@ -107,9 +109,9 @@ h1.logo.en a{
 }
 .postit a:hover,
 .postit a:active{
-	background-color: #fff;
-	color: #00a77b;
-	border: 1px solid #00a77b;
+  background-color: #fff;
+  color: #00a77b;
+  border: 1px solid #00a77b;
 }
 
 /* MAIN NAV
@@ -148,7 +150,7 @@ nav.main ul li a{
 /* SUBMENU
    ------- */
 nav.submenu ul{
-	margin-top: 10px;
+  margin-top: 10px;
 }
 nav.submenu ul li{
   border-top-width: 1px;
@@ -160,7 +162,7 @@ nav.submenu > ul > li {
   padding-top: 15px;
 }
 nav.submenu > ul > li div{
-	margin-right: 10px;
+  margin-right: 10px;
 }
 nav.submenu > ul > li:first-child{
   padding-bottom: 10px;
@@ -170,11 +172,11 @@ nav.submenu > ul > li.active{
 }
 nav.submenu ul li a:link,
 nav.submenu ul li a:visited{
-	color: #d0cece;
+  color: #d0cece;
 }
 nav.submenu ul li{
-	border-color: #d0cece;
-	text-align: right;
+  border-color: #d0cece;
+  text-align: right;
 }
 nav.submenu > ul > li.active + li{
   border-top-style: none;
@@ -219,7 +221,7 @@ nav.submenu > ul > li.active > a:active{
   color: #fff;
 }
 nav.submenu > ul > li > ul {
-	margin-bottom: -10px;
+  margin-bottom: -10px;
 }
 
 /* ABOUT */
@@ -271,25 +273,25 @@ nav.submenu > ul > li > ul {
 /* CONTENT
    ------- */
 .sidebarpics li{
-	margin-bottom: 10px;
-	margin-top: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 .content article ul{
-	margin-top: 30px;
-	padding-left: 10px;
+  margin-top: 30px;
+  padding-left: 10px;
 }
 .content article ul li{
-	list-style-type:disc;
-	margin-left: 10px;
+  list-style-type:disc;
+  margin-left: 10px;
 }
 .content article h3 {
-	text-transform: uppercase;
-	font-weight: normal;
-	font-style: normal;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	font-size: 19px;
-	color: #898989;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-style: normal;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 19px;
+  color: #898989;
 }
 .content{
   padding-top: 60px;
@@ -306,16 +308,16 @@ nav.submenu > ul > li > ul {
   margin-bottom: 20px;
 }
 .content h2.intro{
-	font: 400 20px 'Josefin Slab', serif;
-	text-transform: uppercase;
-	color: #898989;
-	font-weight: normal;
-	font-style: normal;
-	line-height: 25px;
+  font: 400 20px 'Josefin Slab', serif;
+  text-transform: uppercase;
+  color: #898989;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 25px;
 }
 .content a{
-	color: #00a06c;
-	font-size: 16px;
+  color: #00a06c;
+  font-size: 16px;
 }
 .edit a,
 .read a{
@@ -346,68 +348,68 @@ nav.submenu > ul > li > ul {
   font-size: 20px;
 }
 .content p:last-child{
-	padding-bottom: 10px;
+  padding-bottom: 10px;
 }
 .index .nomenu{
-	background: url({{site.assetsurl}}/assets/img/index.png) no-repeat 0 60px;
+  background: url({{site.assetsurl}}/assets/img/index.png) no-repeat 0 60px;
 }
 .contact .nomenu{
-	background: url({{site.assetsurl}}/assets/img/contact.png) no-repeat 0 60px;
+  background: url({{site.assetsurl}}/assets/img/contact.png) no-repeat 0 60px;
 }
 .content article{
-	float: left;
-	padding-top: 10px;
-	padding-left: 10px;
+  float: left;
+  padding-top: 10px;
+  padding-left: 10px;
 }
 .nomenu.content article{
-	background-color: rgba(255, 255, 255, 0.93);	
+  background-color: rgba(255, 255, 255, 0.93);  
 }
 .tools{
-	margin-left: -4px;
+  margin-left: -4px;
 }
 .content .tools{
-	margin-left: -24px;
-	margin-top: 15px;
+  margin-left: -24px;
+  margin-top: 15px;
 }
 .content .tools li{
-	list-style: none;
+  list-style: none;
 }
 .team h3.name{
-	margin: 0 0 5px;
+  margin: 0 0 5px;
 }
 .team img{
-	margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 .team .role{
   font: italic 700 15px 'Lora';
-	color: #d0cece;
-	margin-bottom: 5px;
-	margin-left: 0;
+  color: #d0cece;
+  margin-bottom: 5px;
+  margin-left: 0;
 }
 .team .description p{
-	font-size: 17px;
-	line-height: 1.2em;
+  font-size: 17px;
+  line-height: 1.2em;
 }
 .content article ul.team li{
-	list-style-type:none;
-	margin-left: 0px;
-	border-bottom: 1px dashed #d0cece;
-	margin-bottom: 20px;
+  list-style-type:none;
+  margin-left: 0px;
+  border-bottom: 1px dashed #d0cece;
+  margin-bottom: 20px;
 }
 .content article ul.team li:last-child{
-	border-bottom-style: none;
+  border-bottom-style: none;
 }
 
 /* FOOTER
    ------ */ 
  footer{
    font-size: 12px;
-	 margin: 70px 0 0;
+   margin: 70px 0 0;
    border-top: 1px dashed #d5d5d5;
    color: #a9a9a9;
-	 padding-top: 10px;
-	 padding-right: 0;
-	 padding-left: 0;
+   padding-top: 10px;
+   padding-right: 0;
+   padding-left: 0;
  }
  footer p{
    margin: 0 0 3px;
@@ -421,9 +423,9 @@ nav.submenu > ul > li > ul {
  }
  footer section{
    clear: none;
-	 margin-top: 20px;
+   margin-top: 20px;
    margin-right: 1px;
-	 margin-bottom: 110px;
+   margin-bottom: 110px;
  }
  footer section h1{
    font: italic 700 16px 'Lora';
@@ -448,52 +450,41 @@ nav.submenu > ul > li > ul {
    margin-bottom: 15px;
    margin-top: 15px;
  }
- 
  footer section.second li a.github:link,
  footer section.second li a.github:visited{
    background-position: 0 -125px;
  }
- 
  footer section.second li a.github:hover,
  footer section.second li a.github:active{
     background-position: 0 -165px;
  }
- 
  footer section.second li a.flattr:link,
  footer section.second li a.flattr:visited{
    background-position: -147px -125px;
  }
- 
  footer section.second li a.flattr:active,
  footer section.second li a.flattr:hover{
    background-position: -147px -165px;
  }
- 
  footer section.third li a.twitter:link,
  footer section.third li a.twitter:visited{
    background-position: -146px -213px;
  }
- 
  footer section.third li a.twitter:hover,
  footer section.third li a.twitter:active{
    background-position: -146px -253px;
  }
- 
  footer section.third li a.facebook:link,
  footer section.third li a.facebook:visited{
    background-position: 0 -213px;
  }
- 
  footer section.third li a.facebook:hover,
  footer section.third li a.facebook:active{
    background-position: 0 -253px;
  }
- 
- 
  footer section.third{
    margin-left: 0;
  }
- 
  footer h1 a{
    text-indent: -9999px;
    display: block;
@@ -502,7 +493,6 @@ nav.submenu > ul > li > ul {
    float: left;
    margin-top: 13px;
  }
- 
  footer h1 a:link,
  footer h1 a:active
  {
@@ -515,48 +505,55 @@ nav.submenu > ul > li > ul {
    background: url({{site.assetsurl}}/assets/img/tools.png) no-repeat -105px -63px;
  }
  footer section.first{
- 	margin-top: 53px;
+  margin-top: 53px;
  }
  footer section.first p:nth-of-type(1){
    width: 200px;
    margin-left: 10px;
    margin-top: 10px;
  }
- 
  footer section.first p:nth-of-type(2){
    clear: left;
    margin-top: 10px;
    width: 265px;
  }
- 
  footer .separator{
- 	border-left:1px solid #a9a9a9;
- 	height:100px;
- 	width:1px;
- 	margin: 70px 0 0;
- 	float:left
+  border-left:1px solid #a9a9a9;
+  height:100px;
+  width:1px;
+  margin: 70px 0 0;
+  float:left
  }
  footer .email{display:none} /* for the newsletter subscription */
  footer section.fourth p{
- 	margin-bottom: 1em;
+  margin-bottom: 1em;
  }
  footer form input{
- 	border: 1px solid #d5d5d5;
-    font: italic 700 12px 'Lora';
- }
- footer form input.submit{
+  border: 1px solid #d5d5d5;
+  font: italic 700 12px 'Lora';
+  margin: 5px 0 0;
+}
+footer form button{
+  padding: 5px;
+  color: #fff;  
+}
+footer form input.subscribe,
+footer form input.unsubscribe{
    padding: 5px;
    color: #fff;
-} 
+   width: 108px;
+   margin: 5px 0 0;
+ }
+footer form input.subscribe{
+     width: 109px; 
+}
 input::-webkit-input-placeholder,
 input:-moz-placeholder,
 input:-ms-input-placeholder {
    color: #cfcfcf;
 }
- footer form input.lbqod{
-   padding: 5px 0 5px 5px;
-   color: #adadad;
-}
-footer .newsletter{
-	display: none;
+footer form input.lbqod{
+ padding: 5px 0 5px 5px;
+ color: #adadad;
+ width: 213px;
 }
