@@ -544,9 +544,7 @@ footer form input.unsubscribe{
    width: 108px;
    margin: 5px 0 0;
  }
-footer form input.subscribe{
-     width: 109px; 
-}
+
 input::-webkit-input-placeholder,
 input:-moz-placeholder,
 input:-ms-input-placeholder {
@@ -555,5 +553,5 @@ input:-ms-input-placeholder {
 footer form input.lbqod{
  padding: 5px 0 5px 5px;
  color: #adadad;
- width: 213px;
+ width: 212px;
 }
