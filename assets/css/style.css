@@ -538,7 +538,8 @@ footer form button{
   padding: 5px;
   color: #fff;  
 }
-footer form input.nlbutton{
+footer form input.nlbutton,
+footer form input.nlbutton.disabled:hover{
    padding: 5px;
    color: #fff;
    width: 108px;
@@ -549,8 +550,7 @@ footer form input.nlbutton:hover{
   background-color: #fff;
   color: #a9a9a9;
 }
-footer form input.nlbutton.disabled,
-footer form input.nlbutton.disabled:hover
+footer form input.nlbutton.disabled
 {
   border-style: dashed;
   border-color: #c4c4c4;
