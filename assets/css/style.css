@@ -548,8 +548,15 @@ footer form input.unsubscribe{
  }
 footer form input.subscribe:hover,
 footer form input.unsubscribe:hover{
-  background-color: transparent;
+  background-color: #fff;
   color: #a9a9a9;
+}
+footer form input:disabled,
+footer form input:disabled,
+footer form input.subscribe:hover,
+footer form input.unsubscribe:hover{
+  border-style: dashed;
+  border-color: #c4c4c4;
 }
 input::-webkit-input-placeholder,
 input:-moz-placeholder,
