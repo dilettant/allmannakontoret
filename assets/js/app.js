@@ -44,20 +44,21 @@ $(document).ready(function(){
       data: {"q": "%23" + hashtag, "from" : "@" + user, "result_type":"mixed"},
       success: function(data){
         var lastTweet = data.results[0];
-        console.log('lastTweet', lastTweet);
-        var dateString = lastTweet['created_at'];
-        var date = new Date(dateString);
-        var text = lastTweet['text'];
-        var url = 'https://twitter.com/' + user + '/status/' + lastTweet['id_str'];
-        var hour = date.getHours();
-        var minutes = date.getMinutes();
-        var day = date.getDate();
-        var month = date.getMonth();
-        var tweetDate =  hour + ':' + minutes + '<br>' + day + ' ' + months[month];
+        if(lastTweet) {
+          var dateString = lastTweet['created_at'];
+          var date = new Date(dateString);
+          var text = lastTweet['text'];
+          var url = 'https://twitter.com/' + user + '/status/' + lastTweet['id_str'];
+          var hour = date.getHours();
+          var minutes = date.getMinutes();
+          var day = date.getDate();
+          var month = date.getMonth();
+          var tweetDate =  hour + ':' + minutes + '<br>' + day + ' ' + months[month];
 
-        $('.twitter.content').html(linkify(text));
-        $('.twitter.date').html(tweetDate);
-        $('.twitter h1 a').attr({'href':url});
+          $('.twitter.content').html(linkify(text));
+          $('.twitter.date').html(tweetDate);
+          $('.twitter h1 a').attr({'href':url});
+        }
       }
     });
     
