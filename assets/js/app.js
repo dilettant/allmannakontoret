@@ -68,7 +68,7 @@ $(document).ready(function(){
   };
   $('.nlbutton').addClass('disabled').attr('disabled', 'disabled');
 
-  $('lbqod').keyup(function (e) { 
+  $('.lbqod').keyup(function (e) { 
     var val = $(this).val();
     if(validateEmail(val)) {
       $('.nlbutton').removeClass('disabled').attr('disabled', 'disabled');
