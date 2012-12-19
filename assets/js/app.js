@@ -74,6 +74,8 @@ $(document).ready(function(){
     var val = $(this).val();
     if(validateEmail(val)) {
       $('.nlbutton').removeClass('disabled').attr('disabled', 'disabled');
+    } else {
+        $('.nlbutton').addClass('disabled').attr('disabled', 'disabled');
     }
 })
 
