@@ -66,12 +66,12 @@ $(document).ready(function(){
     readability();
     return false;
   };
-  $('.nlbutton').addClass('disabled').prop('disabled', true);
+  $('.nlbutton').addClass('disabled').attr('disabled', 'disabled');
 
   $('lbqod').keyup(function (e) { 
     var val = $(this).val();
     if(validateEmail(val)) {
-      $('.nlbutton').removeClass('disabled').prop('disabled', false);
+      $('.nlbutton').removeClass('disabled').attr('disabled', 'disabled');
     }
 })
 
