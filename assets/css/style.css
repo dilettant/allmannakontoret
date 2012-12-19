@@ -555,6 +555,7 @@ footer form input.nlbutton.disabled
   color: #dedede;
   border-style: dashed;
   border-color: #c4c4c4;
+  background-color: #fff;
 }
 input::-webkit-input-placeholder,
 input:-moz-placeholder,
