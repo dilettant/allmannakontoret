@@ -546,7 +546,11 @@ footer form input.unsubscribe{
    margin: 5px 0 0;
    background-color: #a9a9a9;
  }
-
+footer form input.subscribe:hover,
+footer form input.unsubscribe:hover{
+  background-color: transparent;
+  color: #a9a9a9;
+}
 input::-webkit-input-placeholder,
 input:-moz-placeholder,
 input:-ms-input-placeholder {
