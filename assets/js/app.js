@@ -7,6 +7,16 @@ function readability() {
   s.setAttribute('src', baseUrl + '/bookmarklet/read.js');
   document.documentElement.appendChild(s);
 };
+
+function validateEmail($email) {
+  var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+  if( !emailReg.test( $email ) ) {
+    return false;
+  } else {
+    return true;
+  }
+};
+
 $(document).ready(function(){
     //parse links, user id's, hashtags
     function linkify(d){
