@@ -44,6 +44,7 @@ $(document).ready(function(){
       data: {"q": "%23" + hashtag, "from" : "@" + user, "result_type":"mixed"},
       success: function(data){
         var lastTweet = data.results[0];
+        console.log('lastTweet', lastTweet);
         var dateString = lastTweet['created_at'];
         var date = new Date(dateString);
         var text = lastTweet['text'];
