@@ -73,9 +73,9 @@ $(document).ready(function(){
   $('.lbqod').keyup(function (e) { 
     var val = $(this).val();
     if(validateEmail(val)) {
-      $('.nlbutton').removeClass('disabled').attr('disabled', 'disabled');
+      $('.nlbutton').removeClass('disabled').attr('disabled', null);
     } else {
-        $('.nlbutton').addClass('disabled').attr('disabled', 'disabled');
+      $('.nlbutton').addClass('disabled').attr('disabled', 'disabled');
     }
 })
 
