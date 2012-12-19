@@ -66,29 +66,13 @@ $(document).ready(function(){
     readability();
     return false;
   };
+  $('.nlbutton').addClass('disabled').prop('disabled', true);
 
-  // cookies and newsletter
-  var $subs = $('#subs'), $unsubs = $('#unsubs');
-  $unsubs.hide();
-  function getCookieVal(name) {
-    var cookies = document.cookie.replace('; ', ';').split(";"),
-        matchme = name + "=",
-        value = '',
-        len = cookies.length,
-        i;
+  $('lbqod').keyup(function (e) { 
+    var val = $(this).val();
+    if(validateEmail(val)) {
+      $('.nlbutton').removeClass('disabled').prop('disabled', false);
+    }
+})
 
-    for (i = 0; i < len; i++) {
-      if (cookies[i].indexOf(matchme) >= 0) {
-        return cookies[i].replace(matchme, '').replace('%40', '@');
-      }
-    };
-  }
-  if (getCookieVal('thepublicoffice') && getCookieVal('thepublicoffice').length > 0 && getCookieVal('thepublicoffice-email') && getCookieVal('thepublicoffice-email').length > 0){
-    $subs.hide();
-    $unsubs.show();
-    $('#lbqod').val(getCookieVal('thepublicoffice-email'));
-  } else {
-    $unsubs.hide();
-    $subs.show();
-  }
 });
