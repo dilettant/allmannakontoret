@@ -326,6 +326,7 @@ section ol{
 	color: #a9a9a9;
 	margin-left: 30px;
 	font: italic 400 14px 'Lora';
+	line-height: 1.5em;
 }
 section ol li{
 	list-style-type: decimal-leading-zero;
