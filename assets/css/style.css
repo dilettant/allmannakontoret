@@ -303,6 +303,24 @@ nav.submenu > ul > li > ul {
   color: #bb0038;
   margin-bottom: 20px;
 }
+nav.submenu.sticky{
+  width: 220px;
+  position: fixed;
+  z-index: 10;  
+}
+.content h2.sub{
+  font: 700 24px 'Josefin Slab', serif;
+  text-transform: uppercase;
+  color: #898989;
+  padding-top: 20px;
+}
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-top-color: #a9a9a9;
+  border-top-style: dashed;
+  border-top-width: 1px;
+}
 .content h2{
 	font: 700 36px 'Josefin Slab', serif;
 	text-transform: uppercase;
