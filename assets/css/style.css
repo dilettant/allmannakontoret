@@ -322,6 +322,15 @@ hr {
 	margin-bottom: 20px;	
 	padding-top: 20px;
 }
+section ol{
+	margin-left: 30px;
+	color: #D0CECE;
+	font: italic 400 14px 'Lora';
+}
+section ol li{
+	list-style-type: decimal-leading-zero;
+	padding-bottom: 10px;
+}
 .content h2.subtitle{
   font: italic 700 25px 'Lora';
   color: #898989;
