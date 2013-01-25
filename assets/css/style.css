@@ -304,6 +304,13 @@ nav.submenu > ul > li > ul {
   margin-bottom: 20px;
 }
 .content h2{
+	font: 700 36px 'Josefin Slab', serif;
+	text-transform: uppercase;
+	color: #bb0038;
+	margin-bottom: 20px;	
+	margin-top: 20px;	
+}
+.content h2.subtitle{
   font: italic 700 25px 'Lora';
   color: #898989;
   margin-bottom: 20px;
