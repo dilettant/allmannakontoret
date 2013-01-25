@@ -334,11 +334,6 @@ section ol li{
 section ol li a:link,
 section ol li a:visited{
 	font-size: 14px;	
-	color: #D0CECE;	
-}
-section ol li a:hover,
-section ol li a:active{
-	color: #0fa574;
 }
 .content h2.subtitle{
   font: italic 700 25px 'Lora';
