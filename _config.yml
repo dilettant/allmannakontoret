@@ -19,8 +19,7 @@ dates: "30 OCT - 30 NOV 2012"
 times: "Tisdag-Lördag kl 10.00-18.00"
 join: "Kom till Allmänna kontoret på Arkitekturmuseet"
 more: "Läs mer"
-# baseurl: http://allmannakontoret.se
-baseurl: file://localhost/Volumes/Home/Dropbox/www/dilettant/allmannakontoret/_site/
+baseurl: http://allmannakontoret.se
 assetsurl: http://allmannakontoret.se
 bannername: arkitekturmuseet
 
