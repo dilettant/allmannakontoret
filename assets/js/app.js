@@ -77,6 +77,77 @@ $(document).ready(function(){
     } else {
       $('.nlbutton').addClass('disabled').attr('disabled', 'disabled');
     }
-})
+  });
+
+  // Sticky menu
+  // -----------
+
+  var oritop = -100;
+  var elm = $(".submenu"); //get the box we want to make sticky
+  var foot = $("footer");
+  var footerTop = foot.offset().top;
+
+  $(window).scroll(function() { //on scroll,
+    var scrollt = window.scrollY; //get the amount of scrolling
+    if(elm.length > 0 && oritop < 0) {
+      oritop= elm.offset().top; //cache the original top offset
+      oritheig = elm.height();
+    }
+
+    if(scrollt >= oritop) { //if you scrolled past it,
+      if((scrollt + oritheig) >= footerTop) {
+        // console.log('one');
+        // touches footer
+        //make it sticky
+        elm.css({"position": "absolute", "top": footerTop - oritheig - 20, 'width': '220px'});
+      } else {
+      // console.log('two');
+      // doesnt touch footer
+        elm.css({"position": "fixed", "top": 0, 'width': '220px'}); //make it sticky
+      }
+    }
+    else { //otherwise
+      // console.log('three');
+      elm.css("position", "static"); //reset it to default positioning
+    }
+  });
+  
+  // onload reposition menu if it overlaps
+  // if(window.scrollY + elm.height() >= footerTop ) {
+  //   elm.css({"position": "absolute", "top": footerTop - oritheig - 20, 'width': '220px'});
+  // }
+
+  // Inner links activating
+  // ----------------------
+
+  var $priLisA = $('.primary li a');
+  var $secLis = $('.secondary li');
+  var $seclisA = $secLis.find('a');
+  var clss="active";
+  var hash = window.location.hash;
+
+  $priLisA.click(function() {
+    $secLis.removeClass(clss);
+    $seclisA.removeClass(clss);
+  });
+
+  $seclisA.click(function() {
+    $secLis.removeClass(clss);
+    $seclisA.removeClass(clss);
+    $(this).addClass(clss);
+    $(this).parent().parent().addClass(clss); // parent li
+    if(hash) {
+      var thisHash = this.hash;
+      event.preventDefault();
+      $('html,body').animate({scrollTop:$(thisHash).offset().top}, 500);
+      document.location.hash=thisHash;
+    }
+  });
+
+  if(hash) {
+    var $li = $('.secondary li[rel="' + hash.replace('#', '') + '"] ');
+    $li.addClass(clss);
+    $li.find('a').addClass(clss);
+  }
 
 });
