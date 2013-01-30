@@ -137,8 +137,8 @@ $(document).ready(function(){
     $(this).addClass(clss);
     $(this).parent().parent().addClass(clss); // parent li
     if(hash) {
-      var thisHash = this.hash;
       event.preventDefault();
+      var thisHash = this.hash;
       $('html,body').animate({scrollTop:$(thisHash).offset().top}, 500);
       document.location.hash=thisHash;
     }
