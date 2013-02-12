@@ -20,12 +20,32 @@ Genomfört med stöd av
 
 ## delmoment 2 {#delmoment_2}
 
-Den andra och nuvarande fasen syftar till att öppna upp processen och att praktiskt testa konceptet Allmänna kontoret. Den 30 oktober - 30 november 2012 kommer ett tillfälligt Allmänt kontor att vara öppet på Arkitekturmuseet i Stockholm. Du som kommer för att använda kontoret är välkommen att arbeta självständigt eller i grupp, studera, organisera föreläsningar, samtal, utbyta idéer, knyta kontakter osv.
+Delmoment II ägde rum under hösten 2012 i samverkan med Arkitekturmuseet, EU-projektet Special Issue, Offecct AB och Fabel Kommunikation AB. Projektteamet bestod av Anders Jacobson, Myriam Mazzoni, Victor Saiz & Johan Thelander.
 
-Projektteamet består av Anders Jacobson, Myriam Mazzoni, Victor Saiz & Johan Thelander. Under hela perioden kommer teamet att fortsätta utveckla idén om allmänna kontor, tillsammans med inbjudna gäster och intresserade brukare. Från tre huvudteman - *arbete*, *hållbar utveckling* och *politiska dimensioner* - bjuder vi in politiker och tjänstepersoner, forskare, arkitekter, konstnärer och stadsplanerare samt företrädare för bibliotek och bostadsbolag, för att diskutera konceptets möjligheter och politiska bärkraft.
+Under detta andra delmoment öppnade vi upp processen, dels genom att husera ett allmänt kontor på Arkitekturmuseet under fem veckor, och dels genom att bjuda in nyckelaktörer till dialogmöten kring idén. Vi träffade t.ex. 
+* Karin Bradley, lektor vid  avdelningen för urbana och regionala studier på KTH
+* Charlotta Mellander, professor i nationalekonomi 
+* Faaid Ali-Nuur Ahmed, Förorternas Riksdag (Forix)
+* Madeleine Sjöstedt (fp), kultur- och fastighetsborgarråd i Stockholm
+* Berit Högberg (s), riksdagsledamot
+* Ann-Margarethe Livh (v), gruppledare
+* Åsa Jernberg (mp), gruppledare
+* Roland Paulsen, doktorand i sociologi
+* Patrik Liljegren, Kulturstrategiska avdelningen Stockholms kulturförvaltning, 
+* Elisabeth Aldstedt och Giovanna Jörgenssen, Stockholms Stadsbibliotek
+* Niklas Svensson, stadsbyggnadsstrateg. 
 
-Allmänna kontoret, delmoment II, drivs av Dilettant AB i samarbete med Arkitekturmuseet, EU-projektet Special Issue, Offecct AB och Fabel Kommunikation AB, med ekonomiskt stöd av Europeiska Unionens kulturprogram, Kulturbryggan, Arkitekturmuseet och Stockholms Stads Kulturförvaltning.
+236 unika användare kom för att arbeta på kontoret under dessa fem veckor, och ytterligare ca 130 personer kom för att få information om, och diskutera, idén. Allmänna kontoret som plats och koncept möttes av stor nyfikenhet av disparata aktörer som visade aktivt intresse av att starta upp allmänna kontor i framtiden. 
 
-Projektets andra delmoment utgör en del av EU-projektet [Special Issue](http://specialissue.eu), med partners i Frankrike, Serbien, Spanien och Turkiet. Projektet fokuserar på offentlighet och diskursiva praktiker inom konstsektorn, och koordineras av Les Laboratoires d'Aubervillier, Paris.
+Delmoment II finansierades av Europeiska Unionens kulturprogram, Kulturbryggan, Arkitekturmuseet och Stockholms Stads Kulturförvaltning, och var en del av EU-projektet [Special Issue](http://specialissue.eu), med partners i Frankrike, Serbien, Spanien och Turkiet. 
 
 ![samarbete](/assets/img/logos.png)
+
+## delmoment 3 {#delmoment_3}
+Allmänna kontoret är ett Open Source-initiativ, vilket innebär att ett av målen är att allmänna kontor ska kunna initieras, samägas, drivas och modifieras av lokala aktörer på eget initiativ. För att tydliggöra på vilka sätt och enligt vilka villkor detta kan genomföras, måste vi likt andra Open Source-initiativ förtydliga detta i en typ av "licens", där tydliga riktlinjer och användarvillkor artikuleras för att ge stöd, erfarenhet och ramar åt initiativtagare. 
+
+Delmoment III är just nu under utveckling, och ska resultera i applicerbara och utvärderingsbara riklinjer och användarvillkor för uppstart av lokala allmänna kontor i olika former, samt en plan för samverkan kring konkreta testverksamheter i samverkan med Stockholms Stadsbibliotek. 
+
+Delmoment III kommer primärt att genomföras i formen av arbets- och dialogmöten, intervjuer, workshops, föreläsningar (varav två offentliga), studiebesök, litteraturstudier och textproduktion. Resultatet kommer att tillgängliggöras i digital och tryckt form.
+
+
