@@ -53,9 +53,9 @@ menu_om_projektet:
     - mangfald
     - open_source
   - delmoment:
-    - delmoment_1
-    - delmoment_2
-    - delmoment_3
+    - delmoment_I
+    - delmoment_II
+    - delmoment_III
 
 # CONCEPT
 # ------
@@ -95,9 +95,9 @@ index: Hem
 om_projektet : Om projektet
 allmanning : Allmänning
 mangfald : Mångfald
-delmoment_I : Delmoment 1
-delmoment_II : Delmoment 2
-delmoment_III : Delmoment 3
+delmoment_I : Delmoment I
+delmoment_II : Delmoment II
+delmoment_III : Delmoment III
 sammanfattning : Sammanfattning
 utgangspunkter_och_perspektiv : Utgångspunkter och perspektiv
 forandringar_pa_arbetsmarknaden : Förändringar på arbetsmarknaden
