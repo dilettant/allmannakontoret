@@ -7,7 +7,7 @@ category: koncept
 
 Vad är ett Allmänt kontor i praktiken, och hur kan det fungera? Hur kan det initieras, finansieras och drivas? Enligt vilka riktlinjer? Vilka är de förväntade användarna? I detta avsnitt utvecklar vi svar på dessa frågor, och argumenterar för en mångfald av ramar och verksamhetsformer baserade på gemensamma åtaganden.
 
-## allmänna kontoret i praktiken {#allmanna_kontoret_i_praktiken}
+## Allmänna kontoret i praktiken {#allmanna_kontoret_i_praktiken}
 
 Ett allmänt kontor är en öppen och kostnadsfri arbets- och mötesplats där allmänheten ges möjlighet att bedriva arbete och fortbildning.
   
@@ -21,7 +21,7 @@ I direkt anslutning till det allmänna kontoret bör finnas ett bemannat kafé m
   
 Öppettider föreslås vara 08.00-22.00 på vardagar, samt 10.00-18.00 på helger.
 
-## brukargrupper {#brukargrupper}
+## Brukargrupper {#brukargrupper}
 
 Då de allmänna kontoren föreslås vara offentliga platser, är de per definition öppna för alla. Behovsanalysen bygger i grunden på en ökad andel frilans- och hemarbetande, samt en vision om social inkludering genom arbetsgemenskap. Vi har tidigare i rapporten diskuterat på vilka sätt allmänna kontor skulle utgöra ett stöd för frilansare, projektanställda, osv. I detta stycke resonerar vi kring andra brukargrupper som även de kan ha stora behov och fördelar med allmänna kontor. Den stora potentialen vad gäller brukare, är just möjligheten till en mångfald.
 
@@ -32,7 +32,7 @@ Då de allmänna kontoren föreslås vara offentliga platser, är de per definit
 * Hemlösa behöver regelbundet vara i kontakt med myndigheter, ha möjligheter till arbetsträning, meningsfull sysselsättning och tillgång till gemenskap. Allmänna kontor kan i detta avseende både vara en välkomnande plats för människor som annars stängs ute från professionella miljöer och sociala sammanhang där de kan möta professionellt aktiva människor. Offentligheten som allmänna kontor utgör föreslår att samhället behöver fler ytor där människor från olika samhällsgrupper kan samexistera, se varandra, och samverka.  
 * Vårt samtida samhälle lider på många sätt av en stark ålderssegregation. Människor i alla åldrar bedriver olika typer av projekt, söker information, trivs i gemenskap osv. Många pensionärer vittnar om det stora skifte i självbild som det kan innebära att plötsligt inte ha ett arbete att gå till, och upplever en plötslig ensamhet och brist på sammanhang. På liknande sätt är aktiva ungdomar hänvisade till specifika ungdomssatsningar, ungdomsgårdar eller organiserade fritidssysselsättningar. Allmänna kontor har potentialen att bli en yta där människor av olika åldrar kan vistas tillsammans när de vill bedriva projekt eller vardaglig administration.
 
-## ägarformer och riktlinjer {#agarformer_och_riktlinjer}
+## Ägarformer och riktlinjer {#agarformer_och_riktlinjer}
 
 I syfte att uppnå en mångfald av verksamheter och inriktningar, förordar vi en blandning vad gäller organisations- och driftsformer.
   
@@ -52,7 +52,7 @@ Det bör även vara möjligt för kommunen och kommunala institutioner, t.ex. bi
 * mångfald i personal och beslutsfattande instanser, avseende kön, könsidentitet eller könsuttryck, etnisk tillhörighet, religion eller annan trosuppfattning, kultur, funktionalitet, sexuell orientering och ålder, ska eftersträvas   
 * verksamheten ska underlätta för alla brukare att mötas, stödja varandra och möjliggöra för andra brukare att använda platsen och dess funktioner.  
 
-## finansieringsformer {#finansieringsformer}
+## Finansieringsformer {#finansieringsformer}
 
 Hur varje enskilt allmänt kontor finansieras kan troligen komma att se mycket olika ut, men idén bygger på att det finns ett offentligt åtagande som möjliggör driften. På vissa platser kommer det att vara möjligt att göra vissa intäkter, etablera lokala samarbeten med näringslivet osv. Vi ser även möjligheter till att bostadsbolag och fastighetsägare kan vara intresserade av att upplåta lokaler billigt eller gratis under perioder, medan andra situationer kommer att kräva ett heltäckande offentligt stöd. 
   
@@ -65,7 +65,7 @@ Idén om allmänna kontor har mött frågor och synpunkter gällande konkurrensp
   
 Slutsatsen i denna rapport, avseende frågan om eventuell snedvridning av konkurrens, är att alla typer av offentliga investeringar påverkar och interagerar med olika marknader. I slutändan handlar det om politiska beslut gällande vilken infrastruktur samhället ska tillgängliggöra för alla.
 
-## utformning och innehåll {#utformning_och_innehall}
+## Utformning och innehåll {#utformning_och_innehall}
 
 Målet är att de allmänna kontoren sammanlagt kan erbjuda en mångfald av miljöer som kan attrahera olika målgrupper, och i detta är det viktigt att ge verksamhetsledningarna frihet att utveckla specificitet. 
   

@@ -7,7 +7,7 @@ category: koncept
 
 Visionen om allmänna kontor har växt fram ur observationer och analyser av den samtida arbetsmarknaden, som kännetecknas av ökad flexibilitet, rörlighet – och otrygghet. Med utgångspunkt i begreppet "arbetsplatslöshet", adresserar vi betydelsen av, och rätten till, arbetsgemenskap och demokratisk tillgång till arbete och kooperativ kunskapsutveckling. Allmänna kontoret berör även frågor om lokal stadsutveckling, då vi menar att offentliga mötesplatser för kunskapsutbyte genom arbete kan spela en viktig roll i hållbar utveckling för stadsdelar och städer. I detta avsnitt utvecklar vi dessa utgångspunkter och perspektiv.
 
-## förändringar på arbetsmarknaden {#forandringar_pa_arbetsmarknaden}
+## Förändringar på arbetsmarknaden {#forandringar_pa_arbetsmarknaden}
 
 Arbetsmarknaderna förändras, och det går i dag att se en tydlig utveckling mot en växande andel frilansare, korttidsanställda och ensamföretagare. Människor och företag är i dag långt mer geografiskt mobila än tidigare, och med nya kommunikationsteknologier kan arbete numera ske i princip när som helst och var som helst.
   
@@ -25,7 +25,7 @@ Att tillhöra en gemenskap kan sägas vara en förutsättning för att kunna byg
   
 Att arbeta jämsides, utan att nödvändigtvis arbeta med samma projekt, är ett bra sätt att bygga kompetens, utbyta information och få tillgång till synpunkter, tips och stöd. I en tid då de flesta yrkesgrupper spenderar en stor del av sin arbetstid framför en dator och i digitala världar, är det därtill viktigt att peka på betydelsen av rumslig gemenskap; att kunna ta en paus tillsammans med andra, att diskutera aktuella frågor eller affärs- och projektidéer. 
 
-## offentliga mötesplatser och rätten till arbete {#offentliga_motesplatser_och_ratten_till_arbete}
+## Offentliga mötesplatser och rätten till arbete {#offentliga_motesplatser_och_ratten_till_arbete}
 
 I det samtida välfärdssamhället tillhandahålls eller subventioneras offentliga rum och platser där människor kan mötas, sitta en stund, promenera, engagera sig i utbildning och kulturell förkovran, utan att detta tillträde kräver en ekonomisk transaktion i direkt mening. Dessa rum och platser bildar en infrastruktur som främjar likvärdiga möjligheter till kunskap, kultur, fritid och rörlighet.
   
@@ -33,7 +33,7 @@ De offentliga platserna har potential att genom sin tillgänglighet skapa miljö
 
 > "Rätten till arbete innebär inte en ovillkorlig rätt till ett arbete, utan en skyldighet för staterna att vidta åtgärder som syftar till att avskaffa arbetslösheten. Alla människor har också rätt till gynnsamma och rättvisa arbetsvillkor, bland annat en ersättning som är skälig och tillräcklig för att ge familjen en godtagbar tillvaro, samt lika lön för lika arbete. Dessutom ska alla ha trygga och sunda arbetsförhållanden." [(2)](#footnotes){#foot2}
 
-## betydelsen av offentliga mötesplatser i lokal utveckling {#betydelsen_av_offentliga_motesplatser_i_lokal_utveckling}
+## Betydelsen av offentliga mötesplatser i lokal utveckling {#betydelsen_av_offentliga_motesplatser_i_lokal_utveckling}
 
 Många kommuner har insett betydelsen av det behov av olika typer av mötesplatser som skapas av människors och företags ökade rörlighet, och inom många kommuner pågår aktivt arbete för att kartlägga och utveckla strategier för att skapa olika typer av samtida mötesplatser. Mötesplatserna bedöms av många vara avgörande för att utveckla den lokala miljön och göra den mer attraktiv. [(3)](#footnotes){#foot3}
   
