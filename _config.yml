@@ -46,7 +46,7 @@ menu_main:
 # ABOUT
 # -----
 menu_om_projektet:
-  - Team
+  - team
   - filosofi:
     - Kooperation
     - allmanning
@@ -60,7 +60,7 @@ menu_om_projektet:
 # CONCEPT
 # ------
 menu_koncept:
-  - Sammanfattning
+  - sammanfattning
   - utgangspunkter_och_perspektiv:
     - forandringar_pa_arbetsmarknaden
     - offentliga_motesplatser_och_ratten_till_arbete
