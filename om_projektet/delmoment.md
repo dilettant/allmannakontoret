@@ -20,7 +20,7 @@ Genomfört med stöd av
 
 ## Delmoment II {#delmoment_ii}
 
-Delmoment II ägde rum under hösten 2012 i samverkan med Arkitekturmuseet, EU-projektet Special Issue, Offecct AB och Fabel Kommunikation AB. Projektteamet bestod av Anders Jacobson, Myriam Mazzoni, Victor Saiz & Johan Thelander.
+Delmoment II ägde rum under hösten 2012 i samverkan med Arkitekturmuseet, EU-projektet Special Issue, Offecct AB och Fabel Kommunikation AB. Projektteamet bestod av Anders Jacobson, Myriam Mazzoni, Victor Saiz & Johan Thelander. Kontoret designades av Marie de France, Anna Ingebrigtsen och Sam Kennedy, och projektets grafiska design gjordes av Alba Plaza.
 
 Under detta andra delmoment öppnade vi upp processen, dels genom att husera ett allmänt kontor på Arkitekturmuseet under fem veckor, och dels genom att bjuda in nyckelaktörer till dialogmöten kring idén. Vi träffade t.ex. 
 * Karin Bradley, lektor vid  avdelningen för urbana och regionala studier på KTH
