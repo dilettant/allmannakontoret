@@ -33,7 +33,7 @@ De offentliga platserna har potential att genom sin tillgänglighet skapa miljö
 
 > "Rätten till arbete innebär inte en ovillkorlig rätt till ett arbete, utan en skyldighet för staterna att vidta åtgärder som syftar till att avskaffa arbetslösheten. Alla människor har också rätt till gynnsamma och rättvisa arbetsvillkor, bland annat en ersättning som är skälig och tillräcklig för att ge familjen en godtagbar tillvaro, samt lika lön för lika arbete. Dessutom ska alla ha trygga och sunda arbetsförhållanden." [(2)](#footnotes){#foot2}
 
-Givet de flexibla och inte sällan prekära arbetsvillkor som präglar många människors vardag, är det rimligt att arbets rumsliga och sociala dimensioner relateras just till rätten till gynnsamma och rättvisa arbetsvillkor. 
+Givet de flexibla och inte sällan prekära arbetsvillkor som präglar många människors vardag, är det rimligt att arbets rumsliga och sociala dimensioner relateras just till rätten till gynnsamma och rättvisa arbetsvillkor. Politiska ansträngningar för sysselsättning bör därför kunna utvidgas till att främja offentliga rum för arbete.
 
 ## Betydelsen av offentliga mötesplatser i lokal utveckling {#betydelsen_av_offentliga_motesplatser_i_lokal_utveckling}
 
