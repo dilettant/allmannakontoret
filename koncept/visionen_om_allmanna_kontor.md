@@ -70,7 +70,7 @@ Idén om en demokratiskt tillgänglig infrastruktur bygger till viss del på att
   
 Detta innebär att förslaget, för att nå ett brett genomslag, förutsätter en politisk situation där utvecklings- och verksamhetsstöd för allmänna kontor kan sökas på liknande sätt som verksamhetsstöd för t.ex. kulturella verksamheter eller vid offentlig upphandling. Dessa stöd bör präglas av en seriös framförhållning för att säkerställa kontinuitet och professionalism i driften, men även flexibilitet vid initiativ avseende tillfälligt tillgängliga platser. 
 
-Samtidigt som ett offentligt engagemang är är en grundbult i förslaget, är det alltså viktigt att betona att konceptet just utgör ett förslag till samverkan mellan olika ekonomier och aktörer. Det är även mycket möjligt att även tänka sig privata och civilsamhälleliga aktörer som öppnar upp sina lokaler för allmänheten, och inte minst olika typer av samverkanskonstellationer. 
+Det är mycket möjligt att även tänka sig privata och civilsamhälleliga aktörer som öppnar upp sina lokaler för allmänheten som en del av sitt samhällsansvar (CSR), och som ett sätt att skapa en kreativ arbetsplats. Samtidigt som ett offentligt engagemang är är en grundbult i förslaget, är det alltså viktigt att betona att konceptet just utgör ett förslag till samverkan mellan olika ekonomier och aktörer. 
 
 ### Frågan om konkurrens med befintliga företag och aktörer  
 Idén om allmänna kontor har ibland mött frågor och synpunkter gällande konkurrensproblematik. Kritiken ligger då i att allmänna kontor skulle göra det svårt för existerande aktörer som hyr ut arbetslokaler.
