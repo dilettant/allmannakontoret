@@ -67,13 +67,11 @@ Ytterligare en stor fråga som berör miljön, är frågan om resursdelning. Hä
 
 <hr id="footnotes"/>
 
-1. Det är svårt att säga exakt hur stor arbetsplatslösheten är, och enligt Statistiska Centralbyrån och Arbetsmiljöverket finns ingen statistik i frågan. [(up)](#foot1)
-2. För en definition av prekärt arbete, se engelska Wikipedia: [http://en.wikipedia.org/wiki/Precarious_work] (http://en.wikipedia.org/wiki/Precarious_work) [(up)](#foot2)
-3. Se Rätten till arbete, hämtad från regeringens webbplats om mänskliga rättigheter: [http://www.
-manskligarattigheter.gov.se.] (http://www.
-manskligarattigheter.gov.se.) Publicerat 17 april 2012. Hämtat 1 juni 2012. [(up)](#foot3)
-4. Jfr Mötesplatser i Stockholmsregionen – Rapport 2:2010, utgiven av Regionplanekontoret Stockholms Läns Landsting 2010: [http://www.tmr.sll.se/Publikationer/2010/Motesplatser-i-Stockholmsregionen] (http://www.tmr.sll.se/Publikationer/2010/Motesplatser-i-Stockholmsregionen) [(up)](#foot4)
-5. För en definition av gentrifiering, se engelska Wikipedia: [http://en.wikipedia.org/wiki/Gentrification] (http://en.wikipedia.org/wiki/Gentrification) [(up)](#foot5)
-6. Intervju med med Roland Paulsen, sociolog vid Uppsala universitet, författare till *Arbetssamhället – Hur arbetet överlevde teknologin*, 2010, Gleerups Utbildning AB. Studien som refereras är Burgard, S. A., Brand, J. E. & House, J. S. (2009), *Perceived job insecurity and worker health in the U nit ed States*, i Social Science & Medicine (69). [(up)](#foot6)
-7. De studier om arbetspendling som refereras finns sammanfattade i Erika Sandows avhandling *On the road – Social aspects of commuting long distances to work*, 2011, Kulturgeografiska institutionen, Umeå Universitet: [http://www.avhandlingar.se/avhandling/a3da7332e9] (http://www.avhandlingar.se/avhandling/a3da7332e9/) [(up)](#foot7)
-8. För en definition av kollaborativ konsumtion, se engelska Wikipedia: [http://en.wikipedia.org/wiki/Collaborative_consumption] (http://en.wikipedia.org/wiki/Collaborative_consumption) [(up)](#foot8)
+1. Det är svårt att säga exakt hur stor arbetsplatslösheten är, och enligt Statistiska Centralbyrån och Arbetsmiljöverket finns ingen statistik i frågan. [(upp)](#foot1)
+2. För en definition av prekärt arbete, se engelska Wikipedia: [http://en.wikipedia.org/wiki/Precarious_work] (http://en.wikipedia.org/wiki/Precarious_work) [(upp)](#foot2)
+3. Se Rätten till arbete, hämtad från regeringens webbplats om mänskliga rättigheter: [http://www.manskligarattigheter.gov.se.] (http://www.manskligarattigheter.gov.se.) Publicerat 17 april 2012. Hämtat 1 juni 2012. [(upp)](#foot3)
+4. Jfr Mötesplatser i Stockholmsregionen – Rapport 2:2010, utgiven av Regionplanekontoret Stockholms Läns Landsting 2010: [http://www.tmr.sll.se/Publikationer/2010/Motesplatser-i-Stockholmsregionen] (http://www.tmr.sll.se/Publikationer/2010/Motesplatser-i-Stockholmsregionen) [(upp)](#foot4)
+5. För en definition av gentrifiering, se engelska Wikipedia: [http://en.wikipedia.org/wiki/Gentrification] (http://en.wikipedia.org/wiki/Gentrification) [(upp)](#foot5)
+6. Intervju med med Roland Paulsen, sociolog vid Uppsala universitet, författare till *Arbetssamhället – Hur arbetet överlevde teknologin*, 2010, Gleerups Utbildning AB. Studien som refereras är Burgard, S. A., Brand, J. E. & House, J. S. (2009), *Perceived job insecurity and worker health in the U nit ed States*, i Social Science & Medicine (69). [(upp)](#foot6)
+7. De studier om arbetspendling som refereras finns sammanfattade i Erika Sandows avhandling *On the road – Social aspects of commuting long distances to work*, 2011, Kulturgeografiska institutionen, Umeå Universitet: [http://www.avhandlingar.se/avhandling/a3da7332e9] (http://www.avhandlingar.se/avhandling/a3da7332e9/) [(upp)](#foot7)
+8. För en definition av kollaborativ konsumtion, se engelska Wikipedia: [http://en.wikipedia.org/wiki/Collaborative_consumption] (http://en.wikipedia.org/wiki/Collaborative_consumption) [(upp)](#foot8)
