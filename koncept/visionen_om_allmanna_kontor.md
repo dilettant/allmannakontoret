@@ -87,4 +87,4 @@ De allmänna kontoren handlar i stor utsträckning om att ta till vara på exist
 
 <hr id="footnotes"/>
 
-1. Internju med Faaid Ali-Nuur Ahmed, tidigare verksamhetsledare för Förorternas Riksdag (Forix), ett nätverk för samhälleligt deltagande för unga förortsbor mellan 15 och 25 år. [(upp)](#foot1)
+1. Intervju med Faaid Ali-Nuur Ahmed, tidigare verksamhetsledare för Förorternas Riksdag (Forix), ett nätverk för samhälleligt deltagande för unga förortsbor mellan 15 och 25 år: [http://forix.se] (http://forix.se) [(upp)](#foot1)
