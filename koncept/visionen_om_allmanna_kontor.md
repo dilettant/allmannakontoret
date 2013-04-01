@@ -62,11 +62,15 @@ Det bör även vara möjligt för kommunen och kommunala institutioner, t.ex. bi
 
 ## Finansieringsformer {#finansieringsformer}
 
-Hur varje enskilt allmänt kontor finansieras kan troligen komma att se mycket olika ut, men idén om en demokratiskt tillgänglig infrastruktur bygger på att det finns ett offentligt åtagande som möjliggör driften. På vissa platser kommer det att vara möjligt att göra vissa intäkter, etablera lokala samarbeten med näringslivet osv. Vi ser även möjligheter till att bostadsbolag och fastighetsägare kan vara intresserade av att upplåta lokaler billigt eller gratis under perioder, medan andra situationer kommer att kräva ett heltäckande offentligt stöd. 
+Hur varje enskilt allmänt kontor finansieras kan troligen komma att se mycket olika ut. Vi strävar efter att utveckla en organisatorisk modell där allmänna kontor kan initieras av lokala aktörer, enskilt eller i förening, och att dessa kan ansöka om att bedriva verksamheten på uppdrag av det offentliga eller i samverkan med t.ex. fastighetsbolag och det lokala närings- och föreningslivet. Det bör även vara möjligt för en kommun eller kommunal institution, t.ex. ett bibliotek, att initiera och driva allmänna kontor. 
+
+De allmänna kontoren kan vara långsiktiga projekt, men även tillfälliga platser som aktiverar och stimulerar en miljö under en kortare period. Målet är en mångfald av allmänna kontor, i lokalt initierade offentliga, privata och tvärsektoriella drifts- och finansieringsformer. En viktig aspekt i begreppet "allmänning" är möjligheten för lokala aktörer och kontorens användare att initiera och utveckla verksamheten utefter specifika lokala förutsättningar.
+
+Idén om en demokratiskt tillgänglig infrastruktur bygger till viss del på att det finns ett offentligt åtagande som möjliggör just en infrastruktur i större skala och på platser med skiftande förutsättningar. På vissa platser kommer det t.ex. att vara möjligt att göra vissa intäkter, etablera lokala samarbeten med näringslivet osv. Vi ser även möjligheter till att bostadsbolag och fastighetsägare kan vara intresserade av att upplåta lokaler billigt eller gratis under perioder, medan andra situationer kommer att kräva ett heltäckande offentligt stöd. 
   
 Detta innebär att förslaget, för att nå ett brett genomslag, förutsätter en politisk situation där utvecklings- och verksamhetsstöd för allmänna kontor kan sökas på liknande sätt som verksamhetsstöd för t.ex. kulturella verksamheter eller vid offentlig upphandling. Dessa stöd bör präglas av en seriös framförhållning för att säkerställa kontinuitet och professionalism i driften, men även flexibilitet vid initiativ avseende tillfälligt tillgängliga platser. 
-  
-Rimligtvis bör det huvudsakliga ekonomiska ansvaret ligga på kommunerna, med stöd från statlig politisk nivå. Det är även möjligt att tänka sig att projektet initieras från statlig nivå, i formen av en utredning eller ett myndighetsuppdrag om samverkan mellan berörda myndigheter.
+
+Samtidigt som ett offentligt engagemang är är en grundbult i förslaget, är det alltså viktigt att betona att konceptet just utgör ett förslag till samverkan mellan olika ekonomier och aktörer. Det är även mycket möjligt att även tänka sig privata och civilsamhälleliga aktörer som öppnar upp sina lokaler för allmänheten, och inte minst olika typer av samverkanskonstellationer. 
 
 ### Frågan om konkurrens med befintliga företag och aktörer  
 Idén om allmänna kontor har ibland mött frågor och synpunkter gällande konkurrensproblematik. Kritiken ligger då i att allmänna kontor skulle göra det svårt för existerande aktörer som hyr ut arbetslokaler.
