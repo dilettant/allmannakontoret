@@ -37,7 +37,7 @@ Då de allmänna kontoren föreslås vara offentliga platser, är de per definit
 * På liknande sätt är aktiva ungdomar hänvisade till specifika ungdomssatsningar, ungdomsgårdar eller organiserade fritidssysselsättningar, ävgränsade från aktiva vuxna människor. Allmänna kontor har potentialen att bli en yta där människor av alla åldrar kan vistas tillsammans när de vill bedriva projekt eller vardaglig administration.
 * Det ska inte krävas svenskt medborgarskap (eller svenskt samordningsnummer) för att få tillgång till de allmänna kontoren. 
 
-För att säkerställa platsens öppenhet och funktionalitet kommer det i de flesta fall krävas en kompetent personal som förmår balansera en sann tillgänglighet med en god arbetsmiljö, där uppsatta riktlinjer följs för att så många som möjligt ska känna sig välkomna. Med stor sannolikhet kommer de olika allmänna kontorens utformning i viss mån att locka olika sociala grupper och ha olika lokala förutsättningar, vilket innebär att varje plats måste utformas för den specifika miljön. 
+För att säkerställa platsens öppenhet och funktionalitet kommer det i de flesta fall krävas en kompetent personal som förmår balansera tillgänglighet med en god arbetsmiljö, där uppsatta riktlinjer följs för att så många som möjligt ska känna sig välkomna. Med stor sannolikhet kommer de olika allmänna kontorens utformning i viss mån att locka olika sociala grupper och ha olika lokala förutsättningar, vilket innebär att varje plats måste utformas för den specifika miljön. 
 
 ## Ägarformer och riktlinjer {#agarformer_och_riktlinjer}
 
