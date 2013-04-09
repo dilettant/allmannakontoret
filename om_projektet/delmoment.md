@@ -22,7 +22,7 @@ Genomfört med stöd av
 
 Allmänna kontoret delmoment II drevs av ett projektteam bestående av Anders Jacobson, Myriam Mazzoni, Victor Saiz & Johan Thelander. Kontoret designades av Marie de France, Anna Ingebrigtsen och Sam Kennedy och projektets grafiska design gjordes av Alba Plaza. Delmomentet genomfördes i samverkan med Arkitekturmuseet, EU-projektet Special Issue, Offecct AB och Fabel Kommunikation AB. 
 
-Detta andra delmoment innebar att vi öppnade upp researchprocessen från delmoment I genom att husera ett allmänt kontor på Arkitekturmuseet under fem veckor (30 oktober – 30 november 2012), och genom att bjuda in till dialogmöten kring idén.
+Under det andra delmomentet öppnade vi upp researchprocessen från delmoment I genom att husera ett allmänt kontor på Arkitekturmuseet under fem veckor (30 oktober – 30 november 2012), och genom att bjuda in till dialogmöten kring idén.
 
 Drygt tvåhundra personer kom för att använda det allmänna kontoret under projektets fem veckor, och ytterligare ca 130 personer kom för att få information om, och diskutera, idén.
 
@@ -31,10 +31,12 @@ Delmoment II finansierades av Europeiska Unionens kulturprogram, Kulturbryggan, 
 Projekttid: 1 juni 2012 – 28 februari 2013
 
 Genomfört med stöd av  
-![Logor Europeiska Unionens kulturprogram, Kulturbryggan, Offecc, Arkitekturmuseet och Stockholms Stads Kulturförvaltning](/assets/img/logos.png)
+![Logor Europeiska Unionens kulturprogram, Kulturbryggan, Offecc AB, Arkitekturmuseet och Stockholms Stads Kulturförvaltning](/assets/img/logos.png)
 
 ## Delmoment III {#delmoment_iii}
-Delmoment III planeras i samverkan med Stockholms Stadsbibliotek och Fabel Kommunikation AB. Delmomentet ska resultera i applicerbara och utvärderingsbara riktlinjer och användarvillkor för uppstart av lokala allmänna kontor i olika former, samt en plan för samverkan kring konkreta testverksamheter med Stockholms Stadsbibliotek. Delmoment III kommer primärt att genomföras i formen av arbets- och dialogmöten, intervjuer, workshops, föreläsningar, studiebesök, litteraturstudier och textproduktion. Resultatet kommer att tillgängliggöras i digital och tryckt form.
+Delmoment III planeras i samverkan med Stockholms Stadsbibliotek och Fabel Kommunikation AB. Delmomentet ska resultera i applicerbara och utvärderingsbara riktlinjer och användarvillkor för uppstart av lokala allmänna kontor i olika former, samt en plan för samverkan kring konkreta testverksamheter med Stockholms Stadsbibliotek.
+
+Detta delmoment kommer primärt att genomföras i formen av arbets- och dialogmöten, intervjuer, workshops, föreläsningar, studiebesök, litteraturstudier och textproduktion. Resultatet kommer att tillgängliggöras i digital och tryckt form.
 
 Allmänna kontoret är ett Open Source-initiativ, vilket innebär att ett av målen är att allmänna kontor ska kunna initieras, samägas, drivas och modifieras av lokala aktörer på eget initiativ. För att tydliggöra på vilka sätt och enligt vilka villkor detta kan genomföras, måste vi likt andra Open Source-initiativ förtydliga detta i en typ av ”licens”, där tydliga riktlinjer och användarvillkor artikuleras för att ge stöd, erfarenhet och ramar åt initiativtagare.
 
