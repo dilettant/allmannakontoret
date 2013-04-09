@@ -11,41 +11,31 @@ I det här avsnittet kan du läsa mer om de projektformer, medarbetare, samarbet
 
 ## Delmoment I {#delmoment_i}
 
-Allmänna kontoret, delmoment 1, initierades och drevs av Anders Jacobson och Johan Thelander, Dilettant AB. Möten hölls med ett antal aktörer inom kulturpolitik, offentlig förvaltning, stadsutveckling och arkitektur. Diskussioner fördes även i öppna sammanhang såsom workshops och festivaler med konstnärer, entreprenörer, teoretiker och studenter. Den projektrapport som producerades under projektets första delmoment ligger till grund för det vidare arbetet med att utveckla konceptet.
+Allmänna kontoret delmoment I drevs av Anders Jacobson och Johan Thelander – Dilettant AB. Möten hölls då med ett antal aktörer inom kulturpolitik, offentlig förvaltning, stadsutveckling och arkitektur. Diskussioner fördes även i öppna sammanhang såsom workshops och festivaler med konstnärer, entreprenörer, teoretiker och studenter. Den projektrapport som producerades under projektets första delmoment låg till grund för det vidare arbetet med att utveckla konceptet.
 
 Projekttid: 1 november 2011 – 1 juni 2012
 
-Genomfört med stöd av
-![Kulturbryggan](/assets/img/kb.png)
+Genomfört med stöd av  
+![Logo Kulturbryggan](/assets/img/kb.png)
 
 ## Delmoment II {#delmoment_ii}
 
-Delmoment II ägde rum under hösten 2012 i samverkan med Arkitekturmuseet, EU-projektet Special Issue, Offecct AB och Fabel Kommunikation AB. Projektteamet bestod av Anders Jacobson, Myriam Mazzoni, Victor Saiz & Johan Thelander. Kontoret designades av Marie de France, Anna Ingebrigtsen och Sam Kennedy, och projektets grafiska design gjordes av Alba Plaza.
+Allmänna kontoret delmoment II drevs av ett projektteam bestående av Anders Jacobson, Myriam Mazzoni, Victor Saiz & Johan Thelander. Kontoret designades av Marie de France, Anna Ingebrigtsen och Sam Kennedy och projektets grafiska design gjordes av Alba Plaza. Delmomentet genomfördes i samverkan med Arkitekturmuseet, EU-projektet Special Issue, Offecct AB och Fabel Kommunikation AB. 
 
-Under detta andra delmoment öppnade vi upp processen, dels genom att husera ett allmänt kontor på Arkitekturmuseet under fem veckor, och dels genom att bjuda in nyckelaktörer till dialogmöten kring idén. Vi träffade t.ex. 
-* Karin Bradley, lektor vid  avdelningen för urbana och regionala studier på KTH
-* Charlotta Mellander, professor i nationalekonomi 
-* Faaid Ali-Nuur Ahmed, Förorternas Riksdag (Forix)
-* Madeleine Sjöstedt (fp), kultur- och fastighetsborgarråd i Stockholm
-* Berit Högberg (s), riksdagsledamot
-* Ann-Margarethe Livh (v), gruppledare
-* Åsa Jernberg (mp), gruppledare
-* Roland Paulsen, doktorand i sociologi
-* Patrik Liljegren, Kulturstrategiska avdelningen Stockholms kulturförvaltning, 
-* Elisabeth Aldstedt och Giovanna Jörgenssen, Stockholms Stadsbibliotek
-* Niklas Svensson, stadsbyggnadsstrateg. 
+Detta andra delmoment innebar att vi öppnade upp researchprocessen från delmoment I genom att husera ett allmänt kontor på Arkitekturmuseet under fem veckor (30 oktober – 30 november 2012), och genom att bjuda in till dialogmöten kring idén.
 
-236 unika användare kom för att arbeta på kontoret under dessa fem veckor, och ytterligare ca 130 personer kom för att få information om, och diskutera, idén. Allmänna kontoret som plats och koncept möttes av stor nyfikenhet av disparata aktörer som visade aktivt intresse av att starta upp allmänna kontor i framtiden. 
+Drygt tvåhundra personer kom för att använda det allmänna kontoret under projektets fem veckor, och ytterligare ca 130 personer kom för att få information om, och diskutera, idén.
 
 Delmoment II finansierades av Europeiska Unionens kulturprogram, Kulturbryggan, Arkitekturmuseet och Stockholms Stads Kulturförvaltning, och var en del av EU-projektet [Special Issue](http://specialissue.eu), med partners i Frankrike, Serbien, Spanien och Turkiet. 
 
-![samarbete](/assets/img/logos.png)
+Projekttid: 1 juni 2012 – 28 februari 2013
+
+Genomfört med stöd av  
+![Logor Europeiska Unionens kulturprogram, Kulturbryggan, Offecc, Arkitekturmuseet och Stockholms Stads Kulturförvaltning](/assets/img/logos.png)
 
 ## Delmoment III {#delmoment_iii}
-Allmänna kontoret är ett Open Source-initiativ, vilket innebär att ett av målen är att allmänna kontor ska kunna initieras, samägas, drivas och modifieras av lokala aktörer på eget initiativ. För att tydliggöra på vilka sätt och enligt vilka villkor detta kan genomföras, måste vi likt andra Open Source-initiativ förtydliga detta i en typ av "licens", där tydliga riktlinjer och användarvillkor artikuleras för att ge stöd, erfarenhet och ramar åt initiativtagare. 
+Delmoment III planeras i samverkan med Stockholms Stadsbibliotek och Fabel Kommunikation AB. Delmomentet ska resultera i applicerbara och utvärderingsbara riktlinjer och användarvillkor för uppstart av lokala allmänna kontor i olika former, samt en plan för samverkan kring konkreta testverksamheter med Stockholms Stadsbibliotek. Delmoment III kommer primärt att genomföras i formen av arbets- och dialogmöten, intervjuer, workshops, föreläsningar, studiebesök, litteraturstudier och textproduktion. Resultatet kommer att tillgängliggöras i digital och tryckt form.
 
-Delmoment III är just nu under utveckling, och ska resultera i applicerbara och utvärderingsbara riklinjer och användarvillkor för uppstart av lokala allmänna kontor i olika former, samt en plan för samverkan kring konkreta testverksamheter i samverkan med Stockholms Stadsbibliotek. 
-
-Delmoment III kommer primärt att genomföras i formen av arbets- och dialogmöten, intervjuer, workshops, föreläsningar (varav två offentliga), studiebesök, litteraturstudier och textproduktion. Resultatet kommer att tillgängliggöras i digital och tryckt form.
+Allmänna kontoret är ett Open Source-initiativ, vilket innebär att ett av målen är att allmänna kontor ska kunna initieras, samägas, drivas och modifieras av lokala aktörer på eget initiativ. För att tydliggöra på vilka sätt och enligt vilka villkor detta kan genomföras, måste vi likt andra Open Source-initiativ förtydliga detta i en typ av ”licens”, där tydliga riktlinjer och användarvillkor artikuleras för att ge stöd, erfarenhet och ramar åt initiativtagare.
 
 
