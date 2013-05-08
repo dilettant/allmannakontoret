@@ -20,7 +20,7 @@ Genomfört med stöd av
 
 ## Delmoment II {#delmoment_ii}
 
-[Ladda ned rapport för Allmänna kontoret delmoment II](http://ubuntuone.com/2atmJOhX0hB87G0QDrlA7k) (PDF 4,4 MB)
+[Ladda ned rapport för Allmänna kontoret delmoment II](https://dl.dropboxusercontent.com/u/1319336/dl-dilettant/allmanna_kontoret-rapport_delmoment_II.pdf) (PDF 4,4 MB)
 
 Allmänna kontoret delmoment II drevs av ett projektteam bestående av Anders Jacobson, Myriam Mazzoni, Victor Saiz & Johan Thelander. Kontoret designades av Marie de France, Anna Ingebrigtsen och Sam Kennedy och projektets grafiska design gjordes av Alba Plaza. Delmomentet genomfördes i samverkan med Arkitekturmuseet, EU-projektet Special Issue, Offecct AB och Fabel Kommunikation AB. 
 
