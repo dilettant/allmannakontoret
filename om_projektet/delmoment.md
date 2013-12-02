@@ -3,6 +3,7 @@ layout: global
 title: delmoment
 ref: delmoment
 category: om_projektet
+published: true
 ---
 
 Idén om Allmänna kontor har utvecklats i olika former och artikuleringar sedan 2006. Under 2011 formulerades och lanserades konceptet i form av ett långsiktigt utvecklingsprojekt.
@@ -36,10 +37,6 @@ Genomfört med stöd av
 ![Logor Europeiska Unionens kulturprogram, Kulturbryggan, Offecc AB, Arkitekturmuseet och Stockholms Stads Kulturförvaltning](/assets/img/logos.png)
 
 ## Delmoment III {#delmoment_iii}
-Delmoment III planeras i samverkan med Stockholms Stadsbibliotek och Fabel Kommunikation AB. Delmomentet ska resultera i applicerbara och utvärderingsbara riktlinjer och användarvillkor för uppstart av lokala allmänna kontor i olika former, samt en plan för samverkan kring konkreta testverksamheter med Stockholms Stadsbibliotek.
+Delmoment III genomförs i samarbete med Stockholms Stadsbibliotek, inom ramen för ett nytt "Lärandecenter" i Hässelby gård. Lokalerna, som öppnar 2014, kommer bl.a. att inrymma bibliotek, kulturskola, jobbtorg och medborgarservice. Under projektperioden kommer vi att kartlägga förutsättningar och möjligheter för Allmänna kontoret inom ramen för Lärandecentret, samt göra ansökningar för en mer långsiktig finansiering av en testverksamhet i Hässelby gård. 
 
-Detta delmoment kommer primärt att genomföras i formen av arbets- och dialogmöten, intervjuer, workshops, föreläsningar, studiebesök, litteraturstudier och textproduktion. Resultatet kommer att tillgängliggöras i digital och tryckt form.
-
-Allmänna kontoret är ett Open Source-initiativ, vilket innebär att ett av målen är att allmänna kontor ska kunna initieras, samägas, drivas och modifieras av lokala aktörer på eget initiativ. För att tydliggöra på vilka sätt och enligt vilka villkor detta kan genomföras, måste vi likt andra Open Source-initiativ förtydliga detta i en typ av ”licens”, där tydliga riktlinjer och användarvillkor artikuleras för att ge stöd, erfarenhet och ramar åt initiativtagare.
-
-
+Projekttid: 22 november-31 december 2013
