@@ -38,75 +38,49 @@
 
 </head>
 <body class="{{page.category}}">
-<div class="container_12">
-  <div class="grid_8 alpha">
-    <h1 class="logo {{site.lang}}"><a href="{{site.baseurl}}">{{site.title}}</a></h1>
+<div class="container">
+
+
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <h1 class="logo {{site.lang}}"><a href="{{site.baseurl}}">{{site.title}}</a></h1>
+    </div>
   </div>
-  <div class="grid_4 omega postit">
-    <section>
-        <h1>{{site.dates}}</h1>
-        <h2>{{site.times}}</h2>
-        <p>{{site.join}}</p>
-        <a href="{{site.baseurl}}/{{site.bannername}}/">{{site.more}}</a>
-    </section>
-  </div>
-  <nav class="main grid_10 alpha">
-    <ul>
-      {% include partials/menu.part %}
+
+  <div class="row content">
+    <article class="col-md-8 col-md-offset-2">
+      {{content}}
+    </article>
+
+    <ul class="col-md-2 tools lang">
+      <li><a class="active" href="http://allmannakontoret.se/">{{site.swedish}}</a></li>
+      <li><a href="http://thepublicoffice.se/">{{site.english}}</a></li>
     </ul>
-  </nav>
-  <ul class="grid_2 tools omega lang">
-    <li><a class="active" href="http://allmannakontoret.se/">{{site.swedish}}</a></li>
-    <li><a href="http://thepublicoffice.se/">{{site.english}}</a></li>
-  </ul>
-  {% if page.noMenu %}
-  <div class="grid_3 alpha content">
-    {% include partials/sidebarpics.part %}
-    </div>
-    <div class="grid_8 omega content">
-  {% else %}
-    <div class="grid_3 alpha content">
-    {% include partials/submenu.part %}
-    </div>
-    <div class="grid_8 omega content">
-  {% endif %}
-    {{content}}
   </div>
-  <div class="grid_12">
-    <footer>
-      <section class="grid_5 alpha first">
-        <h1><a href="http://dilettant.se">Dilettant</a></h1>
-          {% for f in site.categories.footermain reversed %}
-            {{f.content | markdownify}}
-          {% endfor %}
-        </section>
-        <section class="grid_2 second">
-          <h1>{{site.support}}</h1>
-          <ul>
-            <li><a class="github" href="{{site.githubrepourl}}">Github</a></li>
-            <li><a class="flattr" href="{{site.flattrurl}}">Flattr</a></li>
-          </ul>
-        </section>
-        <section class="grid_2 alpha third">
-          <h1>{{site.connect}}</h1>
-          <ul>
-            <li><a class="twitter" href="https://twitter.com/_dilettant">Twitter</a></li>
-            <li><a class="facebook" href="https://www.facebook.com/pages/Dilettant/348667654399">Facebook</a></li>
-          </ul>
-        </section>
-        <section class="grid_3 newsletter fourth omega">
-          <h1>{{site.newsletter}}</h1>
-          <form id="subs" action="http://news.dilettant.se/" method="post">
-            <p>If you want to be kept in the loop, you can subscribe to Dilettant's newsletter where we will notify you about the status of the project.</p>
-            <input class="email" name="email" size="30">
-            <input type="hidden" name="return" value="izikc" />
-            <input name="lbqod" class="lbqod" placeholder="your@email.com">
-            <input type="submit" id="subscribe" name="action" class="subscribe nlbutton" value="Subscribe">
-            <input type="submit" id="unsubscribe" name="action" class="unsubscribe nlbutton" value="Unsubscribe">
-          </form>
-        </section>
-      </footer>
-  </div>
+
+  <footer class="row">
+    <section class="col-sm-6 first">
+      <h1><a href="http://dilettant.se">Dilettant</a></h1>
+        {% for f in site.categories.footermain reversed %}
+          {{f.content | markdownify}}
+        {% endfor %}
+      </section>
+      <section class="col-sm-3 second">
+        <h1>{{site.support}}</h1>
+        <ul>
+          <li><a class="github" href="{{site.githubrepourl}}">Github</a></li>
+          <li><a class="flattr" href="{{site.flattrurl}}">Flattr</a></li>
+        </ul>
+      </section>
+      <section class="col-sm-3 third">
+        <h1>{{site.connect}}</h1>
+        <ul>
+          <li><a class="twitter" href="https://twitter.com/_dilettant">Twitter</a></li>
+          <li><a class="facebook" href="https://www.facebook.com/pages/Dilettant/348667654399">Facebook</a></li>
+        </ul>
+      </section>
+    </footer>
+
 </div>
 <script src='{{site.assetsurl}}/assets/js/jquery.min.js'></script>
 <script src="{{site.assetsurl}}/assets/js/app.js"></script>

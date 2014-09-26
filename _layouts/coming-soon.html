@@ -1,0 +1,22 @@
+---
+layout: coming-soon-default
+---
+    <h1 id="top">{{page.title}}</h1>
+    <!-- {% include partials/tools.part %} -->
+
+    <h2 class="intro">{{page.intro | capitalize}}</h2>
+  <section>
+    {{ content }}
+
+    <form id="subs" action="http://news.dilettant.se/" method="post">
+      <label for="email">Namn</label>
+      <input class="email" name="email" size="30">
+      <input type="hidden" name="return" value="izikc" />
+
+      <label for="lbqod">E-post</label>
+      <input name="lbqod" class="lbqod" placeholder="your@email.com">
+      <input type="submit" id="subscribe" name="action" class="subscribe nlbutton" value="Subscribe">
+      <!-- <input type="submit" id="unsubscribe" name="action" class="unsubscribe nlbutton" value="Unsubscribe"> -->
+    </form>
+
+  </section>
