@@ -4,7 +4,7 @@ ishome: true
 noMenu: true
 main: true
 title: Allmänna kontoret
-intro: "Allmänna kontoret är en vision om lokala mötesplatser för delad kunskap"
+intro: "Lokala mötesplatser för delad kunskap"
 ref: index
 category: index
 pics: [index1.png, index2.png, index3.png]
