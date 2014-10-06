@@ -8,8 +8,6 @@ category: om_projektet
 
 ---
 
-Allmänna kontoret är ett långsiktigt utvecklingsprojekt som syftar till att artikulera en idé om öppna och kostnadsfria arbets- och mötesplatser, där allmänheten ges möjlighet att bedriva arbete och fortbildning. Fundamentet i idén om allmänna kontor handlar om att skapa kostnadsfria och demokratiskt tillgängliga strukturer för arbete, där människors tid och kompetenser kan delas och berika varandra.
-
-Idén om allmänna kontor utgör ett infrastrukturellt förslag och en politisk vision som syftar till att möta upp nya behov på de arbetsmarknader som utgörs av en växande andel frilans- och hemarbete. Under flera delmoment avser vi utforska konceptets möjligheter och potentiella funktioner på en allt mer rörlig arbetsmarknad, samt inom stadsplanering och lokal utveckling, näringslivsutveckling och integration.
+Allmänna kontoret utgår från uppfattningen att det behövs fler offentliga platser där människor i ett bostadsområde kan samlas för att vara aktiva tillsammans eller jämte varandra, mötas och knyta kontakter över generationsgränser, sysselsättning, social situation och kulturell bakgrund. Det kan handla om människor som annars studerar eller arbetar i sina hem eller på kaféer, som bedriver (eller vill bedriva) kulturella, ideella och sociala projekt och verksamheter, som letar efter sammanhang och kontakt för att utveckla idéer, som släktforskar, löser korsord eller som helt enkelt saknar platser där de kan uppleva gemenskap. 
 
 I den här sektionen kan du läsa mer om projektet och dess delmoment, samarbetspartners och finansiärer, samt några grundläggande ideologiska principer som projektet vilar på. För att gå djupare in i researcharbetet, besök koncept-sidorna.
