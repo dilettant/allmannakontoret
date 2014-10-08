@@ -4,12 +4,13 @@ ishome: true
 noMenu: true
 main: true
 title: Allmänna kontoret
-intro: "Allmänna kontoret är en vision om öppna och kostnadsfria arbets-och mötesplatser"
+intro: "Lokala mötesplatser för delad kunskap"
 ref: index
 category: index
 pics: [index1.png, index2.png, index3.png]
 ---
 
-Allmänna kontoret är ett långsiktigt utvecklingsprojekt som syftar till att artikulera en idé om öppna och kostnadsfria arbets- och mötesplatser, där allmänheten ges möjlighet att bedriva arbete och fortbildning. Under flera delmoment avser vi utforska konceptets möjligheter och potentiella funktioner på en allt mer rörlig arbetsmarknad, samt inom stadsplanering och lokal utveckling, näringslivsutveckling och integration.
+Allmänna kontoret är en vision om öppna och kostnadsfria mötes- och aktivitetsplatser där allmänheten kan att engagera sig i självorganiserade aktiviteter, arbete och fortbildning. Just nu samarbetar vi med Stockholms Stadsbibliotek med att ta fram en plan för ett första allmänt kontor på Hässelby gårds bibliotek och medborgarkontor. 
 
-Från denna webbplats utvecklar och delar vi med oss av researcharbetet. Tveka inte att kontakta oss, och bidra gärna till projektet med feedback och kommentarer, buggrapporter eller genom att sprida materialet.
+Anmäl dig till nyhetsbrevet om du vill att vi håller dig uppdaterad om hur det går!
+
