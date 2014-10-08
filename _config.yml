@@ -20,9 +20,9 @@ copyright: "This site is open source and is proudly hosted on GitHub."
 # join: "Kom till Allmänna kontoret på Arkitekturmuseet"
 # more: "Läs mer"
 # baseurl: http://allmannakontoret.se
-baseurl: /allmannakontoret
+baseurl: /allmannakontoret.se
 #assetsurl: http://allmannakontoret.se
-assetsurl: /allmannakontoret
+assetsurl: /allmannakontoret.se
 # bannername: arkitekturmuseet
 
 # prose: "http://prose.io/#dilettant/allmannakontoret/edit/gh-pages"

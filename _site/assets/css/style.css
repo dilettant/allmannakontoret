@@ -14,7 +14,7 @@ body{
   margin: 0;
   border-top: 4px solid;
   -webkit-font-smoothing: subpixel-antialiased;
-  background-image: url(/allmannakontoret/assets/img/grid.png);
+  background-image: url(/allmannakontoret.se/assets/img/grid.png);
 }
 textarea, input { outline: none; }
 a{
@@ -61,10 +61,10 @@ h1.logo a{
   margin-top: 25px;
 }
 h1.logo.sv a{
-  background: url(/allmannakontoret/assets/img/logo_sv.png) no-repeat -6px 0;
+  background: url(/allmannakontoret.se/assets/img/logo_sv.png) no-repeat -6px 0;
 }
 h1.logo.en a{
-  background: url(/allmannakontoret/assets/img/logo_en.png) no-repeat -6px 0;
+  background: url(/allmannakontoret.se/assets/img/logo_en.png) no-repeat -6px 0;
 }
 
 /* POSTIT
@@ -72,7 +72,7 @@ h1.logo.en a{
 .postit{
   text-align: center;
   display: none;
-  background: url(/allmannakontoret/assets/img/postit.png) no-repeat -1px -5px;
+  background: url(/allmannakontoret.se/assets/img/postit.png) no-repeat -1px -5px;
   height: 285px;
   margin: 0;
   width: 287px;
@@ -363,18 +363,18 @@ section ol li a:visited{
 }
 .edit a:link,
 .edit a:visited {
-  background: url(/allmannakontoret/assets/img/tools.png) no-repeat 0 3px;
+  background: url(/allmannakontoret.se/assets/img/tools.png) no-repeat 0 3px;
 }
 .edit a:hover,
 .edit a:active {
-  background: url(/allmannakontoret/assets/img/tools.png) no-repeat 0 -23px;}
+  background: url(/allmannakontoret.se/assets/img/tools.png) no-repeat 0 -23px;}
 .read a:link,
 .read a:visited{
-    background: url(/allmannakontoret/assets/img/tools.png) no-repeat -38px -23px;
+    background: url(/allmannakontoret.se/assets/img/tools.png) no-repeat -38px -23px;
 }
 .read a:hover,
 .read a:active {
-    background: url(/allmannakontoret/assets/img/tools.png) no-repeat -38px 3px;
+    background: url(/allmannakontoret.se/assets/img/tools.png) no-repeat -38px 3px;
 }
 .content p{
   clear: left;
@@ -386,10 +386,10 @@ section ol li a:visited{
   padding-bottom: 10px;
 }
 .index .nomenu{
-  background: url(/allmannakontoret/assets/img/index.png) no-repeat 0 60px;
+  background: url(/allmannakontoret.se/assets/img/index.png) no-repeat 0 60px;
 }
 .contact .nomenu{
-  background: url(/allmannakontoret/assets/img/contact.png) no-repeat 0 60px;
+  background: url(/allmannakontoret.se/assets/img/contact.png) no-repeat 0 60px;
 }
 .content article{
   float: left;
@@ -477,7 +477,7 @@ section ol li a:visited{
  }
  footer section.second li a,
  footer section.third li a{
-   background: url(/allmannakontoret/assets/img/tools.png) no-repeat;
+   background: url(/allmannakontoret.se/assets/img/tools.png) no-repeat;
    padding-left: 46px;
    height: 30px;
    display: block;
@@ -533,13 +533,13 @@ section ol li a:visited{
  footer h1 a:link,
  footer h1 a:active
  {
-   background: url(/allmannakontoret/assets/img/tools.png) no-repeat 0 -63px;
+   background: url(/allmannakontoret.se/assets/img/tools.png) no-repeat 0 -63px;
  }
  
  footer h1 a:hover,
  footer h1 a:visited
  {
-   background: url(/allmannakontoret/assets/img/tools.png) no-repeat -105px -63px;
+   background: url(/allmannakontoret.se/assets/img/tools.png) no-repeat -105px -63px;
  }
  footer section.first{
   margin-top: 53px;
