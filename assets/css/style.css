@@ -31,12 +31,9 @@ a:hover,
 a:active{
   text-decoration: underline;
 }
-
 .tools,
-.tools a,
-.content .tools a {
+.tools a{
   color: #d0cece;
-  font-size: 13px;
 }
 ul.tools li{
   float: right;
@@ -58,7 +55,7 @@ ul.tools li:last-child{
 h1.logo a{
   text-indent: -99999px;
   display: block;
-  height: 180px;
+  height: 230px;
   width: 300px;
   margin-top: 25px;
 }
@@ -298,7 +295,7 @@ nav.submenu > ul > li > ul {
   color: #898989;
 }
 .content{
-/*  padding-top: 60px; */
+  padding-top: 60px;
 }
 .content h1{
   font-size: 48px;
@@ -459,12 +456,10 @@ section ol li a:visited{
    color: #a9a9a9;
  }
  footer section{
-   /* clear: none;
+   clear: none;
    margin-top: 20px;
    margin-right: 1px;
    margin-bottom: 110px;
-   */
-   margin: 20px 0;
  }
  footer section h1{
    font: italic 700 16px 'Lora';

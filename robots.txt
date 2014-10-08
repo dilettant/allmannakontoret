@@ -3,5 +3,3 @@
 
 User-agent: *
 
-# Block all search engines!
-Disallow: /

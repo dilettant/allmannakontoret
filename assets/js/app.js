@@ -38,7 +38,7 @@ $(document).ready(function(){
 "Apr", "May", "Jun", "Jul", "Aug", "Sep", 
 "Oct", "Nov", "Dec");
 
-/*    $.ajax({
+    $.ajax({
       url: "http://search.twitter.com/search.json",
       dataType: 'jsonp',
       data: {"q": "%23" + hashtag, "from" : "@" + user, "result_type":"mixed"},
@@ -60,7 +60,7 @@ $(document).ready(function(){
           $('.twitter h1 a').attr({'href':url});
         }
       }
-    });*/
+    });
     
   // Readability
   var readab = document.getElementById('read');

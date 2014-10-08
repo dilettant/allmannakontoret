@@ -1,13 +1,15 @@
 ---
-layout: coming-soon
+layout: global
 ishome: true
 noMenu: true
 main: true
 title: Allmänna kontoret
-intro: "Lokala mötesplatser för delad kunskap"
+intro: "Allmänna kontoret är en vision om öppna och kostnadsfria arbets-och mötesplatser"
 ref: index
 category: index
-pics: [index1.png]
+pics: [index1.png, index2.png, index3.png]
 ---
 
-Världens första Allmänna Kontor öppnar i Hässelby Gård under 2015, om allt går enligt planen. Vill du veta mer om Allmänna Kontoret eller engagera dig i projektet? Föranmäl ditt intresse så hör vi av oss!
+Allmänna kontoret är ett långsiktigt utvecklingsprojekt som syftar till att artikulera en idé om öppna och kostnadsfria arbets- och mötesplatser, där allmänheten ges möjlighet att bedriva arbete och fortbildning. Under flera delmoment avser vi utforska konceptets möjligheter och potentiella funktioner på en allt mer rörlig arbetsmarknad, samt inom stadsplanering och lokal utveckling, näringslivsutveckling och integration.
+
+Från denna webbplats utvecklar och delar vi med oss av researcharbetet. Tveka inte att kontakta oss, och bidra gärna till projektet med feedback och kommentarer, buggrapporter eller genom att sprida materialet.
