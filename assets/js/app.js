@@ -8,15 +8,6 @@ function readability() {
   document.documentElement.appendChild(s);
 };
 
-function validateEmail($email) {
-  var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
-  if( !emailReg.test( $email ) ) {
-    return false;
-  } else {
-    return true;
-  }
-};
-
 $(document).ready(function(){
     //parse links, user id's, hashtags
     function linkify(d){
@@ -34,8 +25,8 @@ $(document).ready(function(){
 
     var user = '_dilettant';
     var hashtag = 'thepublicoffice';
-    var months = new Array("Jan", "Feb", "Mar", 
-"Apr", "May", "Jun", "Jul", "Aug", "Sep", 
+    var months = new Array("Jan", "Feb", "Mar",
+"Apr", "May", "Jun", "Jul", "Aug", "Sep",
 "Oct", "Nov", "Dec");
 
     $.ajax({
@@ -61,23 +52,13 @@ $(document).ready(function(){
         }
       }
     });
-    
+
   // Readability
   var readab = document.getElementById('read');
   readab.onclick = function(){
     readability();
     return false;
   };
-  $('.nlbutton').addClass('disabled').attr('disabled', 'disabled');
-
-  $('.lbqod').keyup(function (e) { 
-    var val = $(this).val();
-    if(validateEmail(val)) {
-      $('.nlbutton').removeClass('disabled').attr('disabled', null);
-    } else {
-      $('.nlbutton').addClass('disabled').attr('disabled', 'disabled');
-    }
-  });
 
   // Sticky menu
   // -----------
@@ -111,7 +92,7 @@ $(document).ready(function(){
       elm.css("position", "static"); //reset it to default positioning
     }
   });
-  
+
   // onload reposition menu if it overlaps
   // if(window.scrollY + elm.height() >= footerTop ) {
   //   elm.css({"position": "absolute", "top": footerTop - oritheig - 20, 'width': '220px'});

@@ -1,6 +1,6 @@
 ---
 ---
-/* @override 
+/* @override
   http://thepublicoffice.se//assets/css/style.css
   http://thepublicoffice.se/assets/css/style.css
   file:///Users/vectorsize/Dropbox/www/dilettant/nualmannakontoret/_site//assets/css/style.css
@@ -102,7 +102,7 @@ h1.logo.en a{
   font: italic 700 13px 'Lora';
   text-decoration: none;
   padding: 6px;
-  border-radius: 3px;  
+  border-radius: 3px;
 }
 .postit a{
   background-color: #00a77b;
@@ -128,7 +128,7 @@ nav.main ul li{
   padding: 8px 8px 4px;
   background-color: #f6f6f6;
 }
-nav.main ul li.index{
+nav.main ul li.hem{
   background-color: #2d83bb;
 }
 nav.main ul li.about,
@@ -201,7 +201,7 @@ nav.submenu > ul > li > ul > li:first-child{
 }
 nav.submenu > ul > li > ul > li a{
   font: italic 700 13px 'Lora';
-  text-transform: none;  
+  text-transform: none;
 }
 nav.submenu > ul > li.active > ul > li{
   background-color: #fff;
@@ -306,7 +306,7 @@ nav.submenu > ul > li > ul {
 nav.submenu.sticky{
   width: 220px;
   position: fixed;
-  z-index: 10;  
+  z-index: 10;
 }
 hr {
   margin-top: 40px;
@@ -319,7 +319,7 @@ hr {
 	font: 700 24px 'Josefin Slab', serif;
 	text-transform: uppercase;
 	color: #bb0038;
-	margin-bottom: 20px;	
+	margin-bottom: 20px;
 	padding-top: 20px;
 }
 section ol{
@@ -334,7 +334,7 @@ section ol li{
 }
 section ol li a:link,
 section ol li a:visited{
-	font-size: 14px;	
+	font-size: 14px;
 }
 .content h2.subtitle{
   font: italic 700 25px 'Lora';
@@ -396,7 +396,7 @@ section ol li a:visited{
   padding-left: 10px;
 }
 .nomenu.content article{
-  background-color: rgba(255, 255, 255, 0.93);  
+  background-color: rgba(255, 255, 255, 0.93);
 }
 .tools{
   margin-left: -4px;
@@ -435,7 +435,7 @@ section ol li a:visited{
 }
 
 /* FOOTER
-   ------ */ 
+   ------ */
  footer{
    font-size: 12px;
    margin: 70px 0 0;
@@ -532,7 +532,7 @@ section ol li a:visited{
  {
    background: url({{site.assetsurl}}/assets/img/tools.png) no-repeat 0 -63px;
  }
- 
+
  footer h1 a:hover,
  footer h1 a:visited
  {
@@ -558,7 +558,6 @@ section ol li a:visited{
   margin: 70px 0 0;
   float:left
  }
- footer .email{display:none} /* for the newsletter subscription */
  footer section.fourth p{
   margin-bottom: 1em;
  }
@@ -569,7 +568,7 @@ section ol li a:visited{
 }
 footer form button{
   padding: 5px;
-  color: #fff;  
+  color: #fff;
 }
 footer form input.nlbutton,
 footer form input.nlbutton.disabled:hover{
@@ -595,8 +594,15 @@ input:-moz-placeholder,
 input:-ms-input-placeholder {
    color: #cfcfcf;
 }
-footer form input.lbqod{
+footer form input.email{
  padding: 5px 0 5px 5px;
  color: #adadad;
  width: 212px;
+}
+footer form label {
+ position: absolute !important;
+ height: 1px;
+ width: 1px;
+ overflow: hidden;
+ clip: rect(1px, 1px, 1px, 1px);
 }

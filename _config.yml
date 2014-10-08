@@ -7,7 +7,7 @@ server:      false
 
 # SITE VARS
 # =========
- 
+
 title: Allmänna kontoret
 subtitle: "På Arkitekturmuseet<br>30 okt - 30 nov, 2012 "
 description: "The Public Office is a long-term development project that seeks to articulate an idea of open and rent-free work and meeting places, where the public is given the opportunity to engage in work and further education. During several project phases, we explore the concept’s possibilities and potential functions in an increasingly mobile labor market, as well as in urban planning and local community development, business development and integration."
@@ -26,7 +26,7 @@ bannername: arkitekturmuseet
 prose: "http://prose.io/#dilettant/allmannakontoret/edit/gh-pages"
 mainrepo : "_posts"
 repo : "_posts/amuseet/"
-githubrepourl: "https://github.com/dilettant/allmannakontoret#allmänna-kontoret" 
+githubrepourl: "https://github.com/dilettant/allmannakontoret#allmänna-kontoret"
 flattrurl: "https://flattr.com/thing/945925/allmannakontoret"
 
 lang: sv
