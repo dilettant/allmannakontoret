@@ -11,7 +11,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="title" content="{{site.title}}">
-  <meta name="description" content="{{site.description}}">   
+  <meta name="description" content="{{site.description}}">
   <meta name="author" content="{{site.author}}">
   <meta name="Copyright" content="{{site.copyright}}">
 
@@ -20,9 +20,9 @@
   <meta name="DC.subject" content="{{site.description}}">
   <meta name="DC.creator" content="{{site.author}}">
 
-  <link rel="shortcut icon" href="{{site.assetsurl}}/assets/img/favicon.png">     
+  <link rel="shortcut icon" href="{{site.assetsurl}}/assets/img/favicon.png">
   <link rel="apple-touch-icon" href="{{site.assetsurl}}/assets/img/touch-icon.png">
-  
+
   <link rel="stylesheet" href="{{site.assetsurl}}/assets/css/reset.css" />
   <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:400,700" rel="stylesheet" type="text/css">
   <link href="http://fonts.googleapis.com/css?family=Lora:700,400italic,700italic" rel="stylesheet" type="text/css">
@@ -90,13 +90,15 @@
         </section>
         <section class="grid_3 newsletter fourth omega">
           <h1>{{site.newsletter}}</h1>
-          <form id="subs" action="http://news.dilettant.se/" method="post">
+          <form id="subs" action="//dilettant.us9.list-manage.com/subscribe/post?u=ac24df0b855ca67fff3eba7ac&amp;id=899609f280" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" novalidate>
             <p>If you want to be kept in the loop, you can subscribe to Dilettant's newsletter where we will notify you about the status of the project.</p>
-            <input class="email" name="email" size="30">
-            <input type="hidden" name="return" value="izikc" />
-            <input name="lbqod" class="lbqod" placeholder="your@email.com">
-            <input type="submit" id="subscribe" name="action" class="subscribe nlbutton" value="Subscribe">
-            <input type="submit" id="unsubscribe" name="action" class="unsubscribe nlbutton" value="Unsubscribe">
+
+            <label for="mce-EMAIL">E-post:</label>
+            <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required placeholder="Din e-post">
+
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;"><input type="text" name="b_ac24df0b855ca67fff3eba7ac_899609f280" tabindex="-1" value=""></div>
+            <input type="submit" value="Prenumerera" name="action" id="subscribe" class="subscribe nlbutton">
           </form>
         </section>
       </footer>
@@ -104,7 +106,7 @@
 </div>
 <script src='{{site.assetsurl}}/assets/js/jquery-1.5.1.min.js'></script>
 <script src="{{site.assetsurl}}/assets/js/app.js"></script>
-<!-- Piwik --> 
+<!-- Piwik -->
 <script type="text/javascript">
 var pkBaseURL = (("https:" == document.location.protocol) ? "https://hybriskonst.org/piwik/" : "http://hybriskonst.org/piwik/");
 document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
@@ -114,6 +116,6 @@ var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
 piwikTracker.trackPageView();
 piwikTracker.enableLinkTracking();
 } catch( err ) {}</script>
-<noscript><img src="http://hybriskonst.org/piwik/piwik.php?idsite=1" style="border:0" alt="" /></noscript>  
+<noscript><img src="http://hybriskonst.org/piwik/piwik.php?idsite=1" style="border:0" alt="" /></noscript>
 </body>
 </html>

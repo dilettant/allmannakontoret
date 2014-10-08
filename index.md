@@ -1,5 +1,5 @@
 ---
-layout: global
+layout: coming-soon
 ishome: true
 noMenu: true
 main: true
@@ -7,10 +7,10 @@ title: Allmänna kontoret
 intro: "Lokala mötesplatser för delad kunskap"
 ref: index
 category: index
-pics: [index1.png, index2.png, index3.png]
 ---
 
-Allmänna kontoret är en vision om öppna och kostnadsfria mötes- och aktivitetsplatser där allmänheten kan att engagera sig i självorganiserade aktiviteter, arbete och fortbildning. Just nu samarbetar vi med Stockholms Stadsbibliotek med att ta fram en plan för ett första allmänt kontor på Hässelby gårds bibliotek och medborgarkontor. 
+##Lokala mötesplatser för delad kunskap
 
-Anmäl dig till nyhetsbrevet om du vill att vi håller dig uppdaterad om hur det går!
+Till hösten 2015 hoppas vi kunna öppna ett första allmänt kontor i Hässelby gård, tillsammans med Stockholms stadsbibliotek. Vill du veta mer om Allmänna kontoret eller engagera dig i projektet? Föranmäl ditt intresse så hör vi av oss.
 
+Läs mer om [visionen om Allmänna kontoret!](http://allmannakontoret.se/hem.html)
