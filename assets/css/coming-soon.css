@@ -21,7 +21,7 @@
 
 body {
   background-color: #fcdacb;
-  background-image: url({{site.assetsurl}}/assets/img/pink-pattern.png);
+  background-image: url(http://allmannakontoret.se/assets/img/pink-pattern.png);
 }
 
 /* PAGE
@@ -154,7 +154,7 @@ label {
 .footer {
   background-repeat: no-repeat;
   background-position: top center;
-  background-image: url({{site.assetsurl}}/assets/img/line.png);
+  background-image: url(http://allmannakontoret.se/assets/img/line.png);
   padding: 2.813em 0;
   overflow: hidden;
   width: 55.938em;
@@ -206,13 +206,13 @@ label {
   margin-right: 1em;
   float: left;
   margin-bottom: 100px;
-  background: url({{site.assetsurl}}/assets/img/tools2.png) no-repeat 0 -63px;
+  background: url(http://allmannakontoret.se/assets/img/tools2.png) no-repeat 0 -63px;
 }
 
 .footer__first h1 a:hover,
 .footer__first h1 a:focus,
 .footer__first h1 a:active {
-  background: url({{site.assetsurl}}/assets/img/tools2.png) no-repeat -105px -63px;
+  background: url(http://allmannakontoret.se/assets/img/tools2.png) no-repeat -105px -63px;
 }
 
 .footer__first p {
@@ -227,7 +227,7 @@ label {
 
 .footer__second a,
 .footer__third a {
-  background: url({{site.assetsurl}}/assets/img/tools2.png) no-repeat;
+  background: url(http://allmannakontoret.se/assets/img/tools2.png) no-repeat;
   padding-left: 46px;
   height: 30px;
   display: block;
