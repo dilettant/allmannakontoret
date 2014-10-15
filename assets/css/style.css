@@ -128,7 +128,8 @@ nav.main ul li{
   padding: 8px 8px 4px;
   background-color: #f6f6f6;
 }
-nav.main ul li.hem{
+nav.main ul li.hem,
+nav.main ul li.home{
   background-color: #2d83bb;
 }
 nav.main ul li.about,

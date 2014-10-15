@@ -96,7 +96,7 @@ label {
   text-align: right;
   font-family: "Josefin Slab", serif;
   float: left;
-  width: 4.583em;
+  width: 5em;
   font-size: 1.5em;
   line-height: 1.667;
 }
@@ -105,7 +105,7 @@ label {
   -webkit-appearance: none;
   float: right;
   border: 1px solid #bfe7d9;
-  width: 31.625em;
+  width: 420px;
   padding: 0 0.625em;
   height: 2.5em;
   line-height: 2.5;
