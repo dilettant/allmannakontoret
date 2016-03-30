@@ -6,6 +6,8 @@ Allmänna kontoret är ett initiativ av [Dilettant](http://dilettant.se). Vi dri
 
 [dilettant.se](http://dilettant.se)  
 +46 (0)8 12 15 32 09  
-<SCRIPT TYPE="text/javascript"><!--emailE='dilettant.se'
+<SCRIPT TYPE="text/javascript"><!--
+emailE='dilettant.se'
 emailE=('admin' + '@' + emailE)
-document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')//--> </script><NOSCRIPT>*För att se e-postadressen måste du tillåta JavaScript.*</NOSCRIPT>
+document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')//-->
+</script><NOSCRIPT>*För att se e-postadressen måste du tillåta JavaScript.*</NOSCRIPT>
